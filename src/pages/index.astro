@@ -1,11 +1,30 @@
 ---
-import { Icon } from 'astro-icon/components';
 import Layout from '../layouts/Layout.astro';
-import Navbar from '../components/Navbar.astro';
+import '../styles/global.css';
+
+
+const allNewsPosts = await Astro.glob(`./content/*.md`)
+const newsPosts = allNewsPosts.map(n => ({
+  title: n.frontmatter.title,
+  slug: n.frontmatter.slug,
+  Content: n.Content,
+  
+}));
+
+
 ---
 
 <Layout title="SFT Report">
-
+    <div class="mx-auto max-w-7xl  pb-8  sm:pt-24 md:py-10 lg:py-20">
+        {
+            newsPosts.map(({ title, slug, Content }) => (
+                <h2 class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 " id={slug}>{title}</h2>
+                <Content class="pt-10" />
+            ))
+          }
+     
+    </div>
+   
 	  
 
 </Layout>

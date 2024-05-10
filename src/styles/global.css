@@ -1,0 +1,19 @@
+
+    ul li {
+        list-style-type: disc;
+     }
+     ul,ol{
+        padding: 10px;
+     }
+     ol{
+        list-style-type:decimal;
+     }
+
+     .footnotes{
+        margin-top:20px;
+        font-size: 14px;
+        border-top: 2px solid lightgray;
+     }
+     .footnotes ::marker{
+        font-weight: bold;
+     }
