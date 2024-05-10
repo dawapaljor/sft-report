@@ -1,6 +1,7 @@
 ---
 title: Executive Summary
 slug: executivesummary
+order: 1
 ---
 
 This report documents acts of transnational repression (TNR) carried out by supporters of the Chinese Communist Party (CCP) against protesters during the visit to San Francisco in November 2023 of Xi Jinping, President of the People’s Republic of China. In all, 34 cases of harassment, intimidation and assault are presented. 
@@ -18,3 +19,5 @@ The report makes 18 recommendations to the White House, relevant federal agencie
 - Offer protection to groups on US soil subject to TNR, including by expediting asylum cases and upgrading the existing Deferred Enforced Departure program for Hong Kongers to a Temporary - Protected Status (TPS) designation.
 - Pass legislation creating resources to combat TNR, such as the Transnational Repression Policy Act (H.R. 3654/S.831), the Stop Transnational Repression Act (H.R. 5907), the Combating - Transnational Repression Act of 2024 (H.R. 7443), the Law Enforcement Support and Transnational Repression Hotline Act (H.R. 7433), and the Strengthening State and Local Efforts to Combat - Transnational Repression Act (H.R. 7439).
 - Maintain relations with a diversity of AANHPI groups representing different political views and identities and conduct due diligence on these groups’ backgrounds.
+
+

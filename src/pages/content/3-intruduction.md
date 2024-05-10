@@ -1,6 +1,7 @@
 ---
 title: introduction
 slug: intro
+order: 3
 ---
 In November 2023, Xi Jinping, President of the People’s Republic of China (PRC), came to San Francisco to attend the Asia-Pacific Economic Cooperation (APEC) summit and meet United States (US) President Joe Biden. During Xi’s stay in the city from November 14 to 17, hundreds of Chinese, Hong Kongers, Tibetans, and Uyghurs demonstrated against Xi and the CCP’s harsh crackdown in their homelands. Dozens of protesters were harassed, intimidated, and assaulted. These attacks were carried out by CCP supporters in what appeared to be an organized and coordinated manner. Leaders of united front groups in the US linked to the CCP were involved in the attacks. The attacks constitute transnational repression (TNR), as they targeted opponents of the CCP in the US. Although the US government has identified countering TNR as a top priority, awareness and preparation on the part of law enforcement authorities in San Francisco appeared inadequate.[^1]
 

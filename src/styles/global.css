@@ -1,4 +1,8 @@
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+   /*
     ul li {
         list-style-type: disc;
      }
@@ -8,12 +12,53 @@
      ol{
         list-style-type:decimal;
      }
-
+*/
+      .report img{
+         border-radius: 20px;
+      }
      .footnotes{
         margin-top:20px;
         font-size: 14px;
+        color: gray;
         border-top: 2px solid lightgray;
      }
      .footnotes ::marker{
         font-weight: bold;
      }
+   iframe{
+      padding: 20px;
+   }  
+  
+
+   @layer base {
+      h1 {
+        @apply mt-8 text-2xl;
+      }
+      h2 {
+         @apply text-3xl;
+         @apply font-bold
+      }
+      h3 {
+         @apply text-2xl;
+         @apply font-bold
+      }
+      h4 {
+         @apply text-xl;
+         @apply font-bold;
+      }
+      ul{
+         @apply py-5;
+         @apply pl-5;
+         @apply list-disc
+      }
+      ol{
+         @apply py-5;
+         @apply pl-5;
+         @apply list-decimal	
+      }
+      .report img{
+         @apply p-3;
+         @apply rounded-lg;
+         @apply w-80;
+      }
+    }
