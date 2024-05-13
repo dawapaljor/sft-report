@@ -1,6 +1,6 @@
 ---
 title: The US Government on Countering Transnational Repression
-slug: intro
+slug: countering
 order: 5
 ---
 
