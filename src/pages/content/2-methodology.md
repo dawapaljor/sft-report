@@ -15,7 +15,7 @@ We have attempted to contact all of those identified in the report as CCP suppor
 The URLs of sources cited in the report were operative as of April 4, 2024. They were also saved at Internet Archive on or before that date. 
 
 
-<iframe src="https://drive.google.com/file/d/1KWx5tUFSCsYaIp-4HiiYJj4FrP4lbBim/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1KWx5tUFSCsYaIp-4HiiYJj4FrP4lbBim/preview" width="100%" height="auto" allow="autoplay"></iframe>
 
 ## Demo Video embed from Google drive
 ### Heading 3

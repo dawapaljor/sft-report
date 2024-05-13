@@ -22,13 +22,16 @@
         color: gray;
         border-top: 2px solid lightgray;
      }
+     .footnotes a{
+      word-wrap: break-word;
+     }
      .footnotes ::marker{
         font-weight: bold;
      }
    iframe{
       padding: 20px;
    }  
-  
+   
 
    
    @layer base {

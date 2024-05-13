@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import '../styles/global.css';
 import Sidebar from '../components/Sidebar.astro';
+import StickyNavBottom from '../components/StickyNavBottom.astro';
 
 const allNewsPosts = await Astro.glob(`./content/*.md`)
 const newsPosts = allNewsPosts.map(n => ({
@@ -12,11 +13,10 @@ const newsPosts = allNewsPosts.map(n => ({
 ---
 
   <Layout title="SFT Report">
-  <div class="mx-auto max-w-screen-8xl grid grid-cols-12">
-    <div class="h-screen sticky top-0  border-r-2  col-span-3 mt-28">
-      <Sidebar/>
-    </div>
-    <div class="report pb-8 sm:pt-24 md:p-10 lg:py-20 col-span-9">
+  <div class="mx-auto max-w-screen-8xl md:grid sm:grid-cols-1 lg:grid-cols-12">
+     <Sidebar/>
+
+    <div class="report pb-8   p-5 md:p-10 lg:py-20 sm:col-span-1 lg:col-span-9  ">
       {
           newsPosts.map(({ title, slug, Content }) => (
               <h2 class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 " id={slug}>{title}</h2>
@@ -24,7 +24,7 @@ const newsPosts = allNewsPosts.map(n => ({
           ))
     }  
   </div>
-
+  <StickyNavBottom/>
   </div> 
 </Layout>
 
