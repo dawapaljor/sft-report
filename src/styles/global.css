@@ -32,20 +32,26 @@
 
    
    @layer base {
+      p{
+         @apply py-3
+      }
       h1 {
         @apply mt-8 text-2xl;
       }
       h2 {
          @apply text-3xl;
-         @apply font-bold
+         @apply font-bold;
+         @apply pt-5
       }
       h3 {
          @apply text-2xl;
-         @apply font-bold
+         @apply font-bold;
+         @apply pt-5;
       }
       h4 {
          @apply text-xl;
          @apply font-bold;
+         @apply pt-5;
       }
       ul{
          @apply py-5;
