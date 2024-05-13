@@ -30,6 +30,7 @@
    }  
   
 
+   
    @layer base {
       h1 {
         @apply mt-8 text-2xl;

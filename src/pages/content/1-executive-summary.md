@@ -20,4 +20,3 @@ The report makes 18 recommendations to the White House, relevant federal agencie
 - Pass legislation creating resources to combat TNR, such as the Transnational Repression Policy Act (H.R. 3654/S.831), the Stop Transnational Repression Act (H.R. 5907), the Combating - Transnational Repression Act of 2024 (H.R. 7443), the Law Enforcement Support and Transnational Repression Hotline Act (H.R. 7433), and the Strengthening State and Local Efforts to Combat - Transnational Repression Act (H.R. 7439).
 - Maintain relations with a diversity of AANHPI groups representing different political views and identities and conduct due diligence on these groups’ backgrounds.
 
-
