@@ -69,6 +69,8 @@
       .report img{
          @apply p-3;
          @apply rounded-lg;
-         @apply w-80;
+         @apply w-1/2;
+         @apply shadow-md;
+         @apply object-center;
       }
     }
