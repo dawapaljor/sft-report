@@ -32,7 +32,10 @@
       padding: 20px;
    }  
  
- 
+ .img-sm{
+   max-width:300px;
+   display: inline;
+ }
    
    @layer base {
       p{
