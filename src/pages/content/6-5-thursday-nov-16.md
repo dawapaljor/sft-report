@@ -127,3 +127,41 @@ He was also present at the assault on Wang Wei on the 15th and as one of the sco
 </div>
 
 The bald-headed Chen Wenshen (陳文深) was also present during the attacks at the Moscone Center, as he had been just a short time before when Chen Chuangchuang was pepper-sprayed as well as on other occasions including the assault on Wang Wei near the St Regis on the 15th, near the barricade attack on Tibetan and Hong Kong protesters near the Hyatt Regency on the 15th (see above), and at the airport on the 17th (see below). 
+
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-3 pt-5">
+    <img src="/images/Chen-Wenshen-and-Guo-Jianwei-blocking-Chen's-companions-16nov23-Moscone-Center.png" alt="Chen Wenshen and Guo Jianwei blocking Chen's companions 16nov23 Moscone Center" class="w-full"/>
+    <img src="/images/Chen Wenshen Moscone Center 16nov23-min.png" alt="Chen Wenshen Moscone Center 16nov23" class="w-full"/>
+</div>
+
+Liu Yijiang also identified Liu Baohai (劉寶海) (left) and the man standing next to him as involved in the attacks.
+
+<img src="/images/Liu-Baohai-and-one-other.jpeg" alt="Liu Baohai and one other.jpeg" class="w-1/2"/>
+
+Liu Baohai was also involved in the attack on Tibetan protesters at the designated protest zone across from the Hyatt Regency on the 15th and has been seen at other pro-CCP events in the past. (See above.)
+
+Prior to the attacks on Chinese protesters near the Moscone Center, a group of Vietnamese protesters had been gathered at the same location. Some members of the China Democracy Party joined them. One of the Vietnamese protesters had a placard depicting Xi Jinping. This excited the wrath of the CCP supporters who began attacking the Vietnamese protesters. In fact, the Vietnamese protesters had been on the scene first, along with a handful of Chinese protesters, and the CCP supporters attempted to supplant them, mixing in with them and covering their flags and posters with PRC flags. Liu Baohai was also involved in that incident. 
+
+<iframe src="https://drive.google.com/file/d/1hLATdAat6w9Cmkwh7RG2D2hWueVVzJ00/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
+
+A united front leader from San Francisco was also present during the harassment and intimidation of the Vietnamese and Chinese protesters. Her name is Jennifer Cheung/Chung (張藍真/張蘭真; also sometimes referred to in pinyin as Zhang Lanzhen). She can also be seen in the above video. Below she holds a long flagpole with a PRC flag on it, pointing it toward the protesters in a threatening manner:
+
+<img src="/images/Jennifer-Cheung-Moscone-Center-16nov23-3.png" alt="Jennifer Cheung Moscone Center 16nov23 3" class="w-1/2"/>
+
+Cheung is chair of the Rape of Nanking Redress Coalition (南京大屠殺索賠聯盟) and President of the Global Alliance for Preserving the History of WWII in Asia (世界抗日戰爭史實維護聯合會; the literal translation is “Global Alliance for Safeguarding the Historical Truth of the Anti-Japan War”), the latter as reported on the Alliance for China’s Peaceful Reunification website.
+
+On the 17th, she was at the San Francisco International Airport, where she played a key role. (See below for more on that and other information about her united front activities and network.)
+
+Both Chen Wenshen and Jennifer Cheung can be seen briefly in a video of the assault on Hu Tingfeng (with the assaults on Liu Yijiang and Jiao Ruilin occurring nearby). The following are screenshots from the video.
+
+
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-3 pt-5">
+    <img src="/images/Screen-Shot-2024-04-12-at-7.39.18-PM.png" alt="Screen Shot 2024-04-12 at 7.39.18 PM" class="w-full"/>
+    <img src="/images/Screen-Shot-2024-04-12-at-7.39.54-PM.png" alt="Screen Shot 2024-04-12 at 7.39.54 PM" class="w-full"/>
+</div>
+
+Chen in particular appears to have actively participated in the assault. 
+
+Chinese protester Li Delong (李德龍) was attacked near the Moscone Center. He said he was knocked unconscious, his head and mouth were bleeding, he was sent to the hospital by ambulance for treatment, and he filed a report with the San Francisco Police Department on November 21.
+
+Other assaults on November 16 were reported in the media or on social media, including the following. Chinese protester He Ruizhong (賀瑞忠) reported being beaten by several security guards working with CCP supporters on the sidewalk outside Oren’s Hummus restaurant across the street from the Hyatt Regency. Chinese protester Ge Kaiying (葛開英) reported being attacked around noon around Fourth Street near the Moscone Center. She said the attacker stepped on her feet, stole a box she was carrying and then hit her. She identified the attacker as Li Huahong, the head of the Chinese Anti-Cult World Alliance who was also involved in the assault on Jia Junwei near the St Regis on the 14th and the attack on the designated protest area across the street from the Hyatt Regency on the 15th. (See above) A Chinese protester named Victor Yuen as well as Chinese protester Chen Weiming (陳維明) reported the beating of another China Democracy Party member who was taken to an ambulance for treatment. This occurred near the Hyatt Regency. 
+
