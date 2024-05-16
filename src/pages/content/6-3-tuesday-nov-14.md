@@ -72,7 +72,7 @@ In addition to having participated in the harassment and intimidation of Li Huan
 
 Ma is from Jilin province. Her factory was forcibly seized in 2001, and since then, she has been seeking compensation. She was arrested in 2017 in Florida for blocking Xi Jinping’s motorcade.[^84] In San Francisco, she was searching for a place where she might do the same when she came across these scouts. Not only is Jing Dongsheng present; so are other recognizable united front figures. Two of them appear together with him in the same frame:
 
-<img src="images/Ma-Yongtian-video-2-min.png" alt="Ma Yongtian video 2-min" class="w-full "/>
+<img src="images/Ma-Yongtian-video-2.png" alt="Ma Yongtian video 2-min" class="w-full "/>
 
 Both of them were seen elsewhere on the streets of San Francisco. One is named Yu Yingqiang (余穎強). He was seen acting as a lookout near the Hyatt Regency Hotel on November 15 and was among the crowd of CCP supporters that assaulted Tibetan protester Chemi Lhamo near the airport on November 17. On the evening of November 15, he assaulted an elderly Hong Kong protester near the Hyatt Regency hotel where a banquet for Xi Jinping was being held. (See below for details.) The other man is Rong Junwu (容鈞武). He was also part of a group of CCP supporters that assaulted several Chinese protesters near the Moscone Center on November 16 and at the San Francisco International Airport on November 17. (See below for details.)
 
@@ -192,7 +192,8 @@ A CACWA banner was hung on a barricade near an attack on Tibetan and Hong Kong p
 </figcaption>
 </figure>
 
-
+[^63]: For scenes from the area near the airport earlier on the 14th, see the following video from 30” onward: 追新聞 The Chaser, “APEC峯會｜習近平專機抵三藩市 示威者租飛機展示「End CCP Free China Free HK Free Tibet Free Uighur」,” 14 Nov 23, https://youtu.be/zSUjIkJ_fiA?feature=shared.
+[^64]: Interview with Topjor Tsultrim.
 [^65]: Ibid.
 [^66]: Chloe Shrager, “Bloody clashes erupt between pro-, anti-China demonstrators at APEC,” San Francisco Chronicle, 17 Nov 2023, https://www.sfchronicle.com/bayarea/article/fights-erupt-pro-china-anti-china-demonstrators-18497480.php.
 [^67]: 世界電子報, “僑界赴金山挺習近平 組千人巴士團 保安荷槍實彈護航,” 15 Nov 2023, https://www.worldjournal.com/wj/story/121359/7575395.

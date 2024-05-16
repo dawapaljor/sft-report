@@ -91,7 +91,7 @@ In 1999, he co-founded the American Fuzhou Langqi United Association (美國福�
 
 In San Francisco, Chen led supporters to “welcome” Xi outside the St Regis Hotel, where the Chinese delegation was staying, on November 14. Some of them harassed and intimidated protesters. 
 
-<iframe src="https://drive.google.com/file/d/1Euklhd43btG6zhk6y94RloMi_RKZeXww/preview" class="sm:w-full lg:w-1/2 h-80" allow="autoplay"></iframe>[^60]
+<iframe src="https://drive.google.com/file/d/1Euklhd43btG6zhk6y94RloMi_RKZeXww/preview" class="sm:w-full lg:w-1/2 h-80" allow="autoplay">[^60]</iframe>
 
 Besides united front figures like Lu Qiang and Chen Shanzhuang who organized the mobilization and transport of CCP supporters to San Francisco from, respectively, southern California and New York, several other prominent united front leaders participated in the “welcoming” of Xi Jinping in San Francisco. They will be noted as they appear in the timeline of events below. 
 
