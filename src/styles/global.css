@@ -38,6 +38,11 @@
    max-width:300px;
    display: inline;
  }
+ blockquote{ 
+   background-color: lightgray;
+   padding: 0px 10px;
+   border-radius: 5px;
+}
    
    @layer base {
       p{
