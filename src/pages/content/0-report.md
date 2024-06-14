@@ -1714,21 +1714,22 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^45]: The screenshot is from the 30:00 mark in ABC7 News Bay Area’s report “Dueling protests clash during Biden-Xi summit in CA,” 15 Nov 23, <https://youtu.be/TbOWC4fRYcM?si=aAeoa65v6UDzKviD>. 
 [^46]: The screenshot is from the 45:00 mark in ABC7 News Bay Area’s report “Dueling protests clash during Biden-Xi summit in CA,” 15 Nov 23, <https://youtu.be/TbOWC4fRYcM?si=aAeoa65v6UDzKviD>. 
 [^47]: Propublica Nonprofit Explorer, America Cultural Center Of Chinese Minorities, <https://projects.propublica.org/nonprofits/organizations/270167038>. There is a small discrepancy between the English name on its banner in San Francisco, America Cultural Center of the Chinese Minority, and the name under which it is registered as a 501(c)3 nonprofit, America Cultural Center of Chinese Minorities. It appears that the same organization may have been previously registered as America Cultural Center of the Chinese Minorities (see opencorporates, <https://opencorporates.com/companies/us_ca/2771780>). Because the registrations do not provide the Chinese name of the organization, it is difficult to know for certain whether or not all three are the same organization. Both registrations were at southern California addresses in Arcadia and San Gabriel. 
-[^48]: 
-[^49]: 
-[^50]: 
-[^51]: 
-[^52]: 
-[^53]: 
-[^54]: 
-[^55]: 
-[^56]: 
-[^57]: 
-[^58]: 
-[^59]: 
-[^60]: 
-[^61]: 
-[^62]: 
+[^48]: 世界日報, “僑界赴金山挺習近平 組千人巴士團 保安荷槍實彈護航,” 15 Nov 2023, https://www.worldjournal.com/wj/story/121359/7575395; 
+星島日報, “南加州華人華僑近千人 赴三藩市迎接習近平到訪,” 15 Nov 2023, https://www.singtaousa.com/2023-11-15/%E5%8D%97%E5%8A%A0%E5%B7%9E%E8%8F%AF%E4%BA%BA%E8%8F%AF%E5%83%91%E8%BF%91%E5%8D%83%E4%BA%BA%E2%80%82%E8%B5%B4%E4%B8%89%E8%97%A9%E5%B8%82%E8%BF%8E%E6%8E%A5%E7%BF%92%E8%BF%91%E5%B9%B3%E5%88%B0%E8%A8%AA/4667950.
+[^49]:  华联社(华人联合通讯社), ”第十一次全国归侨侨眷代表大会圆满落幕 南加州华人代表备受鼓舞,” 5 Sep 2023, https://huarenone.com/2023/09/05/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E5%9B%BD%E5%BD%92%E4%BE%A8%E4%BE%A8%E7%9C%B7%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%9C%86%E6%BB%A1%E8%90%BD%E5%B9%95-%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%8D%8E/.
+[^50]: “上海市侨联第十届委员会有关名单,” 6 Jan 2015, https://www.shanghaiql.org/detailpage/qlwy-131897d9-c146-11ec-b566-7c8ae163e649.html; “上海市侨联第十一届委员会有关名单”,” 4 July 2018
+[^51]: Alex Joske, "Reorganizing the United Front Work Department: New Structures for a New Era of Diaspora and Religious Affairs Work,” The Jamestown Foundation, 9 May 2019, https://jamestown.org/program/reorganizing-the-united-front-work-department-new-structures-for-a-new-era-of-diaspora-and-religious-affairs-work/.
+[^52]: 中国侨网版, “‘海外列席侨胞“两会印象’：收获一生难忘,” 13 Mar 2015, http://www.chinaqw.com/hqhr/2015/03-13/41377.shtml.
+[^53]: Chinese News USA, “美國南加州華人社團聯合會舉行第十屆領導機構就職典禮,” 30 Apr 2022, http://www.chinesenewsusa.com/news/show-35367.html.
+[^54]: US-China Restaurant Alliance entry on 鹿强/Charles Lu, https://u-cra.com/profile/%E9%B9%BF%E5%BC%BAcharles-lu/
+[^55]: 世界日報, “拜習會外傳武鬥 「皇帝」毆打示威者,” 16 Nov 2023, https://www.worldjournal.com/wj/story/121519/7578092.
+[^56]: See New Tang Dynasty Television, "APEC峰會中共僱凶打人 幕後黑手身分曝光,” 18 Nov 2023,
+[^57]: In this short video clip, Chen Shanzhuang can be seen leading a crowd of CCP supporters in San Francisco. He is also interviewed herein, and the badge of the American Chinese Commerce Association (Hong Kong) can be clearly seen on his chest: 不那么快讯 post, 27 Nov 2023, https://x.com/Soh_Shorts/status/1729298341354438661?s=20. The Facebook page of the American Chinese Commerce Assocation (Hong Kong) appears to have fallen into disuse: https://www.facebook.com/p/%E7%BE%8E%E5%9C%8B%E9%A6%99%E6%B8%AF%E6%97%85%E7%BE%8E%E8%8F%AF%E4%BA%BA%E7%B8%BD%E5%95%86%E6%9C%83-American-Chinese-Commerce-AssociationHK-100069852020888/.
+[^58]: 星島日報, “亞總會8大道新辦公室剪綵,” 9 Nov 2023, https://www.singtaousa.com/2023-11-09/%E4%BA%9E%E7%B8%BD%E6%9C%838%E5%A4%A7%E9%81%93%E6%96%B0%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%89%AA%E7%B6%B5/4661708#page3.
+[^59]: See American Chinese Commerce Association (Hong Kong)/美國(香港)旅美華人總商會, “會長 陳善莊 John Chan,” http://www.accahk97.org/%E4%BC%9A%E5%B1%95/%E7%8F%BE%E4%BB%BB%E6%9C%83%E9%95%B7-%E9%99%B3%E5%96%84%E8%8E%8A-john-chan/, and Embassy of the People’s Republic of China in the Republic of Singapore, “美国纽约侨界揭批“法轮功,” 5 Feb, 2001, http://sg.china-embassy.gov.cn/zt_0/jpflg_132920/202302/t20230201_11017597.htm.
+[^60]: 鏡新聞, “亞總會主席陳善莊爆氣槓上台灣媒體　稱人民擁護習近平連任　被問到「投票權」一度語塞｜鏡速報,” 31 Mar 2023, https://youtu.be/vTlz63TW3d8?feature=shared
+[^61]: 陳善莊, https://zh.wikipedia.org/zh-hant/%E9%99%B3%E5%96%84%E8%8E%8A. See also “會長 陳善莊 John Chan,” http://www.accahk97.org/%E4%BC%9A%E5%B1%95/%e7%8f%be%e4%bb%bb%e6%9c%83%e9%95%b7-%e9%99%b3%e5%96%84%e8%8e%8a-john-chan/ for the website shared by both the American Chinese Commerce Association and the American Chinese Commerce Association (Hong Kong), and 星島日報, “現場激情澎湃人人一臉幸福,” 15 Nov 2023, https://www.singtaousa.com/2023-11-15/%e7%8f%be%e5%a0%b4%e6%bf%80%e6%83%85%e6%be%8e%e6%b9%83%e4%ba%ba%e4%ba%ba%e4%b8%80%e8%87%89%e5%b9%b8%e7%a6%8f/4668161#page3 for mention of Chen as convener of the Coalition of Asian-Americans for Civil Rights (亞裔維權大聯盟).
+[^62]: From 不那么快讯 (@Soh_shorts), 27 Nov 2023, https://x.com/Soh_Shorts/status/1729298341354438661.
 [^63]: Testimony of Kennedy Wong.
 [^64]: Interviews with Pema Doma and Elfidar Iltebir.
 [^65]: For scenes from the area near the airport earlier on the 14th, see the following video from 30” onward: 追新聞 The Chaser, “APEC峯會｜習近平專機抵三藩市 示威者租飛機展示「End CCP Free China Free HK Free Tibet Free Uighur」,” 14 Nov 23, https://youtu.be/zSUjIkJ\_fiA?feature=shared.
@@ -1745,21 +1746,21 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^76]: 自由亚洲电台, “李焕君母亲欲赴美照顾女儿 在北京机场被阻, 8 Apr 2016, https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql1-04082016100901.html.
 [^77]: Goh Fung, Qiao Long, “Activists Plan Protests Ahead of Chinese President's Mar-a-Lago Summit With Trump,” *Radio Free Asia*, 3 April 2017, https://www.rfa.org/english/news/china/activists-04032017125832.html.
 [^78]: 李焕君 post, 14 Nov 2023, https://x.com/Goodday79333767/status/1724612135723106556?s=20
-
     : “年11月14日旧金山下午，李焕君被中国大使馆的不紧张性骚扰(李焕君多次被掐胳膊掐腰部等部位)，被一个带帽子的拿旗杆打了头部.”
-[^79]: 
-[^80]: 
-[^81]: 
-[^82]: 
-[^83]: 
-[^84]: 
-[^85]: 
+[^79]: 侨网, “广西侨界国庆观礼代表感言:祖国强大华侨自豪骄傲,” 8 Oct 2019, https://www.chinaqw.com/hqhr/2019/10-08/233339.shtml and 搜狐, “美籍华人陈隆魁捐建的“隆魁楼”交付使用,” 31 May 2023, https://www.sohu.com/a/680758834_120998630.
+[^80]:  华联社(华人联合通讯社), “第十一次全国归侨侨眷代表大会圆满落幕 南加州华人代表备受鼓舞,” 5 Sep 2023, https://huarenone.com/2023/09/05/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E5%9B%BD%E5%BD%92%E4%BE%A8%E4%BE%A8%E7%9C%B7%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%9C%86%E6%BB%A1%E8%90%BD%E5%B9%95-%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%8D%8E/ Additional information on Chen Longkui: In October 2019, he was present in Tiananmen Square to attend the military parade marking the 70th anniversary of the founding of the PRC. A profile of Chen based on information provided by the Guilin UFWD states that, as president of the Guilin Federation of Overseas Chinese Enterprises, “[h]e is committed to the cause of the peaceful reunification of the motherland and has a firm stand. He spares no effort to oppose and resist acts of splitting the motherland and actively safeguards the reunification of the motherland.” See 侨网, “广西侨界国庆观礼代表感言:祖国强大华侨自豪骄傲,” 8 Oct 2019, https://www.chinaqw.com/hqhr/2019/10-08/233339.shtml.
+[^81]: 世界日報, “賴清德過境金山 中國百位僑民抗議：賴破壞兩岸關係,” 16 Aug 2023, https://www.worldjournal.com/wj/story/121472/7375409; Alliance for China’s Peaceful Reunification, USA, “俄勒冈州统促会接待中国统促会代表团,” 8 Nov 2019, https://acprusa.com/news/11032019CA.html.
+[^82]: 波特蘭新聞, “俄勒岡州國慶籌委會執行主席靖東升主持本次活動,” https://portlandchinesetimes.com/en/%E4%BF%84%E5%8B%92%E5%B2%A1%E5%B7%9E%E5%9C%8B%E6%85%B6%E7%B1%8C%E5%A7%94%E6%9C%83%E5%9F%B7%E8%A1%8C%E4%B8%BB%E5%B8%AD%E9%9D%96%E6%9D%B1%E5%8D%87%E4%B8%BB%E6%8C%81%E6%9C%AC%E6%AC%A1%E6%B4%BB%E5%8B%95-2/.
+[^83]: He is also a leader of Portland Suey Sing Chamber of Labor & Commerce, along with two other figures identified in this report, Rong Junwu and Zhu Jiemei. See Portland Suey Sing Chamber of Labor & Commerce list of ranking officers, http://www.sueysingportland.com/32887217292151737636.html. 
+[^84]: Alliance for China’s Peaceful Reunification, USA, “俄勒冈州统促会接待中国统促会代表团,” 8 Nov 2019, https://acprusa.com/news/11032019CA.html.
+[^85]: 波特蘭新聞, "俄勒岡州僑界隆重舉行欢迎宴會 中國駐舊金山總領事張建敏出席並作致辭,”
+https://portlandchinesetimes.com/%E4%BF%84%E5%8B%92%E5%B2%A1%E5%B7%9E%E5%83%91%E7%95%8C%E9%9A%86%E9%87%8D%E8%88%89%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E6%9C%83-%E4%B8%AD%E5%9C%8B%E9%A7%90%E8%88%8A%E9%87%91%E5%B1%B1%E7%B8%BD%E9%A0%98/ and 波特蘭新聞, 26 Aug 2022, A4, https://www.pctprintanddesign.com/uploads/5/0/4/6/50460347/109024-a.pdf. Additional information on Jing Dingsheng: Jing also appeared at a united front event held in the Seattle area on March 16, 2019, to celebrate the founding of the Washington Fujian Chamber of Commerce and Industry (WFCCI) (华州福建工商会). Deputy Consul General Zou Yonghong and Consul Chen Di of the Chinese Consulate General in San Francisco attended the meeting to congratulate the organization on its founding. A message was read out from the Overseas Chinese Affairs Office (OCAO) of Fujian Province. OCAO is an external name for the CCP’s United Front Work Department. The vice president of WFCCI, Chen Wenshen (陈文深), was also present at that event. To many protesters in San Francisco, Chen was recognizable as the bald-headed man who was seen at many incidents of intimidation, harassment, and assault during Xi Jinping’s visit (see below for more on Chen Wenshen).See 华盛顿艺术, “华州福建工商会成立庆典," 18 Mar 2019, http://arthundred.com/index.php?a=shows&catid=21&id=917 and 西雅图中文电台 Chinese Radio Seattle, “华州福建工商会举行成立庆典,” 18 Mar 2019, https://chineseradioseattle.com/2019/03/18/wa_fujian_business_association/.
 [^86]: 马永田 post, 10 Dec 2023, <https://x.com/mayongtian/status/1733862846272839898?s=20>. 
 [^87]: Eliot Kleinberg, “Details of 6 Chinese protesters charged during President Xi visit,” *The Palm Beach Post*, 15 Apr 2017, [https://www.palmbeachpoStcom/story/news/politics/2017/04/15/exclusive-details-6-chinese-protesters/6961953007/](https://www.palmbeachpost.com/story/news/politics/2017/04/15/exclusive-details-6-chinese-protesters/6961953007/). For specific information about Ma Yongtian’s blocking of Xi Jinping’s motorcade, see Daphne Duret, “Chinese protester tells tale behind desperate act near Trump summit,” *The Palm Beach Post,* 20 June 2017, https://www.palmbeachpoStcom/story/news/politics/2017/06/20/video-chinese-protester-tells-tale/7362869007/.
 [^88]: ` `**The following video shows the assault. Rock & Roar News telegram channel, 18 Nov 2023, [https://t.me/rocknroarnew](https://t.me/rocknroarnews)s. Details are also given below under the heading, “Assault on Chow Kai-hong.”** 
 [^89]: See below for information about Yu Yingqiang. The other man, the “man in a white jacket,” appeared at a Chingming event in Salem, Oregon, less than an hour from Portland, on April 1, 2023: Les Zaitz, “Salem pauses to honor Chinese ancestors during Qingming ceremony,” *Salem Reporter*, 3 Apr 2023, <https://www.salemreporter.com/2023/04/03/salem-pauses-to-honor-chinese-ancestors-during-qingming-ceremony/> His name is Rong Junwu. He is affiliated with the Portland Suey Sing Chamber of Commerce & Industry, acting as its vice-president and consultant in 2022, president in 2023, and consultant in 2024. See Portland Suey Sing Chamber of Commerce & Industry list of ranking officers, <http://www.sueysingportland.com/32887217292151737636.html> and, for evidence of his role as president in 2023, see Malldone, “波特兰萃胜工商会举行春宴，旧金山总领馆领导出席！,” 14 Feb 2023, <https://malldone.com/sueysingportland-2023-2-11/>. Jing Dongsheng is also listed as chair of the Portland Suey Sing Chamber of Commerce & Industry in 2024.
-[^90]: 
-[^91]: 
+[^90]: New Tang Dynasty Television, "中共雇人抗议蔡英文 被曝克扣佣金,” 7 Apr 2023, https://cn.ntdtv.com/b5/2023/04/06/a103684674.html; am730, “京嚴詞抗議 蔡英文洛杉磯見美眾院議長,” 6 Apr 2023,  https://www.am730.com.hk/%E4%B8%AD%E5%9C%8B/%E5%8C%97%E4%BA%AC%E5%9A%B4%E8%A9%9E%E6%8A%97%E8%AD%B0-%E8%94%A1%E8%8B%B1%E6%96%87%E6%B4%9B%E6%9D%89%E7%A3%AF%E8%A6%8B%E7%BE%8E%E7%9C%BE%E9%99%A2%E8%AD%B0%E9%95%B7/370153; Newsweek, “China Offers Protesters $400 Each to Disrupt McCarthy-Tsai Meet—Report,” 5 Apr 2023, https://www.newsweek.com/taiwan-tsai-ing-wen-kevin-mccarthy-california-china-protest-1792615; New Tang Dynasty Television, “蔡英文加州会麦卡锡 传中共加价400美金雇人搅局,” 4 Apr 2023, https://www.ntdtv.com/gb/2023/04/05/a103683836.html.
+[^91]:  世界日報, “賴清德過境金山 中國百位僑民抗議：賴破壞兩岸關係,” 16 Aug 2023, https://www.worldjournal.com/wj/story/121472/7375409.
 [^92]: National Protective Service website, <https://www.nationalprotectiveservice.com/>.
 [^93]: 聯合新聞網, "習近平下榻瑞吉酒店 金山市中心安保再升級,” 15 Nov 2023, <https://udn.com/news/story/123822/7575664>.
 [^94]: David Sjostedt, “San Francisco APEC Sees Dueling Protests Before Xi’s Arrival,” *The San Francisco* Standard, 14 Nov 2023, <https://sfstandard.com/2023/11/14/apec-dueling-protests/>.
@@ -1769,10 +1770,15 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^98]: Ibid.
 [^99]: 大紀元時報, “訪民指證：親共分子李華紅在舊金山打人,” 17 Nov 2023, <https://www.epochtimes.com/b5/23/11/17/n14118222.htm>.
 [^100]: Interview with Chen Chuangchuang.
-[^101]: 
-[^102]: 
-[^103]: 
-[^104]: 
+[^101]: HRLF Staff, “Overseas Influence Operations of the Chinese Communist Party:
+Furthering the Crackdown on Falun Gong in the United States,” Human Rights Law Foundation, 12 Sep 2022, 6, https://hrlf.net/wp-content/uploads/2022/09/2022-Overseas-Influence-Operations-of-the-Chinese-Communist-Party-Furthering-the-Crackdown-on-Falun-Gong-in-the-United-States.pdf.
+
+[^102]: Bitter Winter, “China Anti-Xie Jiao Association,” https://bitterwinter.org/Vocabulary/china-anti-xie-jiao-association/.
+[^103]: HRLF Staff, “Overseas Influence Operations of the Chinese Communist Party:
+Furthering the Crackdown on Falun Gong in the United States,” Human Rights Law Foundation, 12 Sep 2022, https://hrlf.net/wp-content/uploads/2022/09/2022-Overseas-Influence-Operations-of-the-Chinese-Communist-Party-Furthering-the-Crackdown-on-Falun-Gong-in-the-United-States.pdf.
+
+[^104]: Corey Kilgannon, “A Battle for Chinese Hearts and Minds in Flushing,” New York Times, 7 Mar 2011, https://archive.nytimes.com/cityroom.blogs.nytimes.com/2011/03/07/a-battle-for-chinese-hearts-and-minds-in-flushing/. See also 大紀元時報, “周永康嫡系特工李華紅打人案 紐約法院定罪,” 12 Jan 2013, https://www.epochtimes.com/b5/13/1/11/n3773946.htm.
+
 [^105]: 自由亚洲电台 post, 15 Nov 2023, https://x.com/RFA\_Chinese/status/1724916230698807630?s=20; ABC7 News Bay Area, “Dueling protests clash during Biden-Xi summit in CA,” 15 Nov 2023, https://youtu.be/TbOWC4fRYcM?si=2lRRpWfZa4NMW1J-. 
 [^106]: Katherine Li, “S.F.’s APEC is causing a reckoning for AAPI communities,” *San Francisco Chronicle*, 16 Nov 2023, https://www.sfchronicle.com/bayarea/article/apec-aapi-protests-18491983.php#photo-24456559.
 [^107]: Interview with Pema Doma. 
@@ -1784,18 +1790,26 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^113]: 华盛顿艺术, “华州四川同乡总会在西雅图成立庆典," 10 June 2019, <http://www.arthundred.com/index.php?a=shows&catid=21&id=1004>.
 [^114]: 
 [^115]: Interview with Chen Chuangchuang.
-[^116]: 
-[^117]: 
-[^118]: 
-[^119]: 
-[^120]: 
-[^121]: 
-[^122]: 
-[^123]: 
-[^124]: 
-[^125]: 
-[^126]: 
-[^127]: 
+[^116]:  西雅图中文电台 Chinese Radio Seattle, “2019华州河南同乡会、河南商会春季联谊活动圆满结束,” 25 Mar 2019, https://chineseradioseattle.com/2019/03/25/henan_tongxianghui_2019/.
+[^117]: Anne-Marie Brady, “Magic Weapons: China’s political influence activities under Xi Jinping,” Wilson Center, 18 Sept. 2017: 22, https://www.wilsoncenter.org/sites/default/files/media/documents/article/magic_weapons.pdf.
+
+[^118]: The National Committee of the Chinese People’s Political Consultative Conference, “China Zhi Gong Party convenes 16th national congress,” Xinhua, 13 Dec 2022, http://en.cppcc.gov.cn/2022-12/13/c_839382.htm.
+[^119]: 今日新闻, “国防部宣布备战？如果台海战争打响，中国将面临四大压力,” 24 May 2023, https://www.newstoday.cc/E0pAGpL.html#gsc.tab=0.
+[^120]: LeLe Farley, “我去了蔡英文與麥卡錫LA會面現場，混入了小粉紅抗議者內部，偷偷問他們...,” 6 Apr 2023, https://youtu.be/YyA-Sl3BesA?si=k1Wmc42wv5x9fvCg.
+
+[^121]: 西雅图中文电台 Chinese Radio Seattle, “华州全侨举行庆祝中国国庆70周年升旗仪式以及游行等活动,” 9 Sep 2019, https://chineseradioseattle.com/2019/09/09/prc_70th_guoqing_wa/.
+
+[^122]: Consulate-General of the People’s Republic of China in San Francisco, “张建敏总领事会见华盛顿州中国统一促进会理事长方伟侠,” 26 Jun 2022, http://sanfrancisco.china-consulate.gov.cn/tpxw/202206/t20220627_10710283.htm. Chen Wenshen also appeared at that meeting. 
+
+[^123]:  西雅图中文电台 Chinese Radio Seattle, “华州福建工商会举行成立庆典,” 18 Mar 2019, https://chineseradioseattle.com/2019/03/18/wa_fujian_business_association/. See also 华盛顿艺术, “华州福建工商会成立庆典," 18 Mar 2019, http://arthundred.com/index.php?a=shows&catid=21&id=917.
+
+[^124]:  西雅图中文电台 Chinese Radio Seattle, “中国和平统一促进会代表团访问西雅图 
+,” 6 Nov 2019, https://chineseradioseattle.com/2019/11/06/zhongguotongyicujinhui_seattle_2019/. Chen can be seen attending the meeting at the 14:33 mark in the following video: Chinese Radio Seattle 西雅图中文电台, “中国和平统一促进会访问西雅图,” 6 Nov 2019, https://youtu.be/s9Ap9uIzGFg?si=vqEeqYFRaxxpuBSb.
+[^125]: As noted above, in 2020, the US Department of State designated the umbrella organization for state and local APCR/US, the Association for China’s Peaceful Unification as a Foreign Mission of the PRC, stating, “The United Front Work Department (UFWD) is the Chinese Communist Party (CCP) organ tasked with co-opting and neutralizing threats to the party’s rule and spreading its influence and propaganda overseas.  The CCP regards this party apparatus as a “magic weapon” to advance Beijing’s policies. Today, the Department of State designated a UFWD-controlled organization – the National Association for China’s Peaceful Unification (NACPU) – as a foreign mission of the PRC under the U.S. Foreign Missions Act.  The goal of this action is to shine a light on this organization and make clear that their messages come from Beijing.” The State Department says, “Authentic people-to-people exchanges are crucial for establishing understanding between cultures, but the UFWD is not a vehicle for people-to-people exchange.  Instead, it uses front organizations like the NACPU to advance the PRC’s propaganda and malign influence.  Our actions today move us a step closer toward a relationship with the PRC based on transparency and reciprocity.” See Michael R. Pompeo, Secretary of State, “Designation of the National Association for China’s Peaceful Unification (NACPU) as a Foreign Mission of the PRC,” US Department of State, 28 Oct 2020, https://2017-2021.state.gov/designation-of-the-national-association-for-chinas-peaceful-unification-nacpu-as-a-foreign-mission-of-the-prc/.
+
+[^126]: “孙凌雁副秘书长在欢迎晚宴上指出，中国和平统一促进会是由全国政协主席汪洋担任会长、国家统战部部长担任执行副会长的社会组织.” From 西雅图中文电台 Chinese Radio Seattle, “中国和平统一促进会代表团访问西雅图,” 6 Nov 2019, https://chineseradioseattle.com/2019/11/06/zhongguotongyicujinhui_seattle_2019/.
+
+[^127]: The man suspected of carrying out a shooting in a California church attended primarily by people of Taiwanese background on May 15, 2022, was associated with the Las Vegas Association for China’s Peaceful Unification and reportedly attended its founding meeting on April 2, 2019, where he introduced a banner that called for the “eradication of pro-independence demons.” (See Hwang Chun-mei, “California church shooter in Taiwan 'peaceful reunification' group linked to Beijing,” Radio Free Asia, https://www.rfa.org/english/news/china/shooter-05172022104957.html) He was charged with 98 counts of federal hate crimes and weapons and explosives offenses, including the murder of one person and attempted murder of 44 others. (See US Department of Justice, “Nevada Man Charged with Federal Hate Crimes for Irvine Taiwanese Presbyterian Church Shooting,” 11 May 2023, https://www.justice.gov/opa/pr/nevada-man-charged-federal-hate-crimes-irvine-taiwanese-presbyterian-church-shooting.) It is unclear the extent to which the federal criminal investigation has looked into the suspect’s ties with the Las Vegas ACPU and any role those may have played in the crimes committed or the ties between all ACPUs in the US and the CCP’s China Council for the Promotion of Peaceful National Reunification. If this has not been done, 
 [^128]: National Committee on U.S.-China Relations, “NCUSCR-USCBC host event to welcome Chinese President Xi Jinping,”https://www.ncuscr.org/ncuscr-uscbc-joint-statement-following-event-to-welcome-president-xi-jinping/.
 [^129]: Ana Swanson, “Pandas, Ping-Pong and Profits: Chinese Leader Woos U.S. C.E.O.s,” *New York Times*, 16 Nov 2023, https://www.nytimes.com/2023/11/16/business/economy/china-us-business-xi-jinping-ceos.html.
 [^130]: Ana Swanson, “Xi Jinping to Address U.S. Business Leaders Amid Rising Skepticism of China Ties,” *New York* Times, 8 Nov 2023, <https://www.nytimes.com/2023/11/08/business/economy/xi-jinping-american-business-leaders-dinner.html>. Official invitation to the banquet: https://www.politico.com/f/?id=0000018b-aa47-deac-a19b-eacf0f160000.
@@ -1808,11 +1822,15 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^137]: Representatives of the host organizations in attendance included Evan Greenberg, Chair, National Committee on U.S.-China Relations as well as Chairman and Chief Executive Officer of Chubb; Craig Allen, President, US-China Business Council; Stephen A. Orlins, President, National Committee on U.S.-China Relations; John L. Thornton, Co-Chair, Asia Society; Michael Froman, President, Council on Foreign Relations; and Suzanne P. Clark, President and CEO, U.S. Chamber of Commerce. Business executives in attendance included Tim Cook, the chief executive of Apple; LaurenceFink, CEO of BlackRock; Marc Benioff, Salesforce CEO; Milind Pant, CEO, Amway; Stephen Schwarzman, CEO and Chairman, Blackstone; Stanley A. Deal, Executive Vice President, The Boeing Company and President and CEO, Boeing Commercial Airplanes; Hock Tan, President and CEO, Broadcom Inc; Ming Hsieh, Chairman and CEO, Fulgent Genetics; Daniel O’Day, Chairman and CEO, Gilead Sciences; Darius Adamczyk, Executive Chairman, Honeywell; Robert G. Goldstein, Chairman and Chief Executive Officer, Las Vegas Sands; Joseph Y. Bae, Co-Chief Executive Officer, KKR; Merit Janow, Chair, Mastercard; Elon Musk, Head of Tesla; and executives from Pfizer, Nike, FedEx, and Qualcomm.This incomplete guest list was compiled from the Select Committee on the Chinese Communist Party post, 16 Nov 2023, <https://x.com/committeeonccp/status/1725125452447068249?s=20>; Ana Swanson, “Pandas, Ping-Pong and Profits: Chinese Leader Woos U.S. C.E.O.s,” *New York Times*, 16 Nov 2023, <https://www.nytimes.com/2023/11/16/business/economy/china-us-business-xi-jinping-ceos.html>; and Lingling Wei, Charles Hutzler, “U.S. Executives Get No Reassurance From Xi on Tougher China Business Environment,” *Wall Street Journal,* 16 Nov 2023, <https://www.wsj.com/world/china/chinas-xi-draws-standing-ovation-from-u-s-business-leadersand-some-doubts-13fc3ad2>.
 [^138]: California political elites in attendance included Jerry Brown, the former governor of California; Wille Brown, former mayor of San Francisco and former governor of California; Gavin Newsom, former mayor of San Francisco and current governor of California; and Fiona Ma, current California State Treasurer, all of whom have embraced the policy of so-called “engagement” with China. Near the entrance to the venue, just yards from where protesters were being assaulted, Fiona Ma, who had just posed with Xi Jinping, said, “Our relationships with China are very important here in California. We really do need to cooperate, have mutual cooperation, especially when it comes to climate because we only have one earth.” Willie Brown asserted: “Having a good relationship with China serves the world really in a wonderful way. After all, we are the two largest producers of anything and everything.” For a clip of Fiona Ma and Wllie Brown speaking about the event and US-China relations, see KTVU Fox 2 San Francisco, “Chinese President Xi Jinping's APEC welcome reception met with protests,” 16 Nov 2023, https://youtu.be/O1HdvPVDh7E?si=LySfpjRu\_ZAty9LZ. For a sense of Jerry Brown’s views on US-PRC relations, see Jerry Brown, “Washington’s Crackpot Realism,” *New York Review of Books*, 24 Mar 2022, <https://www.nybooks.com/articles/2022/03/24/washingtons-crackpot-realism-jerry-brown/>.
 [^139]: CGTN, “Xi arrives in San Francisco, received by senior U.S. officials at the airport,” 15 Nov 2023, https://news.cgtn.com/news/2023-11-15/Xi-arrives-in-San-Francisco-for-talks-with-Biden-APEC-meeting-1oKk0e1vgXu/index.html. CGTN is a PRC state-owned media outlet. 
-[^140]: 
-[^141]: 
-[^142]: 
-[^143]: 
-[^144]: 
+[^140]:  “Californian Human-Rights Advocates Criticize Gov. Gavin Newsom’s Trip to Hong Kong and mainland China,” A joint statement by Hong Kongers, Chinese, Taiwanese, Tibetans, Uyghurs, and allies, 20 Oct 2023, https://docs.google.com/document/d/e/2PACX-1vRsswuKtYTfeVPkTL1RMKZBijeWhR5fQ7O7ob2zG9J_MSUZtxm1AyfObFWDEEsBVqswYl711tC5xu-A/pub.
+
+[^141]: Maya Wang, "California’s Governor Should Raise Rights Along with Climate in China,” Human Rights Watch, 19 Oct 2023, https://www.hrw.org/news/2023/10/19/californias-governor-should-raise-rights-along-climate-china. 
+[^142]: Office of Governor Gavin Newsom, ”Governor Newsom Meets with Chinese President Xi Jinping,” 25 Oct 2023, https://www.gov.ca.gov/2023/10/25/governor-newsom-meets-with-chinese-president-xi-jinping/. 
+
+[^143]:  Interview with Anna Kwok.
+
+[^144]: While Xi Jinping was in San Francisco, he invited San Francisco Mayor London Breed to visit the PRC. She was to make that visit in April 2024. See “Mayor Breed to Travel to China with API Delegation to Strengthen Economic Connections and Bolster Cultural Ties,” Office of the Mayor, 10 Apr 2024, https://www.sf.gov/news/mayor-breed-travel-china-api-delegation-strengthen-economic-connections-and-bolster-cultural.
+
 [^145]: The Select Committee on the CCP, "Gallagher: 'Unconscionable that American Companies Pay Thousands for Dinner with Xi’,” 14 Nov 2023, <https://selectcommitteeontheccp.house.gov/media/press-releases/gallagher-unconscionable-american-companies-pay-thousands-dinner-xi>.
 [^146]: Interview with Tsela Zoksang.
 [^147]: Interview with a 17-year-old Tibetan.
@@ -1820,11 +1838,14 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^149]: Interview with Topjor Tsultrim.
 [^150]: Interview with Sonamtso.
 [^151]: At one event in 2022 in New York “celebrating” the 25th anniversary of the handover of Hong Kong by the United Kingdom to the PRC, the two appeared together with a host of other united front organizations, including the United Fujianese American Women’s Friendship Association, Houfu Association of America, American Shang Gan Lin’s Association, American Fu Qi Association, Changle Gaoan Association of USA, American Fujian ChangXian Association, and Yang Yu Townsmen Association. See MGM Media Wei Wei Talk, “福建同乡会庆祝香港活动25周年暨美国国庆活动盛大举行（视频图文）,” 2 July 2022, <http://weiwei-tv.com/index.php/%E5%8D%8E%E4%BA%BA%E7%83%AD%E7%82%B9/1062-%E7%A6%8F%E5%BB%BA%E5%90%8C%E4%B9%A1%E4%BC%9A%E5%BA%86%E7%A5%9D%E9%A6%99%E6%B8%AF%E6%B4%BB%E5%8A%A825%E5%91%A8%E5%B9%B4%E6%9A%A8%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%BA%86%E6%B4%BB%E5%8A%A8%E7%9B%9B%E5%A4%A7%E4%B8%BE%E8%A1%8C%EF%BC%88%E8%A7%86%E9%A2%91%E5%9B%BE%E6%96%87%EF%BC%89>.
-[^152]: 
-[^153]: 
-[^154]: 
-[^155]: 
-[^156]: 
+[^152]: United States Attorney’s Office, Eastern District of New York, "Two Individuals Arrested for Operating Undeclared Police Station of the Chinese Government in Chinatown in Manhattan,” 17 Apr 2023, https://www.justice.gov/usao-edny/pr/two-individuals-arrested-operating-undeclared-police-station-chinese-government.
+
+[^153]: April Xu, “After FBI Arrests, Chinatown Leaders Deny ‘Secret Police Station’ Allegations,” Documented, 19 Apr 2023, https://documentedny.com/2023/04/19/chinatown-association-president-and-community-leaders-deny-secret-police-station-allegations/; 大紀元, ”涉中共纽约警站 卢建旺与陈金平遭逮 福建侨领称不知情,” 18 Apr 2023, https://cn.epochtimes.com/gb/23/4/18/n13975436.htm.
+[^154]: Michael Wilson, “F.B.I. Says Souvenir Seller Used a Hard Sell, With Fists,” New York Times, 25 Sep 2003, https://www.nytimes.com/2003/09/25/nyregion/fbi-says-souvenir-seller-used-a-hard-sell-with-fists.html.
+
+[^155]: Shi Yong Wei, The Son Of Qinghua: Shi Yong Wei's 15-Year Prison Saga After Being Falsely Convicted In The U.S. Federal Legal System, 23 Jan 2019, https://www.amazon.com/Son-Qinghua-15-Year-Falsely-Convicted/dp/1794676872/ref=sr_1_2?dib=eyJ2IjoiMSJ9._xJPjM8-L5iuZUaj6j802qsMbzpq1SJD8QhQqOSnnYFyxPNOv2wo0zpNC0M1f8Xcm8vw3RP7jjHJCG0_HANQE7OQoxI8iDlzO6xAzd3mXQLjSLBjinCaJomhqB5MRieSnFaF9uX0nt-J3izxxkZJppdvpPQphnrIt1Z-7MZieBDGOSbmCHasQVcw6X5uRsvJrlO-w1R96frkp8XWz8CBJhtd87Ol3MZMRGCYbS6PNaUNo1WbPn3pavhOAqOgf5xbBUTzKAav4gOpPvlt_X6fBP99bOWFlxQITsgVSZkyZVI.qpIVwRZ17kXyvKBc2k9IWBtoICsb5FtLJyboO-6gtsc&dib_tag=se&keywords=shi+yong+wei&qid=1709234263&sr=8-2.
+
+[^156]:  世界日報, "古銑賢畫展開幕 黃屏到場支持,” 28 Oct 2023, https://www.worldjournal.com/wj/story/121382/7535909?from=wj_catelistnews.
 [^157]: LeLe Farley, “Deep Penetration into Communist Party Propaganda! Protester Apathy for Xi's Biggest Day,” 18 Nov 2023, <https://youtu.be/U9lttMNO758?feature=shared> .
 [^158]: 世界日報, “費城福建同鄉聯合會、賓州中國和平統一促進會中秋聯歡 喜相聚 慶團圓,” 30 Nov 2023, <https://www.worldjournal.com/wj/story/121388/7474546?from=wj_referralnews> .
 [^159]: Interview with Tsela Zoksang.
@@ -1835,15 +1856,23 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^164]: 中关村精准医学基金, “机构简介,” <https://www.cpm010.org.cn/list-37-1.html>. 基金会坚持中国共产党的全面领导，根据中国共产党章程的规定，设立党的基层组织，同时成立健全了共青团、工会、妇女联合会等群众组织。党组织履行党的政治责任，严肃组织生活，严明政治纪律、政治规矩和组织纪律，充分发挥政治核心作用。
 [^165]: 中国互联网视听节目服务自律公约, “2024年北京滑县企业商会新春团拜会在京举行,” 22 Jan 2024, https://hs.china.com.cn/zixun/125727.html.
 [^166]: The still photo is from 刘奕江 (@uconnyijiangliu), 16 Nov 2023, [https://x.com/uconnyijiangliu/status/1725363879008727127 ](https://x.com/uconnyijiangliu/status/1725363879008727127).
-[^167]: 
-[^168]: 
-[^169]: 
-[^170]: 
-[^171]: 
-[^172]: 
-[^173]: 
-[^174]: 
-[^175]: 
+[^167]: He is also sometimes referred to as the “first vice-president” of the San Francisco Bay Area Association for the Peaceful Reunification of China. It appears that prior to assuming this position, he was leader of the organization’s youth group. See 天津市归国华侨联合会 / Tianjin Federation of Returned Overseas Chinese, “中国侨联青年委员会委员访津团一行盛赞天津发展,” 22 Nov 2019, http://www.tjql.org.cn/system/2019/11/22/020021393.shtml; 委中商报, “广东侨界热议中国共产党十九届六中全会精神（一),” 13 Nov 2021, http://accv.vc/index.php/Home/infor/detail/id/5621.html; and 阿根廷洪门协会, “尤震:同贺历史盛事 共担复兴使命—海外侨胞、港澳台同胞热议中共二十大胜利召开,” 22 Oct 2022, https://www.argchina.com/league/show-1396.html.
+
+[^168]:  中华全国归国华侨联合会 / All-China Federation of Returned Overseas Chinese, “侨领企业家访问团考察怀集县产业投资环境,” 25 Feb 2023, http://www.chinaql.org/n1/2023/0225/c419650-32631085.html
+[^169]:  中华全国归国华侨联合会 / All-China Federation of Returned Overseas Chinese, “侨领企业家访问团考察怀集县产业投资环境,” 25 Feb 2023, http://www.chinaql.org/n1/2023/0225/c419650-32631085.html.
+
+[^170]:  厦门市归国华侨联合会 / Xiamen Federation of Returned Overseas Chinese, “旧金山湾区中国统一促进会到访厦门市侨联,” 7 Nov 2018, http://112.48.134.142:8085/wwwroot/xmsgghqlhh/qlyw/3430212.htm.
+
+[^171]: 中华全国归国华侨联合会 / All-China Federation of Returned Overseas Chinese, “联谊联络部副部长朱柳会见旧金山湾区中国统一促进会中青年访问团,” 1 Nov 2018, http://www.chinaql.org/n1/2018/1101/c419654-30376848.html.
+
+[^172]:  中共新疆维吾尔自治区委员会统一战线工作部 / United Front Work Department of the Xinjiang Autonomous Region CCP Committee, ““新疆的明天会更美好”——海外侨胞在疆参观访问侧记,” 2 Aug 2021.
+
+[^173]:  中国致公党广东省委员会, “【侨海新声】陈兆进：汇聚侨胞融通力量，发挥侨胞三跨优势,” 20 Sep 2023, https://www.gdzgd.cn/dwll/qjdt/content/post_47632.html.
+
+[^174]: Anne-Marie Brady, “Magic Weapons: China’s political influence activities under Xi Jinping,” Wilson Center, 18 Sept. 2017: 22, https://www.wilsoncenter.org/sites/default/files/media/documents/article/magic_weapons.pdf.
+
+[^175]:  In August 2023, Chen Zhaojin attended the same pro-CCP protest against the visit of then-Taiwan Vice-President William Lai Ching-te as did Yang Baohai (who also goes by the name, Liu Baohai).There he held  a megaphone and led the CCP supporters in chants. See photos of Chen at the protest in 文匯報, “北京消息人士：郭台銘若「獨立參選」　等同保送賴清德上台,” 28 Aug 2023, https://www.wenweipo.com/a/202308/28/AP64ebed01e4b0fb87b54408ed.html; and Han Li, “Taiwan’s vice president makes controversial visit to Bay Area amid protests,” San Francisco Standard, 16 Aug 2023, https://sfstandard.com/2023/08/16/taiwan-vp-lai-sf/. He also attended the same pro-CCP protest against the visit of Taiwan’s then-president Tsai Ing-wen to Los Angeles in April 2023 as did several united front figures including He Konghua, Yang Baohai (who also goes by the name, Liu Baohai), Rong Junwu (the man in the white jacket), and Jing Dongsheng. For photo, see 新唐人電視台, “中共雇人抗议蔡英文 被曝克扣佣金, 7 Apr 2023, https://www.ntdtv.com/b5/2023/04/06/a103684674.html.
+
 [^176]: Interview with Anna Kwok.
 [^177]: Interviews with two Tibetan 17-year-olds.
 [^178]: Interview with Anna Kwok.
@@ -1853,14 +1882,13 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^182]: Interview with Anna Kwok.
 [^183]: 夏芳, “中国福建周”非遗文化展示活动走进旧金山社区,” Fjsen.com, 28 Oct 2023, <http://overseas.fjsen.com/2023-10/28/content_31447423.htm>. Other sources refer to Yang as the “founding president” (創會會長) or “founder,” “initiator,” or “organizer” of Bay Area Fujian Ren Association. See 星島日報, “福建人在灣區]舉行慶祝中秋暨換 大會聯歡晚宴,” 19 Sep 21, <https://www.singtaousa.com/2021-09-19/%e7%a6%8f%e5%bb%ba%e4%ba%ba%e5%9c%a8%e7%81%a3%e5%8d%80%e8%88%89%e8%a1%8c%e6%85%b6%e7%a5%9d%e4%b8%ad%e7%a7%8b%e6%9a%a8%e6%8f%9b-%e5%a4%a7%e6%9c%83%e8%81%af%e6%ad%a1%e6%99%9a%e5%ae%b4/3645686#page6>, and Harvard Han, “反暴力！反仇视亚裔！旧金山3千人大游行, 城市新闻网icitynews, <https://icitynews.com/?p=300960>.
 [^184]: eStarTV第一直播, “Live 4/14 纽约曼哈顿 美国福建同乡会美西湾区杨宝海会长 率代表团莅临纽约慰问郑勇遗孀 美国福建同乡会陈学端主席接待并讲话 第一副主席 陈恒也出席并讲话 出席会议的还有…..,” 14 Apr 2021, https://www.youtube.com/live/nSmbgqY-sNY?feature=shared.
+[^185]:  世界日報,"賴清德過境金山 中國百位僑民抗議：賴破壞兩岸關係,” 16 Aug 2023, https://www.worldjournal.com/wj/story/121472/7375409?from=wj_referralnews.
+[^186]:  Yang Sheng, Wang Qi, ”Lai’s relying on US for 'Taiwan independence' cold-shouldered; Mainland has enough options to counter secessionist moves: analyst,” Global Times, 17 Aug 2023, https://www.globaltimes.cn/page/202308/1296511.shtml.
 
-    
-[^185]: 
-[^186]: 
-[^187]: 
-[^188]: 
-[^189]: 
-[^190]: 
+[^187]:  Photos of CCP supporters’ protest against Tsai Ing-wen’s visit outside the Westin Bonaventure Hotel in Los Angeles, https://johnsonwkchoicom.files.wordpress.com/2023/04/img_2936.jpg. 
+[^188]:  孙诚, “旧金山亚裔反歧视游行 因香港维吾尔人权问题内部起冲突,” 28 Mar 2021, 自由亚洲电台, 28 Mar 2021, https://www.rfa.org/mandarin/yataibaodao/gangtai/sc-03282021200223.html.
+[^189]:  Ibid.
+[^190]:  美国中文广播电视-格TV, “福建人在湾区联谊会新春庆会,” 19 Feb 2024, https://youtu.be/iqjg8wHnlUY?feature=shared. Yang Baohai gives a speech starting at 00:27 in the video. He is followed by representatives of the PRC consulate.
 [^191]: The officer appeared to be either unaware of or indifferent to the fact that the California Penal Code (Section 646.9) criminalizes stalking, making it illegal to follow, harass, or threaten another person.
 [^192]: Interview with Chemi Lhamo.
 [^193]: Interview with Pema Doma.
@@ -1874,27 +1902,35 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^201]: Interview with Chen Chuangchuang.
 [^202]: [自由亚洲电台 (@RFA_Chinese),](https://twitter.com/RFA_Chinese) 16 Nov 2023, <https://x.com/RFA_Chinese/status/1725321156092219839?s=20>. A full HD version of the video can be found at  <https://www.youtube.com/watch?v=oH7rA14NoNc&ab_channel=%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0>.
 [^203]: [陈闯创律师](https://twitter.com/1957spirit) (@1957spirit), 16 Nov 2023, https://x.com/1957spirit/status/1725285525534458149.
-[^204]: 
+[^204]: For reports on Ma Zuolin’s efforts to combat anti-Asian hate and crime, see CBS News Bay Area, “Bay Area Community Leaders Say Many Attacks on Asians Go Unreported,” 12 Mar 2020, https://www.cbsnews.com/sanfrancisco/news/bay-area-community-leaders-say-many-attacks-on-asian-americans-go-unreported/; Dion Lim, “Oakland Chinatown patrol group expands hours in response to recent break-ins and crime,” ABC7 News, 26 Dec 2022, https://abc7news.com/oakland-chinatown-crime-patrol-increase/12612005/; NBC Bay Area, “San Mateo Girl Organizes Rally to Denounce Hate Crimes Against Asian Community,” 28 Feb 2021, https://www.nbcbayarea.com/news/local/san-mateo-girl-organizes-rally-to-denounce-hate-crimes-against-asian-community/2479576/. 
+
 [^205]: Anser Hassan, "Oakland meeting calls for unity between Black and Asian communities in wake of Officer Le killing,” ABC7 News, 14 Jan 2024, <https://abc7news.com/oakland-police-officer-tuan-le-oaklan-black-community-asian-unity-meeting/14321879/>. For a photo of the two together at the event see  <https://invidious.seediqbale.xyz/watch?v=err4UzmTcO4&listen=false> and <https://cdn.abcotvs.com/dip/images/14322124_011324-kgo-oakland-unity-img.jpg>. 
 [^206]: Jane Tyska, "Photos: Lunar New Year’s celebration in Oakland’s Chinatown,” *The Mercury News*, 7 Feb 2019, <https://www.mercurynews.com/2019/02/07/photos-lunar-new-years-celebration-in-oaklands-chinatown/>; Doug Duran, “Photos: Oakland’s annual Lunar New Year Bazaar,” *East Bay Times*, 11 Jan 2020, <https://www.eastbaytimes.com/2020/01/11/photos-oaklands-annual-lunar-new-year-bazaar/> (for photo in question, see: <https://www.eastbaytimes.com/wp-content/uploads/2020/01/EBT-L-OAKLUNAR-0112-5.jpg?w=1860>); Han Li, “Oakland’s Lunar New Year parade finally returns, brings joy to grieving community,” *San Francisco Standard,* 29 Jan 2023*, <https://sfstandard.com/2023/01/29/oaklands-lunar-new-year-parade-finally-returns-brings-joy-to-grieving-community/>* (for photo in question, see <https://content.sfstandard.com/wp-content/uploads/2023/01/OakLunarNewYear01272023-026.jpg?w=1200&amp;q=75>.
-[^207]: 
-[^208]: 
-[^209]: 
-[^210]: 
+[^207]: 星島日報, “中領館王昆領事及英端首長．僑社領袖出席盛會屋崙英端工商分會春節聯歡晚會喜慶滿堂,” 2 Apr 2023, https://www.singtaousa.com/2023-04-02/%E4%B8%AD%E9%A0%98%E9%A4%A8%E7%8E%8B%E6%98%86%E9%A0%98%E4%BA%8B%E5%8F%8A%E8%8B%B1%E7%AB%AF%E9%A6%96%E9%95%B7%EF%BC%8E%E5%83%91%E7%A4%BE%E9%A0%98%E8%A2%96%E5%87%BA%E5%B8%AD%E7%9B%9B%E6%9C%83%E5%B1%8B/4456960.
+[^208]: 劉先進, “東灣台山同鄉會成立22周年 春宴歡慶,” 世界日報, 7 Feb 2023, https://www.worldjournal.com/wj/story/121368/6955439?from=wj_referralnews. 王子涵, “東灣台山同鄉會春宴 回顧23年來時路,” 世界日報, 1 Mar 2024, https://www.worldjournal.com/wj/story/121368/7802224; 星島日報, “東灣台山同鄉會春宴暨成立23周年慶會盛大舉行,” 3 Mar 2024, https://www.singtaousa.com/2024-03-03/%e6%9d%b1%e7%81%a3%e5%8f%b0%e5%b1%b1%e5%90%8c%e9%84%89%e6%9c%83%e6%98%a5%e5%ae%b4%e6%9a%a8%e6%88%90%e7%ab%8b23%e5%91%a8%e5%b9%b4%e6%85%b6%e6%9c%83%e7%9b%9b%e5%a4%a7%e8%88%89%e8%a1%8c/4780075#page2.
+
+[^209]:  See photo: https://uc.udn.com.tw/photo/wj/realtime/2022/09/08/18549800.jpeg.
+
+[^210]: See photo: https://oaklandnorth.net/wp-content/uploads/2018/02/20180218_MAYORTOUR_Lee_Photo8.jpg.
+
 [^211]: This report made an inquiry to the SFPD about this incident and several others. As of March 24, 2024, no response had been received.
 [^212]: 大紀元爆料平台 ([@china_epoch](https://twitter.com/china_epoch)), 16 Nov 2023, <https://x.com/china_epoch/status/1725259367937876045> .
 [^213]: Chloe Shrager, "Bloody clashes erupt between pro-, anti-China demonstrators at APEC,” *San Francisco Chronicle*, 17 Nov 2023, <https://www.sfchronicle.com/bayarea/article/fights-erupt-pro-china-anti-china-demonstrators-18497480.php>. In the article, Hu Tingfeng’s name was misspelled as Huting Feng. Liu Yijiang, Jiao Ruilin and Hu Tingfeng were also interviewed for this report and showed photos of the injuries they sustained as a result of the assaults. 
-[^214]: 
-[^215]: 
-[^216]: 
-[^217]: 
-[^218]: 
+[^214]: 陕西省归国华侨联合会, “省侨联邀请侨领朱介眉先生 到大力滩村观摩乡村振兴工作,” 11 Apr 2023, https://sxql.org.cn/detaile/23041116ux9Sc .
+[^215]: 星島日報, “舊金山灣區中國統一促進會舉行慶祝香港回歸祖國25周年慶會,” 7 Jul 2022, https://www.singtaousa.com/2022-07-07/%E8%88%8A%E9%87%91%E5%B1%B1%E7%81%A3%E5%8D%80%E4%B8%AD%E5%9C%8B%E7%B5%B1%E4%B8%80%E4%BF%83%E9%80%B2%E6%9C%83%E8%88%89%E8%A1%8C%E6%85%B6%E7%A5%9D%E9%A6%99%E6%B8%AF%E5%9B%9E%E6%AD%B8%E7%A5%96%E5%9C%8B25/4161917#page5. In other contexts, he is called the vice-president of the US Association for China’s Peaceful Unification (美洲和平統一促進聯合會).
+
+[^216]: Portland Suey Sing Chamber of Labor & Commerce list of ranking officers, http://www.sueysingportland.com/32887217292151737636.html. Jing Dongsheng and Rong Junwu, two other united front figures from the Portland area who appeared on the streets of San Francisco, are also ranking officers in the Portland Suey Sing.
+
+[^217]:  自由亚洲电台, “赖清德过境旧金山发表演说　欢迎与抗议场面同时出现,” 17 Aug 2023, https://www.rfa.org/mandarin/yataibaodao/gangtai/sc-08172023061900.html 
+
+[^218]:  Malldone 摩登时讯, “波特兰华人华侨热烈庆祝中华人民共和国成立74周年！同唱《今天是你的生日我的中国》, 20 Sep 2023, https://malldone.com/celebrate-the-74th-anniversary-of-the-founding-of-the-peoples-republic-of-china/.
+
 [^219]: From [刘奕江 (@uconnyijiangliu), 16 Nov 2023, ](https://twitter.com/uconnyijiangliu)<https://x.com/uconnyijiangliu/status/1725363879008727127>[.](https://twitter.com/uconnyijiangliu) Rong Junwu, the man in the white jacket, can be seen in the video from 0:22 to 0:25. 
 [^220]: `  `新唐人電視台, “中共雇人抗议蔡英文 被曝克扣佣金,” 7 Apr 2023, <https://www.ntdtv.com/b5/2023/04/06/a103684674.html>.
 [^221]: See Portland Suey Sing Chamber of Commerce & Industry list of ranking officers, <http://www.sueysingportland.com/32887217292151737636.html> and, for evidence of his role as president in 2023, see Malldone, “波特兰萃胜工商会举行春宴，旧金山总领馆领导出席！,” 14 Feb 2023, <https://malldone.com/sueysingportland-2023-2-11/>. Jing Dongsheng is also listed as chair of the Portland Suey Sing Chamber of Commerce & Industry in 2024.
 [^222]: SBTN Official, “Người Việt Quốc Gia Yêu Nước Biểu Tình Tại APEC , San Francisco,” 18 Nov 2023, <https://youtu.be/O2KDsGEkygk?si=QOi8gakuo39c165> j. Yang Baohai (who also goes by the name, Liu Baohai) can be seen at 00:10 to 00:14 and elsewhere in the video.
-[^223]: 
-[^224]: 
+[^223]: 世界電子報, “南京大屠杀86周年 湾区华人公祭 追索日本战争罪行,” 11 Dec 2023, https://www.worldjournal.com/wj/story/121519/7632866?from=wj_referralnews&zh-cn. The group is sometimes referred to in English as Rape of Nanking Redress Committee (instead of Coalition). 
+[^224]: Alliance for China’s Peaceful Reunification, 旧金山湾区统促会贺党二十大胜利召开 办九二共识座谈, 22 Oct, 2022, https://acprusa.com/news/News2022/102322Wanqu.html
 [^225]: The screenshots come from a video sent by Hu Tingfeng to the authors of the report.
 [^226]: For footage of the assault, see 自由亚洲电台 (@RFA\_Chinese), 16 Nov 2023, <https://x.com/RFA_Chinese/status/1725323598972522724?s=20>. The assault is mentioned in this report: 周星晨, “习近平访美期间众多抗议人士被围殴，人权组织推动国会举行听证,” VOA, 22 Nov 2023, <https://www.voachinese.com/a/congress-urged-to-probe-attacks-on-chinese-dissidents-in-xi-jinping-protest-20231121/7364581.html>. Li Delong gave an account of the assault in this post: 李德龙 post, 17 Nov 2023, <https://x.com/china_epoch/status/1725394248424431859?s=20>, describing the assault.
 [^227]: 周星晨, “习近平访美期间众多抗议人士被围殴，人权组织推动国会举行听证,” VOA, 22 Nov 2023, <https://www.voachinese.com/a/congress-urged-to-probe-attacks-on-chinese-dissidents-in-xi-jinping-protest-20231121/7364581.html>.
@@ -1914,21 +1950,28 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^241]: Interview with Topjor Tsultrim with subsequent elaboration.
 [^242]: Interviews with two  19-year-old Tibetans. The detective appears to have been from the San Mateo Sheriff’s Office. As of May 15, 2024, the office has not responded to our query regarding the status of its investigation.
 [^243]: Based on a report S. made to the San Francisco Police Department as well as a video interview he gave immediately following the incident S. requested anonymity for this report.
-[^244]: 
-[^245]: 
-[^246]: 
-[^247]: 
-[^248]: 
-[^249]: 
-[^250]: 
-[^251]: 
-[^252]: 
-[^253]: 
-[^254]: 
-[^255]: 
-[^256]: 
-[^257]: 
-[^258]: 
+[^244]: Hong Kong and Macau Fellowship Association of Shenzhen, Federation of Returned Overseas Chinese Limited website: https://www.hkmoc.com.hk/zh/. The photo in which Jennifer Cheung can be seen with Chen Longkui and Jing Dongsheng can be found here: https://www.hkmoc.com.hk/wp-content/uploads/2018/09/S301.jpg.
+[^245]: Alliance for China’s Peaceful Reunification, “加州湾区统促会主办美国北加州华人庆祝新中国成立七十一周年云端联欢会,” https://acprusa.com/news/News2020/10012020CASF.html.
+
+[^246]: 星島日報, ”紀念大屠殺85周年 南京祭三藩市舉行, 12 Dec 2022, https://www.singtaousa.com/2022-12-12/%e7%b4%80%e5%bf%b5%e5%a4%a7%e5%b1%a0%e6%ae%ba85%e5%91%a8%e5%b9%b4-%e5%8d%97%e4%ba%ac%e7%a5%ad%e4%b8%89%e8%97%a9%e5%b8%82%e8%88%89%e8%a1%8c/4355443#page3%20https://www.worldjournal.com/wj/story/121519/6832712?from=wj_referralnews.
+
+[^247]: 世界日報, "南京大屠杀86周年 湾区华人公祭 追索日本战争罪行,” 11 Dec 2023, https://www.worldjournal.com/wj/story/121519/7632866?zh-cn.
+
+[^248]: 星島日報, “APEC現場直播｜鄧孟詩感謝習近平改善美中關係促和平 在美華人應團結促雙贏,” 17 Nov 2023, https://www.singtaousa.com/2023-11-17/apec%e7%8f%be%e5%a0%b4%e7%9b%b4%e6%92%ad%ef%bd%9c%e9%84%a7%e5%ad%9f%e8%a9%a9%e6%84%9f%e8%ac%9d%e7%bf%92%e8%bf%91%e5%b9%b3%e6%94%b9%e5%96%84%e7%be%8e%e4%b8%ad%e9%97%9c%e4%bf%82%e4%bf%83%e5%92%8c/4671194. See also singtaotv, “APEC現場直播｜三藩市退休華裔法官鄧孟詩感謝習近平改善美中關係促和平 呼籲在美華人應團結促雙贏,” 17 Nov 2023, https://youtu.be/7eU2eyZMaQg?feature=shared. The interview was published by an organization called Chinese Information Radio on behalf of Sing Tao US, which, in 2021, was compelled by the US Department of Justice to register as a foreign agent under the Foreign Agents Registration Act. (See Lachlan Markay, “DOJ brands Chinese-owned U.S. newspaper a foreign agent,” Axios, 25 Aug 2021, https://www.axios.com/2021/08/25/doj-chinese-owned-sing-tao-newspaper-foreign-agent.) No listings could be found for Chinese Information Radio, which may or may not be Chinese Radio International (中国国际广播电台), which is controlled by the Central Propaganda Department of the Chinese Communist Party and, in 2020, was designated by the US Department of State as a “foreign mission.” (See Morgan Ortagus, Department Spokesperson, “Designation of Additional PRC Propaganda Outlets as Foreign Missions,” US Department of State, 21 Oct 2020, https://2017-2021.state.gov/designation-of-additional-prc-propaganda-outlets-as-foreign-missions/.
+[^249]: Comfort Women Action for Redress and Education, About Us, https://comfortwomenaction.org/about-us/.
+
+[^250]: See No Cold War, “A New Cold War against China is against the interests of humanity,” https://nocoldwar.org/statement.
+[^251]:  Ibid. While concern about the Nanjing Massacre and Comfort Women is entirely legitimate, in the case of Cheung, Tang and Sing, it also aligns with CCP propaganda that seeks to stoke nationalist grievances and resentment against Japan.
+[^252]: See the photo: https://comfortwomenaction.org/wp-content/uploads/photo-gallery/11-1.-Special-guests-Jennifer-Chung-Lillian-Sing-Julie-Tang.jpg?bwg=1691390716.The photo is from an event in 2022 marking the 10th anniversary of the Glendale peace monument (https://comfortwomenaction.org/2023/08/06/report-from-the-10th-anniversary-celebration/). 
+[^253]: 星島日報, “北加江蘇同鄉會 慶十年華誕暨新春聯誼,” 1 Feb 2024, https://www.singtaousa.com/2024-02-01/%E5%8C%97%E5%8A%A0%E6%B1%9F%E8%98%87%E5%90%8C%E9%84%89%E6%9C%83-%E6%85%B6%E5%8D%81%E5%B9%B4%E8%8F%AF%E8%AA%95%E6%9A%A8%E6%96%B0%E6%98%A5%E8%81%AF%E8%AA%BC/4748093#page3.
+[^254]: 星島日報, “苗比達, “慶祝十一南灣開盛宴 僑胞歡聚賀祖國繁榮,” 24 Sep 2022, https://www.singtaousa.com/2022-09-24/%e6%85%b6%e7%a5%9d%e5%8d%81%e4%b8%80%e5%8d%97%e7%81%a3%e9%96%8b%e7%9b%9b%e5%ae%b4%e5%83%91%e8%83%9e%e6%ad%a1%e8%81%9a%e8%b3%80%e7%a5%96%e5%9c%8b%e7%b9%81%e6%a6%ae/4277004 .
+
+[^255]:  SFPA旧金山摄影师联盟, “中国之夜，共渡美丽时光,” 18 Sep 2022, https://www.meipian.cn/4ef5maba.
+
+[^256]:  Ibid
+[^257]: 星島日報, “北加江蘇同鄉會 慶十年華誕暨新春聯誼,” 1 Feb 2024, https://www.singtaousa.com/2024-02-01/%E5%8C%97%E5%8A%A0%E6%B1%9F%E8%98%87%E5%90%8C%E9%84%89%E6%9C%83-%E6%85%B6%E5%8D%81%E5%B9%B4%E8%8F%AF%E8%AA%95%E6%9A%A8%E6%96%B0%E6%98%A5%E8%81%AF%E8%AA%BC/4748093#page3.
+
+[^258]: 新唐人電視台, “中共雇人抗议蔡英文 被曝克扣佣金,” 7 Apr 2023,https://cn.ntdtv.com/b5/2023/04/06/a103684674.html.
 [^259]: Interview with Topjor Tsultrim with subsequent elaboration.
 [^260]: Interview with Anna Kwok.
 [^261]: Interview with Sonamtso.
