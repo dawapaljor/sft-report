@@ -183,7 +183,7 @@ The following section traces the incidents of harassment, intimidation, and assa
 
 Interspersed with accounts of the events as they unfolded are identifications and profiles of united front figures and groups that, to varying extents, were associated with and/or involved in the harassment and intimidation of and assaults on protesters.
 
-<h2  id="#saturdaynov11" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Saturday, November 11</h2>
+<h2  id="saturdaynov11" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Saturday, November 11</h2>
 
 
 **(three days before Xi’s arrival in San Francisco)**
@@ -218,9 +218,7 @@ She reported the threats to the Federal Bureau of Investigation on the morning o
 
 Over the following days, Kwok said, “There were multiple moments when I knew others were threatened and harassed. When I reached out to the FBI, likely because I was the one who had well-documented threats prior to the occasion, I was the ‘person of interest’ in the system. In other words, the process catered more toward my safety and well-being instead of protecting all protesters on site. When asked about actions they could take, the options are limited. The FBI could not intervene in the on-site command chain of local law enforcement. When I spoke to the police on site, they were not equipped with knowledge of the situation; nor did they understand that this was transnational repression happening before their eyes. Some of them were even unaware of the fact that there were two sides and one was intimidating the other. The FBI agents wanted to help but struggled to find the mechanisms to do so.
 
-
-****
-<h2  id="#nov12to14" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">November 12 to 14</h2>
+<h2  id="nov12to14" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">November 12 to 14</h2>
 
 
 **(and other days leading up to Xi Jinping’s arrival)**
@@ -315,9 +313,9 @@ Patterns emerge that resemble previous mobilizations of the overseas united fron
 While a small percentage of CCP supporters who showed up on the streets of San Francisco directly engaged in acts of harassment of and assault on protesters, the mobilization of large numbers is meant to “flood the zone,” taking up space especially in locations where Xi is present. This is effected both to ensure support for Xi and to neutralize potential protests. The CCP supporters blast patriotic songs and slogans on megaphones at high volume and seek to obscure any views of protesters, and their banners and flags. Within the crowds of CCP supporters, many of whom are quite passive, are smaller numbers of people who are tasked or who take it upon themselves to more aggressively harass, intimidate, and even assault protesters. A number of those who do not directly take these more aggressive measures are nevertheless sometimes perceived as complicit with those who do, if they use, for example, their PRC flags to block any view of the harassment, intimidation, and assault. Kennedy Wong, a Hong Kong protester and member of Hong Kong Democracy Council, said, “I was quite frightened because we were outnumbered by CCP supporters; more importantly, some of them were very aggressive.”<sup>[^63]</sup> 
 
 On several occasions, protesters changed their plans due to safety concerns. Tibetan and Uyghur groups had originally planned to march on November 15 to the Hyatt Regency, where Xi was the guest of honor at a banquet, but when they saw the large numbers of CCP supporters gathered outside the hotel and an absence of separate protest zones, they decided against this course of action as they feared it could lead to a potentially violent confrontation. Several dozen Tibetans proceeded to the area near the Hyatt Regency, but many Tibetan elders along with Tibetans with children left.<sup>[^64]</sup> (In fact, those protesters who did brave the crowds of CCP supporters were attacked, as shall be seen.) Once on site, protesters quickly developed protocols and strategies to ensure their safety. Often, the effort required of protesters to protect themselves from pro-CCP attackers distracted significant attention from their original objective, namely, protesting against Xi Jinping. All protesters interviewed for this report said they felt in significant danger and were on constant high alert for attacks, stalking, and other forms of harassment, intimidation, and violence. The mobilization of the united front as well as more aggressive agents affiliated with the CCP did, in fact, deter protest and create an unsafe environment for protest, thus interfering with protesters’ free speech rights as well as infringing their basic human right to freedom of peaceful assembly.
-#
-#
-# <a name="_1is3glo8whvv"></a><a name="_a6kq7zcugku"></a><a name="_rcsybx33kk7"></a>**Tuesday, November 14**
+
+<h2  id="tuesdaynov14" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Tuesday, November 14</h2>
+
 **(first day of Xi’s Visit to San Francisco)**
 
 Xi Jinping arrived at the San Francisco International Airport. He and the Chinese delegation were rumored to be staying at the St Regis hotel. Hundreds of CCP supporters lined the route from the airport to the hotel and also gathered near the hotel. Some protesters also went to the airport, a few were present along the route of Xi’s motorcade, and a few more were near the hotel. The first incidents of harassment, intimidation, and assault occurred on this day.
@@ -522,10 +520,10 @@ A CACWA banner was hung on a barricade near an attack on Tibetan and Hong Kong p
 **PHOTO: Chinese Anti-Cult World Alliance banner**
 
 **Caption: A Chinese Anti-Cult World Alliance banner hangs on a railing at the corner of Third and Jessie Streets near the Hyatt Regency on November 15. The photo was taken from a designated protest zone set up by police across the street. Later, a group of CCP supporters attacked the protesters. Li Huahong, the leader of CACWA, was among the group (for full details, see below).**
-#
 
-# <a name="_95w84ib4oljd"></a><a name="_vlvifmh0ghdq"></a>**Wednesday, November 15**
-**(second day of Xi Jinping’s visit to San Francisco)**
+<h2  id="wednesdaynov15" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Wednesday, November 15</h2>
+
+**(second day of Xi Jinping’s visit to San Francisco)**  
 
 In the afternoon, US President Joe Biden and Xi Jinping met at the Filoli Estate, a distance of about 25 miles from downtown San Francisco. Beginning in the morning and stretching into the afternoon, a large rally and march were held by Chinese, Hong Kong, Tibetan, and Uyghur protesters. The march began at the Consulate General of the People’s Republic of China in San Francisco and proceeded through downtown San Francisco. In the evening, US business organizations hosted a banquet in honor of Xi Jinping at the Hyatt Regency Hotel in downtown San Francisco. Outside the hotel where the Xi banquet took place, there was a pervasive threatening atmosphere; protesters faced constant harassment and intimidation by CCP supporters. Over the course of the day, at least 10 protesters were assaulted by CCP supporters.
 
@@ -548,11 +546,11 @@ In the morning, Chinese, Hong Kong, Tibetan, and Uyghur protesters gathered at t
 
 The rally and march were one of the few occasions during the days of Xi Jinping’s visit in San Francisco when protesters were not attacked, harassed, or intimidated by CCP supporters. This is primarily due to three factors: 
 
-\1) It did not go anywhere near where Xi Jinping was expected or scheduled to be\. 
+1. It did not go anywhere near where Xi Jinping was expected or scheduled to be\. 
 
-\2) It was accompanied by a significant deployment of police officers\. 
+2. It was accompanied by a significant deployment of police officers\. 
 
-\3) It was large\. 
+3. It was large\. 
 
 Conversely, most of the incidents of harassment, intimidation, and assault occurred near locations where Xi Jinping was present or expected to be and where CCP supporters outnumbered protesters. At those locations, there were large deployments of police officers, but more often than not, police did not appear to regard the protection of citizens as their primary duty, and their apparent indifference signaled to CCP supporters that they would not be held accountable for their actions.
 
@@ -1007,9 +1005,10 @@ Protesters suspected Yu of playing either a coordinating or scouting role or bot
 Yu appears to be based in the Portland, Oregon, area. Unlike many of the other identified harassers, intimidators, and assailants, he does not appear to have a history of involvement with united front organizations.<sup>[^197]</sup> It is unclear how such a previously unassuming person with no apparent history of united front involvement found himself playing a fairly active role, including assaulting a protester, on the streets of San Francisco. It is possible he was recruited by Jing Dongsheng, also of Portland, with whom he appears in Ma Yongtian’s video and in the photo taken in front of the Hyatt Regency.
 
 Chow would be assaulted again by CCP supporters on November 17 near the airport when he was in the company of Kaiyu Zhang, the victim of one of the most brutal incidents of assault during Xi Jinping’s visit (see below). On November 21, Chow filed a report with police in regard to both assaults: the one on the 15th and the one on the 17th.<sup>[^198]</sup>
-#
 
-# <a name="_ohz85vxzaez"></a><a name="_grry7f2mqrsb"></a>**Thursday, November 16**
+<h2  id="thursdaynovember16" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Thursday, November 16</h2>
+
+
 **(third day of Xi Jinping’s visit to San Francisco)**
 
 Xi Jinping took part in APEC meetings held at the Moscone Center, only blocks away from two other locations mentioned frequently in this report, the Hyatt Regency Hotel and St Regis Hotel. Because there was no event in which Xi was featured, such as the Biden-Xi meeting or the banquet in honor of Xi, no large-scale protests against Xi were called in advance. There were a number of serious incidents of harassment, intimidation, and assault. Most occurred in the vicinity of the Moscone Center, and most were against Chinese protesters.
@@ -1163,8 +1162,8 @@ Chinese protester Li Delong (李德龍) was attacked near the Moscone Center. He
 
 Other assaults on November 16 were reported in the media or on social media, including the following: Chinese protester He Ruizhong (賀瑞忠) reported being beaten by several security guards working with CCP supporters on the sidewalk outside Oren’s Hummus restaurant across the street from the Hyatt Regency.<sup>[^227]</sup> Chinese protester Ge Kaiying (葛開英) reported being attacked around noon around Fourth Street near the Moscone Center. She said the attacker stepped on her feet, stole a box she was carrying, and then hit her. She identified the attacker as Li Huahong, the head of the Chinese Anti-Cult World Alliance who was also involved in the assault on Jia Junwei near the St Regis on the 14th and the attack on the designated protest area across the street from the Hyatt Regency on the 15th (see above).<sup>[^228]</sup> A Chinese protester named Victor Yuen as well as Chinese protester Chen Weiming (陳維明) reported the beating of another China Democracy Party member who was taken away in an ambulance for treatment. This occurred near the Hyatt Regency.<sup>[^229]</sup> 
 
+<h2  id="fridaynov17" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Friday, November 17</h2>
 
-# <a name="_12p4wmxp01mt"></a>**Friday, November 17**
 **(fourth day of Xi Jinping’s visit to San Francisco)**
 
 Xi Jinping was scheduled to depart San Francisco International Airport. Beginning in the morning, crowds of CCP supporters as well as protesters gathered along the airport’s North Access Road. Most protesters and CCP supporters parked their cars in the Costco Wholesale parking lot nearby. All of the incidents of harassment, intimidation, and assault on the 17th occurred in this general area.
@@ -1429,8 +1428,7 @@ Kaiyu Zhang said he was interviewed for about an hour by the FBI. As of May 15, 
 That was the last reported assault during Xi Jinping’s visit to San Francisco. He would depart from San Francisco International Airport later that day.
 
 
-
-**Reactions and Responses**
+<h2  id="reactions" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Reactions and Responses</h2>
 
 The harassment and intimidation of and assaults on protesters against Xi Jinping and the Chinese Communist Party during Xi’s visit to San Francisco elicited a variety of reactions and responses from protesters, members of Congress, and the PRC embassy, though it elicited silence from other institutions and politicians. Below, a few of those reactions are highlighted.
 
@@ -1484,7 +1482,8 @@ It appears that, while members of Congress who are concerned about the Chinese C
 
 The PRC Embassy statement was an attempt to counter the emerging narrative of attacks on protesters.<sup>[^287]</sup> We wrote to the embassy and asked for information in regard to its allegations as well as any other form of elaboration on the statement it would like to make. As of May 15, 2024, no response has been received.
 
-**Analysis**
+<h2  id="Analysis" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Analysis</h2>
+
 
 CCP supporters were mobilized and transported from across the US to San Francisco. It appears that their primary intentions were to provide the impression of a massive “welcome” to and support of Xi Jinping as well as to neutralize any show of opposition to Xi or the CCP. In regard to the first intention, they were, for the most part, within their rights; in regard to the second, it appears some of them may have transgressed the law and interfered with the free speech rights of protesters as well as infringing their universal human right to freedom of peaceful assembly.
 
@@ -1529,8 +1528,7 @@ In general, more attention must be paid to the fact that, though many of the ind
 
 
 
-
-**Recommendations**
+<h2  id="recommendations" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Recommendations</h2>
 
 **Recommendations to the White House and the Department of State:**
 
@@ -1572,8 +1570,7 @@ In general, more attention must be paid to the fact that, though many of the ind
 - Appoint a UN Special Rapporteur on Transnational Repression.
 
 
-
-**Acknowledgments**
+<h2  id="acknowledgments" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Acknowledgments</h2>
 
 We thank the protesters against Xi Jinping and the CCP in San Francisco for going out to protest, for persevering in the face of harassment, intimidation, and assault, and for entrusting us with their accounts. This report would not have been possible without their cooperation.  
 
@@ -1584,8 +1581,8 @@ We thank the many volunteers and others who have contributed to this report in v
 We thank the external reviewers and others who helped to ensure the quality and accuracy of the report. 
 
 
+<h2  id="appendices" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Appendices</h2>
 
-**Appendices**
 
 
 
