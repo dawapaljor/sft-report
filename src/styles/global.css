@@ -17,6 +17,10 @@
          border-radius: 20px;
          
       }
+
+     iframe, iframe+p>strong>em{ display: block;
+      }
+    
      .footnotes{
         margin-top:20px;
         font-size: 12px;

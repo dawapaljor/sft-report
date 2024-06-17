@@ -224,7 +224,6 @@ When Tibetan protester Tsela Zoksang came down from the flagpole at the end of t
 **Parking Garage Attack**
 Tsela was still up the flagpole, about 25 to 30 feet in the air, when four Tibetan protesters were attacked in a parking garage across from the Hyatt Regency. The garage is called the Hearst Parking Center. The protesters unfurled a large banner about 30 by 15 feet in size from one of the higher floors. It read, “Dictator Xi Jinping, your time is up! Free Tibet.”
 
-Tsela was still up the flagpole, about 25 to 30 feet in the air, when four Tibetan protesters were attacked in a parking garage across from the Hyatt Regency. The garage is called the Hearst Parking Center. The protesters unfurled a large banner about 30 by 15 feet in size from one of the higher floors. It read, “Dictator Xi Jinping, your time is up! Free Tibet.”
 
 ![signal-2024-04-12-103622_002.jpeg](/images/signal-2024-04-12-103622_002.jpeg)
 

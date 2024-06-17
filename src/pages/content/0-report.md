@@ -18,8 +18,8 @@ The report also examines the response mechanisms of US policymakers and law enfo
 This report makes 18 recommendations to the White House, relevant federal agencies, Congress, state and local authorities, and the United Nations, and includes  the following recommendations: 
 
 - Investigate whether united front groups in the US are acting as unregistered foreign agents of the PRC in violation of the Foreign Agents Registration Act.
-- Implement additional vetting for diplomatic visas issued to PRC applicants and screening for applicants connected to TNR activities. 
-- Offer protection to groups on US soil that are subject to TNR, including by expediting asylum cases and upgrading the existing Deferred Enforced Departure program for Hong Kongers to a Temporary Protected Status (TPS) designation. 
+- Implement additional vetting for diplomatic visas issued to PRC applicants and screening for applicants connected to TNR activities.
+- Offer protection to groups on US soil that are subject to TNR, including by expediting asylum cases and upgrading the existing Deferred Enforced Departure program for Hong Kongers to a Temporary Protected Status (TPS) designation.
 - Pass legislation creating resources to combat TNR, such as the Transnational Repression Policy Act (H.R. 3654/S.831), the Stop Transnational Repression Act (H.R. 5907), the Combating Transnational Repression Act of 2024 (H.R. 7443), the Law Enforcement Support and Transnational Repression Hotline Act (H.R. 7433), and the Strengthening State and Local Efforts to Combat Transnational Repression Act (H.R. 7439).
 - Maintain relations with a diversity of Asian American, Native Hawaiian, and Pacific Islander (AANHPI) groups representing different political views and identities and conduct due diligence on these groups’ backgrounds.
 
@@ -106,9 +106,8 @@ The mass protests in Hong Kong in 2019 were another moment when the CCP felt its
 
 This report describes a repeating pattern of attacks on protesters during Xi Jinping’s 2023 visit to San Francisco. This pattern is defined by the following aspects:
 
-\1) United front groups and figures involved in the CCP-supporting and counter-protest efforts are non-state actors\. While their exact relation to the CCP as an institution may be somewhat vague or unclear, they are not formally, openly, or explicitly incorporated into Party structures\. In other words, the CCP is effectively “outsourcing” repressive actions\. 
-
-\2) there are clear and well-documented connections between (i) the state organs of the PRC such as embassies and consulates, (ii) United Front organs that are formal parts of CCP infrastructure in the PRC, and (iii) overseas united front groups that are informally connected to the party structure\. 
+1. United front groups and figures involved in the CCP-supporting and counter-protest efforts are non-state actors\. While their exact relation to the CCP as an institution may be somewhat vague or unclear, they are not formally, openly, or explicitly incorporated into Party structures\. In other words, the CCP is effectively “outsourcing” repressive actions. 
+2. there are clear and well-documented connections between (i) the state organs of the PRC such as embassies and consulates, (ii) United Front organs that are formal parts of CCP infrastructure in the PRC, and (iii) overseas united front groups that are informally connected to the party structure\. 
 
 It is worth noting that while the pro-CCP public assemblies “welcoming Xi” were intended to present a peaceful face of “patriotic” support for China and for good relations between China and the US, in fact their motives also involved neutralizing any manifestation of opposition to Xi or the CCP. The strong motive to neutralize dissent has led to repressive actions not short of harassment, intimidation, and assault, and as such, has resulted in acts of transnational repression. It is further worth noting that not all individuals associated with these groups participated in harassment, intimidation and assault. 
 
@@ -194,9 +193,8 @@ Threats against activists were made even before Xi Jinping’s arrival on Novemb
 
 At least one Chinese activist residing in the United States, Yao Cheng (姚誠), reported that, on November 10, his daughter was summoned to a Ministry of Public Security office in Anhui Province and instructed her to tell him not to go to San Francisco to participate in protests. Yao’s message to the Anhui PSB was, “You inviting her to tea [a common euphemism for interrogation in the PRC] is actually a threat to me.”<sup>[^25]</sup>
 
-**SCREENSHOT OF TWEET: https://x.com/Yaochen64034657/status/1723741233565286804?s=20**
-
-**(ALSO AT Screen Shot 2024-04-15 at 10.55.13 AM)**
+![image](/images/Screen-Shot-2024-04-1.png)
+``(ALSO AT Screen Shot 2024-04-15 at 10.55.13 AM)``
 
 **Threats against Uyghurs**
 
@@ -206,11 +204,11 @@ Uyghurs also reported cases of Uyghurs in East Turkestan and/or the PRC being co
 
 On the morning of November 11, Hong Kong Democracy Council Executive Director Anna Kwok announced on social media that she had arrived in San Francisco and was going to protest against Xi Jinping.<sup>[^27]</sup>
 
-In response, about 12 hours later, she was inundated with online threats: Some encouraged others to apprehend her. Others threatened kidnapping. One said, “Can somebody drop her unconscious body at the Chinese consulate/embassy?”<sup>[^28]</sup> The threats, all sent from what appear to be pseudonymous accounts, appeared to be coordinated. The accounts shared and commented on each other’s comments. Many used the same image: her face on a Hong Kong Police Force’s wanted poster that offered a bounty of HK$1 million for information or assistance leading to her arreSt The US Department of State and governmental authorities in other countries had already denounced the arrest warrants and bounties against Hong Kong activists in exile as transnational repression. 
+In response, about 12 hours later, she was inundated with online threats: Some encouraged others to apprehend her. Others threatened kidnapping. One said, “Can somebody drop her unconscious body at the Chinese consulate/embassy?”<sup>[^28]</sup> The threats, all sent from what appear to be pseudonymous accounts, appeared to be coordinated. The accounts shared and commented on each other’s comments. Many used the same image: her face on a Hong Kong Police Force’s wanted poster that offered a bounty of HK$1 million for information or assistance leading to her arreSt The US Department of State and governmental authorities in other countries had already denounced the arrest warrants and bounties against Hong Kong activists in exile as transnational repression.
 
-**EMBED/SCREENSHOT TWEET: [https://x.com/AnnaKwokFY/status/1723772927751950490?s=20**](https://x.com/AnnaKwokFY/status/1723772927751950490?s=20)**
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">🚨Since announcing my arrival in San Francisco for this Wednesday’s protest against Xi, I have been receiving threats and intimidations from pro-Beijing accounts. They are threatening to “bounty hunt” and encouraging people to “drop her unconscious body at the Chinese consulate.” <a href="https://t.co/OCvSHCyHAk">pic.twitter.com/OCvSHCyHAk</a></p>&mdash; Anna Kwok 郭鳳儀 (@AnnaKwokFY) <a href="https://twitter.com/AnnaKwokFY/status/1723772927751950490?ref_src=twsrc%5Etfw">November 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">[^28]</script>
 
-**<sup>[^29]</sup>**
+<sup>[^29]</sup>
 
 Kwok said, “All the comments appeared at once. Most of the comments encouraged others to act on the arrest warrant and bounty and hunt me down; they didn’t say they’d do it themselves. They sought to rile up lone wolf patriots who would be mad enough to do it. That way, [those who made the posts on social media] wouldn’t have to pay the legal consequences themselves. It was the same group of 10 or so accounts making the threats. I assume they were coordinated and instructed.”<sup>[^30]</sup>
 
@@ -235,19 +233,21 @@ CSSAs have a record of surveilling and reporting on Chinese students. They are c
 
 An email message from a “BCSSA Official”at UC Berkeley told Chinese students that transport to welcoming events for Xi Jinping and meals would be arranged and provided. 
 
-**PHOTO: Berkeley CSSA email cropped.png**
+
+![Berkeley-CSSA-email-cropped.png](/images/Berkeley-CSSA-email-cropped.png)  
 
 Berkeley CSSA students were later seen on November 14 at the “welcome” gathering for Xi Jinping near the San Francisco International Airport. As many as 45 students posed for group photos with the Berkeley CSSA banner.
 
-**PHOTO: UC Berkeley Chinese students 5.jpeg**
+![UC-Berkeley-Chinese-students-5.jpeg](/images/UC-Berkeley-Chinese-students-5.jpeg) 
 
 A message addressed to “executive committee members” said that CSSA representatives at University of Southern California were informed by the Chinese consulate in Los Angeles that Xi Jinping would be visiting and that students belonging to the USC CSSA were invited. Students were expected to stay in San Francisco for three or four days, the duration of Xi’s visit, and, “for everyone’s safety,” would not be allowed to go out on their own or engage in separate activities. This message also said that all travel, accommodation, and food expenses would be covered, notified students that this “glorious mission” was a significant duty, and advised addressees not to share the contents of the message  with others. The message also said that once people signed up, they could not withdraw.
 
-**PHOTO: USC CSSA APEC invite.jpeg** 
+![USC-CSSA-APEC-invite](/images/USC-CSSA-APEC-invite.jpeg)
 
 The same message addressed to executive committee members of the USC CSSA was also sent to the UCLA CSSA executive committee members. 
 
-**PHOTO: UCLA CSSA**
+![UCLA-CSSA](/images/UCLA-CSSA.png)
+
 
 A video posted online by a Chinese student in the US confirms that, while the event  was coordinated by CSSAs, the buses and meals were provided by the PRC Consulate.<sup>[^35]</sup>A Chinese student who traveled to San Francisco said the PRC Consulate paid for flight tickets from New York City and accommodations.<sup>[^36]</sup>  
 
@@ -271,15 +271,13 @@ While some united front groups seek to obscure their close links with CCP entiti
 
 Beijing Association USA was one of many united front groups seen lining the route to the Filoli Estate where the meeting between Xi Jinping and President Biden took place on November 15.
 
-**PHOTO: Screen Shot 2024-02-12 at 10.16.41 AM**
-
+![Screen-Shot-2024-02-12-at-10.16.41-AM](/images/Screen-Shot-2024-02-12-at-10.16.41-AM.png)
 <sup>[^45]</sup>
 
 Another group present along the Filoli route on the 15th was the America Cultural Center Of Chinese Minorities (美國中華民族文化中心) based in Arcadia, California.
 
-**PHOTO: Screen Shot 2024-02-12 at 10.27.32 AM**
-
-**<sup>[^46]</sup>**
+![Screen-Shot-2024-02-12-at-10.27.32-AM](/images/Screen-Shot-2024-02-12-at-10.27.32-AM.png)
+<sup>[^46]</sup>
 
 Like many united front groups in the US, the America Cultural Center Of Chinese Minorities has a minimal public profile, but it is registered as a 501(c)(3) nonprofit.<sup>[^47]</sup> 
 
@@ -292,17 +290,40 @@ One of these individuals is Charles Lu Qiang (鹿強). Chinese-language media ou
 Brief profiles of these two individuals reveal their ties to the CCP. Tracing these ties helps to indicate how the CCP uses united front groups to carry out its agenda abroad. 
 
 
-|<p>世界日報, “僑界赴金山挺習近平 組千人巴士團 保安荷槍實彈護航,” 15 Nov 2023, <https://www.worldjournal.com/wj/story/121359/7575395>; </p><p>
-    星島日報, “南加州華人華僑近千人 赴三藩市迎接習近平到訪,” 15 Nov 2023, https://www.singtaousa.com/2023-11-15/%E5%8D%97%E5%8A%A0%E5%B7%9E%E8%8F%AF%E4%BA%BA%E8%8F%AF%E5%83%91%E8%BF%91%E5%8D%83%E4%BA%BA%E2%80%82%E8%B5%B4%E4%B8%89%E8%97%A9%E5%B8%82%E8%BF%8E%E6%8E%A5%E7%BF%92%E8%BF%91%E5%B9%B3%E5%88%B0%E8%A8%AA/4667950.</p><p>Charles Lu Qiang (鹿強), a travel agent based in the Los Angeles area, reportedly organized the transport of 16 to 20 buses of CCP supporters from southern California to San Francisco. Lu utilized the resources of his travel agency to secure transportation.<sup>[^48]</sup> </p><p></p><p>华联社(华人联合通讯社), ”第十一次全国归侨侨眷代表大会圆满落幕 南加州华人代表备受鼓舞,” 5 Sep 2023, <https://huarenone.com/2023/09/05/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%AC%A1%E5%85%A8%E5%9B%BD%E5%BD%92%E4%BE%A8%E4%BE%A8%E7%9C%B7%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%9C%86%E6%BB%A1%E8%90%BD%E5%B9%95-%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%8D%8E/>.</p><p>As recently as September 2023, two months before Xi Jinping’s visit to San Francisco, Lu attended the 11th National Congress of Returned Overseas Chinese (第十一次全國歸僑僑眷代表大會) in Beijing, where Xi Jinping and other top CCP leaders spoke.<sup>[^49]</sup> </p><p></p><p>“上海市侨联第十届委员会有关名单,” 6 Jan 2015, <https://www.shanghaiql.org/detailpage/qlwy-131897d9-c146-11ec-b566-7c8ae163e649.html>; “上海市侨联第十一届委员会有关名单”,”</p><p>
-    4 July 2018.</p><p>Alex Joske, "Reorganizing the United Front Work Department: New Structures for a New Era of Diaspora and Religious Affairs Work,” The Jamestown Foundation, 9 May 2019, <https://jamestown.org/program/reorganizing-the-united-front-work-department-new-structures-for-a-new-era-of-diaspora-and-religious-affairs-work/>. </p><p>Lu has served as an overseas committee member of the Shanghai Qiao Lian (上海市僑聯), a local group of the All-China Federation of Returned Overseas Chinese (中華全國歸國華僑聯合會) in Shanghai. <sup>[^50]</sup> ACFROC (中國僑聯 [簡稱]) is the top-level CCP United Front group responsible for maintaining relations between the CCP and overseas Chinese.<sup>[^51]</sup> </p><p></p><p>中国侨网版, “‘海外列席侨胞“两会印象’：收获一生难忘,” 13 Mar 2015, http://www.chinaqw.com/hqhr/2015/03-13/41377.shtml.</p><p>In 2015, Lu was one of 38 overseas Chinese invited to attend the main annual session of the Chinese People’s Political Consultative Conference (中國人民政治協商會議; CPPCC), the very highest United Front organ of the CCP and an advisory body to the PRC government composed of some of the highest-profile CCP supporters. An invitation to an overseas Chinese to attend the annual session of the CPPCC is considered recognition of exceptional contributions to united front work abroad; only “well-known leaders in their host countries” are invited to attend. Lu claimed the conference had an especially good democratic atmosphere. The CPPCC session took place in the Great Hall of the People in Beijing.<sup>[^52]</sup> </p><p></p><p>Chinese News USA, “美國南加州華人社團聯合會舉行第十屆領導機構就職典禮,” 30 Apr 2022, <http://www.chinesenewsusa.com/news/show-35367.html>.</p><p>Lu is the honorary founding chairman of the Roundtable of Southern California Chinese-American Organizations (RCAO; 美國南加州華人社團聯合會[簡稱南華聯]). As of 2022, RCAO was a coalition made up of at least 170 member organizations. At a ceremony in 2022 inaugurating its 10th leadership team—of which Lu is part in his capacity as honorary founding chairman—Zhang Ping, the then-Consul General of the PRC consulate in Los Angeles, expressed admiration for the work of the RCAO as well as gratitude to its past and present leaders. Lu is prominent among them in photos of the event. In one, he stands next to Zhang Sujiu, daughter of General Zhang Zhizhong, whom Mao Zedong appointed to several high-ranking positions in the early decades of the PRC. Zhang herself is, like Lu, an honorary chair of RCAO.<sup>[^53]</sup> </p><p></p><p>US-China Restaurant Alliance entry on 鹿强/Charles Lu, https://u-cra.com/profile/%E9%B9%BF%E5%BC%BAcharles-lu/.</p><p>Lu is also reputed to be a major convener of “patriotic” gatherings of overseas Chinese in southern California to “oppose Taiwan and Hong Kong independence.”<sup>[^54]</sup> </p><p></p><p>世界日報, “拜習會外傳武鬥 「皇帝」毆打示威者,” 16 Nov 2023, <https://www.worldjournal.com/wj/story/121519/7578092>.</p><p>In addition to having transported 16 to 20 buses of CCP supporters to San Francisco, Lu Qiang himself, along with hundreds of other CCP supporters, was apparently present along the route to the Filoli Estate where the Xi-Biden meeting was held on November 15.<sup>[^55]</sup></p><p></p>|
-| :- |
+> Charles Lu Qiang (鹿強), a travel agent based in the Los Angeles area, reportedly organized the transport of 16 to 20 buses of CCP supporters from southern California to San Francisco. Lu utilized the resources of his travel agency to secure transportation.<sup>[^48]</sup>
+
+> As recently as September 2023, two months before Xi Jinping’s visit to San Francisco, Lu attended the 11th National Congress of Returned Overseas Chinese (第十一次全國歸僑僑眷代表大會) in Beijing, where Xi Jinping and other top CCP leaders spoke.<sup>[^49]</sup>
+
+> Lu has served as an overseas committee member of the Shanghai Qiao Lian (上海市僑聯), a local group of the All-China Federation of Returned Overseas Chinese (中華全國歸國華僑聯合會) in Shanghai. <sup>[^50]</sup> ACFROC (中國僑聯 [簡稱]) is the top-level CCP United Front group responsible for maintaining relations between the CCP and overseas Chinese.<sup>[^51]</sup>
+
+> In 2015, Lu was one of 38 overseas Chinese invited to attend the main annual session of the Chinese People’s Political Consultative Conference (中國人民政治協商會議; CPPCC), the very highest United Front organ of the CCP and an advisory body to the PRC government composed of some of the highest-profile CCP supporters. An invitation to an overseas Chinese to attend the annual session of the CPPCC is considered recognition of exceptional contributions to united front work abroad; only “well-known leaders in their host countries” are invited to attend. Lu claimed the conference had an especially good democratic atmosphere. The CPPCC session took place in the Great Hall of the People in Beijing.<sup>[^52]</sup> 
+
+> Lu is the honorary founding chairman of the Roundtable of Southern California Chinese-American Organizations (RCAO; 美國南加州華人社團聯合會[簡稱南華聯]). As of 2022, RCAO was a coalition made up of at least 170 member organizations. At a ceremony in 2022 inaugurating its 10th leadership team—of which Lu is part in his capacity as honorary founding chairman—Zhang Ping, the then-Consul General of the PRC consulate in Los Angeles, expressed admiration for the work of the RCAO as well as gratitude to its past and present leaders. Lu is prominent among them in photos of the event. In one, he stands next to Zhang Sujiu, daughter of General Zhang Zhizhong, whom Mao Zedong appointed to several high-ranking positions in the early decades of the PRC. Zhang herself is, like Lu, an honorary chair of RCAO.<sup>[^53]</sup>
+
+> Lu is also reputed to be a major convener of “patriotic” gatherings of overseas Chinese in southern California to “oppose Taiwan and Hong Kong independence.”<sup>[^54]</sup>
+
+> In addition to having transported 16 to 20 buses of CCP supporters to San Francisco, Lu Qiang himself, along with hundreds of other CCP supporters, was apparently present along the route to the Filoli Estate where the Xi-Biden meeting was held on November 15.<sup>[^55]</sup>
 
 
-|<p>See New Tang Dynasty Television, "APEC峰會中共僱凶打人 幕後黑手身分曝光,” 18 Nov 2023, <https://www.ntdtv.com/b5/2023/11/18/a103827274.html>. The Wikipedia entry for 陳善莊 also lists a number of leadership positions held by Chen Shanzhuang in united front groups with links to the source: <https://zh.wikipedia.org/zh-hant/%E9%99%B3%E5%96%84%E8%8E%8A>. Asian American Community Empowerment is also sometimes referred to by the acronym, BRACE, which is related to the organization’s former name, Brooklyn Asian Community Empowerment. A more literal translation of its Chinese name, 美國亞裔社團聯合總會, would be Federation of Asian American Societies.</p><p>In this short video clip, Chen Shanzhuang can be seen leading a crowd of CCP supporters in San Francisco. He is also interviewed herein, and the badge of the American Chinese Commerce Association (Hong Kong) can be clearly seen on his chest: 不那么快讯 post, 27 Nov 2023, <https://x.com/Soh_Shorts/status/1729298341354438661?s=20>. The Facebook page of the American Chinese Commerce Assocation (Hong Kong) appears to have fallen into disuse: https://www.facebook.com/p/%E7%BE%8E%E5%9C%8B%E9%A6%99%E6%B8%AF%E6%97%85%E7%BE%8E%E8%8F%AF%E4%BA%BA%E7%B8%BD%E5%95%86%E6%9C%83-American-Chinese-Commerce-AssociationHK-100069852020888/.</p><p>John Chen Shanzhuang (陳善莊), (sometimes spelled “John Chan” in English) reportedly played a leading role in mobilizing CCP supporters from New York. He is reported to be the chair of Asian American Community Empowerment (美國亞裔社團聯合總會).<sup>[^56]</sup> He was interviewed on the streets of San Francisco during Xi Jinping’s visit, and the accompanying photograph shows him wearing a lapel pin of the American Chinese Commerce Association (HK) (美國(香港)旅美華人總商會), **another group** of which he is the chair.<sup>[^57]</sup></p><p></p><p>**PHOTO: Screen Shot 2024-03-01 at 9.24.40 AM**</p><p></p><p>星島日報, “亞總會8大道新辦公室剪綵,” 9 Nov 2023, <https://www.singtaousa.com/2023-11-09/%E4%BA%9E%E7%B8%BD%E6%9C%838%E5%A4%A7%E9%81%93%E6%96%B0%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%89%AA%E7%B6%B5/4661708#page3>.</p><p>On November 8, only days before he led CCP supporters to San Francisco, Chen met Deputy Consul General Wu Xiaoming (吳曉明) of the PRC consulate in New York.<sup>[^58]</sup> The occasion was a ribbon-cutting ceremony for a new office for his organization, Asian American Community Empowerment. Wu publicly praised Chen, indicating a close relationship between PRC officials and Chen as a leader of united front groups.</p><p></p><p>See American Chinese Commerce Association (Hong Kong)/美國(香港)旅美華人總商會, “會長 陳善莊 John Chan,” <http://www.accahk97.org/%E4%BC%9A%E5%B1%95/%E7%8F%BE%E4%BB%BB%E6%9C%83%E9%95%B7-%E9%99%B3%E5%96%84%E8%8E%8A-john-chan/>, and Embassy of the People’s Republic of China in the Republic of Singapore, “美国纽约侨界揭批“法轮功,” 5 Feb, 2001, <http://sg.china-embassy.gov.cn/zt_0/jpflg_132920/202302/t20230201_11017597.htm>.</p><p>鏡新聞, “亞總會主席陳善莊爆氣槓上台灣媒體　稱人民擁護習近平連任　被問到「投票權」一度語塞｜鏡速報,” 31 Mar 2023, <https://youtu.be/vTlz63TW3d8?feature=shared>.</p><p>Chen has been a leader of united front activities in New York City for upward of three decades, regularly organizing public gatherings to express support for PRC government positions on matters ranging from the US bombing of the PRC embassy in Belgrade in 1999 to the Falun Gong.<sup>[^59]</sup> In March 2023, Chen was prominent at a protest of CCP supporters in New York City against the visit to the US of the Taiwanese then-president Tsai Ing-wen.<sup>[^60]</sup> </p><p></p><p>陳善莊, <https://zh.wikipedia.org/zh-hant/%E9%99%B3%E5%96%84%E8%8E%8A>. See also “會長 陳善莊 John Chan,” <http://www.accahk97.org/%E4%BC%9A%E5%B1%95/%e7%8f%be%e4%bb%bb%e6%9c%83%e9%95%b7-%e9%99%b3%e5%96%84%e8%8e%8a-john-chan/> for the website shared by both the American Chinese Commerce Association and the American Chinese Commerce Association (Hong Kong), and 星島日報, “現場激情澎湃人人一臉幸福,” 15 Nov 2023, <https://www.singtaousa.com/2023-11-15/%e7%8f%be%e5%a0%b4%e6%bf%80%e6%83%85%e6%be%8e%e6%b9%83%e4%ba%ba%e4%ba%ba%e4%b8%80%e8%87%89%e5%b9%b8%e7%a6%8f/4668161#page3> for mention of Chen as convener of the Coalition of Asian-Americans for Civil Rights (亞裔維權大聯盟).</p><p>In 1999, he co-founded the American Fuzhou Langqi United Association (美國福州琅岐聯合總會). He is also listed as the chairman of the American Chinese Commerce Association (美華總商會會長), which shares a website with the American Chinese Commerce Association (Hong Kong) (美國(香港)旅美華人總商會), of which he is also president. Besides the organizations mentioned above, he is also reported to be the convener of an organization called Coalition of Asian-Americans for Civil Rights (CAACR) (亞裔維權大聯盟).<sup>[^61]</sup></p><p></p><p>In San Francisco, Chen led supporters in “welcoming” Xi outside the St Regis Hotel, where the Chinese delegation was staying, on November 14. Some of them harassed and intimidated protesters. </p><p></p><p>From 不那么快讯 (@Soh\_shorts), 27 Nov 2023, <https://x.com/Soh_Shorts/status/1729298341354438661>.</p><p>**VIDEO: AtSlH8nNhO\_tnuUi.mp4<sup>[^62]</sup>**</p><p></p>|
-| :- |
+</br> 
 
 
-Besides united front figures like Lu Qiang and Chen Shanzhuang, who** reportedly organized the mobilization and transport of CCP supporters to San Francisco from, respectively, southern California and New York, several other prominent united front leaders participated in the “welcoming” of Xi Jinping in San Francisco. They will be noted as they appear in the timeline of events below. 
+> John Chen Shanzhuang (陳善莊), (sometimes spelled “John Chan” in English) reportedly played a leading role in mobilizing CCP supporters from New York. He is reported to be the chair of Asian American Community Empowerment (美國亞裔社團聯合總會).<sup>[^56]</sup> He was interviewed on the streets of San Francisco during Xi Jinping’s visit, and the accompanying photograph shows him wearing a lapel pin of the American Chinese Commerce Association (HK) (美國(香港)旅美華人總商會), **another group** of which he is the chair.<sup>
+[^57]</sup>
+
+> ![Screen-Shot-2024-03-01-at-9.24.40-AM](/images/Screen-Shot-2024-03-01-at-9.24.40-AM.png)
+
+> On November 8, only days before he led CCP supporters to San Francisco, Chen met Deputy Consul General Wu Xiaoming (吳曉明) of the PRC consulate in New York.<sup>[^58]</sup> The occasion was a ribbon-cutting ceremony for a new office for his organization, Asian American Community Empowerment. Wu publicly praised Chen, indicating a close relationship between PRC officials and Chen as a leader of united front groups.
+
+> Chen has been a leader of united front activities in New York City for upward of three decades, regularly organizing public gatherings to express support for PRC government positions on matters ranging from the US bombing of the PRC embassy in Belgrade in 1999 to the Falun Gong.<sup>[^59]</sup> In March 2023, Chen was prominent at a protest of CCP supporters in New York City against the visit to the US of the Taiwanese then-president Tsai Ing-wen.<sup>[^60]</sup>
+
+> In 1999, he co-founded the American Fuzhou Langqi United Association (美國福州琅岐聯合總會). He is also listed as the chairman of the American Chinese Commerce Association (美華總商會會長), which shares a website with the American Chinese Commerce Association (Hong Kong) (美國(香港)旅美華人總商會), of which he is also president. Besides the organizations mentioned above, he is also reported to be the convener of an organization called Coalition of Asian-Americans for Civil Rights (CAACR) (亞裔維權大聯盟).<sup>[^61]</sup>
+
+> In San Francisco, Chen led supporters in “welcoming” Xi outside the St Regis Hotel, where the Chinese delegation was staying, on November 14. Some of them harassed and intimidated protesters.  
+
+>  <sup>[^62]</sup> <iframe src="https://drive.google.com/file/d/1Euklhd43btG6zhk6y94RloMi_RKZeXww/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe> 
+
+Besides united front figures like Lu Qiang and Chen Shanzhuang, who** reportedly organized the mobilization and transport of CCP supporters to San Francisco from, respectively, southern California and New York, several other prominent united front leaders participated in the “welcoming” of Xi Jinping in San Francisco. They will be noted as they appear in the timeline of events below.
 
 Patterns emerge that resemble previous mobilizations of the overseas united front to neutralize protesters going back to the Olympic torch relay in 2008: 
 
@@ -338,7 +359,7 @@ Security guards on the side of the CCP supporters placed themselves in between t
 
 The security guards in all-black suits were employed by a firm called Critical Synthesis Security, apparently based in San Francisco.<sup>[^70]</sup> Several protesters were confused by these guards’ role in the streets during Xi Jinping’s visit. According to the reports of several protesters, the guards themselves appeared at times confused, or even unenthusiastic, about their role. Some protesters said some guards appeared to assert authority that went beyond anything they could conceivably be legally entitled to.
 
-**PHOTO: Screen Shot 2024-01-09 at 11.24.05 AM**
+![Screen Shot 2024-01-09 at 11.24.05 AM](/images/Screen-Shot-2024-01-09-at-11.24.05-AM.png)
 
 Another pattern seen at the airport that would recur in subsequent days was that, while protesters were happy and often eager to speak with journalists, CCP supporters more often than not declined to do so and were media-shy. They often appeared uncomfortable answering questions about their reasons for being at a public demonstration.<sup>[^71]</sup> Almost all reports that exist in which views of and information about CCP supporters are presented are in Chinese-language media with a pro-CCP slant.<sup>[^72]</sup> 
 
@@ -346,7 +367,7 @@ Another pattern seen at the airport that would recur in subsequent days was that
 
 Of particular note is the harassment of Uyghur camp survivor Tursunay Ziyawadun and other Uyghurs.<sup>[^73]</sup> CCP supporters attempted to surround her and use PRC flags to cover the flag of East Turkestan she was carrying. 
 
-**VIDEO: IMG\_9890.MOV**
+<iframe src="https://drive.google.com/file/d/1clRVv3CreSVr43cyNJ8ovv4bLKsOQoNq/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 This episode is redolent with ironic symbolism: Having escaped from both a CCP concentration camp for Uyghurs and other Turkic Muslims and CCP-ruled East Turkestan, Tursunay found herself harassed once again by people loyal to the regime who had persecuted her, but this time on American soil. The CCP supporters who harassed her most likely had no idea of who she was or what she had been through. The feeling that they, as Uyghurs and other targeted peoples, had come to the US to escape persecution at the hands of PRC authorities and now here they were experiencing it again in the US was a sentiment shared by many of the protesters in San Francisco who were originally from China, East Turkestan, Hong Kong and Tibet.
 
@@ -358,9 +379,9 @@ Along the route from the San Francisco International Airport to the St Regis Hot
 
 One protester in particular posted a video of herself being harassed and intimidated along the route on the afternoon of November 14.<sup>[^74]</sup> Her name is Li Huanjun (李煥君).
 
-**VIDEO: F3nrJnj5gExRZYIy.mp4**
+<iframe controls src="https://drive.google.com/file/d/1BweZVqVNTmusdaAafuiv_2KKQXxOPnow/preview" width="640" height="480" allow="autoplay" ></iframe>
 
-**<sup>[^75]</sup>**
+<sup>[^75]</sup>
 
 Li Huanjun’s family were victims of forced demolition in the PRC. After years of advocating on their behalf and suffering persecution, Li went into exile.<sup>[^76]</sup> She had blocked Xi’s motorcade on two of his previous visits to the US.<sup>[^77]</sup>
 
@@ -372,7 +393,7 @@ Several elements of united front operations, as well as some united front figure
 
 Near the end of the video (01:27), a man with a mohawk appears from behind a flag. He is Chen Longkui (陳隆魁), one of the people who held the flag that was used to cover Li Huanjun.
 
-**PHOTO: Screen Shot 2024-02-08 at 1.05.01 PM**
+![Chen LongkuiM](/images/Screen-Shot-2024-02-08-at-1.05.01-PM.png) 
 
 > According to articles in Chinese-language pro-CCP publications, based on information provided by an official at the United Front Work Department of Guilin city, Chen came from Guilin in the Guangxi Zhuang Autonomous Region in the PRC  to the US in the 1980s to study, later settling there. As of September 2023, he was president of the Guilin Qiaozi Enterprise Federation (桂林僑資企業聯合會), board chair of the Guangxi Tourism Development Group (廣西景區通旅遊發展有限公司), and an overseas committee member of the All-China Federation of Returned Overseas Chinese (中國僑聯/中華全國歸國華僑聯合會/AFROC). AFROC is the same organization to which Lu Qiang (see above) belongs, the top-level United Front group with overall responsibility for overseeing relations with overseas Chinese.<sup>[^79]</sup> In fact, Chen attended the same event as Lu, the 11th National Congress of Returned Overseas Chinese, in September 2023 in Beijing, just two months before Xi Jinping’s trip to San Francisco. Xi Jinping and other top CCP officials addressed this Congress, and Chen posed for a photo in the Great Hall of the People in Beijing.<sup>[^80]</sup>
 
@@ -383,15 +404,16 @@ Another man who appears prominent and centrally in the video in which Li Huanjun
 > His name is Jing Dongsheng (靖東升). He is reported to be the president of the united front group, Oregon Association for the Promotion of the Peaceful Unification of China (俄勒岡州中國統一促進會),<sup>[^81]</sup> Executive Chairman of the Oregon National Day Organizing Committee (俄勒岡州國慶籌委會),<sup>[^82]</sup> and the Honorary Chairman of the American Chinese United Association Oregon Chapter (美華總會俄勒岡州分會).<sup>[^83]</sup> Associations for China’s “peaceful unification” are prototypical united front groups affiliated with the China Council for the Promotion of Peaceful National Reunification, which was set up by the United Front Work Department. In November 2019, Jing hosted a delegation from the China Council for the Promotion of Peaceful National Reunification led by its Deputy Secretary-General Sun Lingyan (孫凌雁), a meeting reported on by the Alliance for China’s Peaceful Reunification, USA.<sup>[^84]</sup> In August 2022, he hosted a banquet to welcome Zhang Jianmin, the Consul General of the PRC consulate in San Francisco (中國駐舊金山總領事張建敏), to Oregon.<sup>[^85]</sup>
 
 
-In addition to having participated in the harassment and intimidation of Li Huanjun, Jing Dongsheng appears also to have been a “scout,” one of the people apparently stationed at various “sensitive” locations where Xi’s delegation stayed or was expected to appear around San Francisco to keep a lookout for protesters. He appears in this video posted by Ma Yongtian (馬永田) photographing her with his camera in a taunting manner. 
+In addition to having participated in the harassment and intimidation of Li Huanjun, Jing Dongsheng appears also to have been a “scout,” one of the people apparently stationed at various “sensitive” locations where Xi’s delegation stayed or was expected to appear around San Francisco to keep a lookout for protesters. He appears in this video posted by Ma Yongtian (馬永田) photographing her with his camera in a taunting manner.  
 
-**VIDEO: keyyqIFXSxMJ1hjC.mp4**
+[^86]<iframe src="https://drive.google.com/file/d/19xMEBMyUNXnEgnDZ4fGomsRXhdjnrnk0/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
-**<sup>[^86]</sup>**
 
 Ma Yongtian is from Jilin Province. Her factory was forcibly seized in 2001, and since then, she has been seeking compensation. She was arrested in 2017 in Florida for blocking Xi Jinping’s motorcade.<sup>[^87]</sup> In San Francisco, she was searching for a place where she might do the same when she came across these scouts. Not only is Jing Dongsheng present, so are other recognizable united front figures. Two of them appear together with him in the same frame, as can be seen in the following photo:
 
-**PHOTO: Ma Yongtian video 2**
+
+
+![images/Ma-Yongtian-video-2.png](/images/Ma-Yongtian-video-2.png)
 
 These two were seen elsewhere on the streets of San Francisco as well. One is named Yu Yingqiang (余穎強). He was seen acting as a lookout near the Hyatt Regency Hotel on November 15 and was among the crowd of CCP supporters that assaulted Tibetan protester Chemi Lhamo near the airport on November 17. On the evening of November 15, Yu assaulted an elderly Hong Kong protester near the Hyatt Regency where a banquet for Xi Jinping was being held (see below for details).<sup>[^88]</sup> The other man is Rong Junwu (容鈞武). He was part of a group of CCP supporters that assaulted several Chinese protesters near the Moscone Center on November 16 and at the San Francisco International Airport on November 17 (see below for details). 
 
@@ -403,33 +425,37 @@ It seems that, like Jing Dongsheng, both of these men are from the Portland, Ore
 > Jing Dongsheng has also been seen at united front street demonstrations on other occasions. In March 2023, he was among the CCP supporters protesting against Taiwan’s then-president Tsai Ing-wen’s visit to Los Angeles. There he can be observed with the other **two united front figures**, He Konghua (何孔華) and Chen Zhaojin (陳兆進), both of whom showed up in San Francisco (see below for information about their activities in San Francisco during Xi Jinping’s visit), as well as with Rong Junwu. |
 
 
+![Screen-Shot-2024-02-02-at-2.31.52-PM-min.png](/images/Screen-Shot-2024-02-02-at-2.31.52-PM-min.png)
 
-**PHOTO: Screen Shot 2024-02-02 at 2.31.52 PM**
+> In this photo taken in Los Angeles, the woman in sunglasses and carrying a megaphone is He Konghua, **the leader of the Beijing Association** in San Francisco. The man to her left in the white jacket is Rong Junwu, who was scouting and also part of the group that assaulted Chinese protesters in San Francisco where he wore the same white jacket. The man to his left is Jing Dongsheng, and the man behind He Konghua and holding a phone is Chen Zhaojin, another united front figure from San Francisco. *Newsweek* reported that the pro-CCP demonstrators against Tsai were offered $400 each by Deputy Consul Li Chunlin of the Chinese consulate in Los Angeles for each day of the protest<sup>[^90]</sup>  
 
-> In this photo taken in Los Angeles, the woman in sunglasses and carrying a megaphone is He Konghua, **the leader of the Beijing Association** in San Francisco. The man to her left in the white jacket is Rong Junwu, who was scouting and also part of the group that assaulted Chinese protesters in San Francisco where he wore the same white jacket. The man to his left is Jing Dongsheng, and the man behind He Konghua and holding a phone is Chen Zhaojin, another united front figure from San Francisco. *Newsweek* reported that the pro-CCP demonstrators against Tsai were offered $400 each by Deputy Consul Li Chunlin of the Chinese consulate in Los Angeles for each day of the protest<sup>[^90]</sup>
+</br>
 
+> Jing Dongsheng also attended a united front protest against Taiwan then-Vice President William Lai Ching-te’s visit to San Francisco in August 2023[^91]. Another united front figure, Yang Baohai (楊寶海; he also goes by the name, Liu Baohai/劉寶海) also attended. Yang would later be seen on November 15 among a group attacking Tibetan protesters outside the Hyatt Regency Hotel (see below).
 
 The other scouts in Ma Yongtian’s video are the men dressed in similar black tracksuits. 
 
-**PHOTOS: Screen Shot 2024-02-08 at 11.24.09 AM**
-
-**Screen Shot 2024-02-08 at 11.21.23 AM**
+<div class="grid  sm:grid-cols-1 lg:grid-cols-2">
+<img src="/images/Screen-Shot-2024-02-08-at-11.24.09-AM.png" alt="Screen Shot 2024-02-08 at 11.24.09 AM" />
+<img  src="/images/Screen-Shot-2024-02-08-at-11.21.23-AM.png" alt="Screen Shot 2024-02-08 at 11.21.23 AM"/>
+</div>
 
 Men in black tracksuits were spotted repeatedly conducting similar scouting activities in the downtown San Francisco area during Xi Jinping’s visit.
 
-**PHOTO: Screen Shot 2024-02-07 at 1.01.59 PM**
+<img  src="/images/Screen-Shot-2024-02-07-at-1.01.59-PM.png" alt="Screen Shot 2024-02-07 at 1.01.59 PM" class="w-1/2"/>
 
-They did not always restrict themselves to scouting alone. Circling back to the video of the harassment and intimidation of Li Huanjun, a man in a black tracksuit top is holding the flag being used to cover Li. 
+Several protesters suspected that these men had been assigned to look out and report for “troublemakers.”
 
-**PHOTO: Screen Shot 2024-02-08 at 12.53.08 PM**
+They did not always restrict themselves to scouting alone. Circling back to the video of the harassment and intimidation of Li Huanjun, a man in a black tracksuit top is holding the flag being used to cover Li.
 
-He turned and looked at Li (who was holding the camera).
+<img  src="/images/Screen-Shot-2024-02-08-at-12.53.08-PM.png" alt="Screen Shot 2024-02-08 at 12.53.08 PM" class=" sm:w-full lg:w-1/2"/>
 
-**PHOTO: Screen Shot 2024-02-08 at 12.59.55 PM**
+He turned and looked at Li (who was holding the camera):
+<img  src="/images/Screen-Shot-2024-02-08-at-12.59.55-PM.png" alt="Screen Shot 2024-02-08 at 12.59.55 PM" class=" sm:w-full lg:w-1/2"/>
 
-Also in that video, security guards can be seen cooperating with the CCP supporters. A group of security guards linked hands with each other to prevent Li Huanjun from approaching the street. 
+Also in that video, security guards can be seen cooperating with the CCP supporters. A group of security guards links hands with one another to prevent Li Huanjun from approaching the street. 
 
-**PHOTO: Screen Shot 2024-02-08 at 12.57.32 PM**
+<img  src="/images/Screen-Shot-2024-02-08-at-12.57.32-PM.png" alt="Screen Shot 2024-02-08 at 12.57.32 PM" class=""/>
 
 Judging by their uniforms and shoulder badges, these security guards work for a different company than those from Critical Synthesis, who dressed in black suits and could be seen at many incidents of harassment and intimidation of and assault on protesters on all days of Xi Jinping’s visit to San Francisco. These guards appear younger and wear the shoulder badge of the National Protective Service Private Security, a group that advertises itself as working in the San Francisco Bay Area.<sup>[^92]</sup>
 
@@ -451,31 +477,26 @@ Jia said that a CCP supporter named Li Huahong snatched her banner, dragged her 
 
 In these photos, the CCP supporters can be seen surrounding Jia and attempting to block view of her with PRC flags.
 
-**PHOTO: Screen Shot 2024-02-08 at 12.21.54 PM**
-
-**PHOTO: Screen Shot 2024-02-08 at 12.21.30 PM**
+<div class="grid  sm:grid-cols-1 lg:grid-cols-2">
+<img  src="/images/Screen-Shot-2024-02-08-at-12.21.54-PM.png" alt="Screen Shot 2024-02-08 at 12.21.54 PM" class=""/>
+<img  src="/images/Screen-Shot-2024-02-08-at-12.21.30-PM.png" alt="Screen Shot 2024-02-08 at 12.21.30 PM" class=""/>
+</div>
 
 In the following photo, CCP supporters have taken Jia’s banner and are surrounding her. Jia is the one wearing the black backpack and gray pants. Strikingly, a police officer stands in a position from which he must have a view of what is occurring but does nothing to intervene.  
 
-**PHOTOS: attack on Jia Junwei 14nov23 St Regis 希望之聲**
+<img  src="/images/attack-on-Jia-Junwei-14nov23-St-Regis-希望之聲.png" alt="attack on Jia Junwei 14nov23 St Regis 希望之聲" class=" sm:w-full lg:w-1/2"/>
 
 Only after Jia has been knocked to the ground unconscious does a police officer come to her aid. 
 
-**PHOTO: Jia Junwei on ground 13nov23** 希望之聲** 
+<img  src="/images/Jia-Junwei-on-ground-13nov23-希望之聲.png" alt="aJia Junwei on ground 13nov23 希望之聲 " class=" sm:w-full lg:w-1/2"/>
 
-Six elements of this attack fit a pattern seen repeatedly over the days of Xi Jinping’s visit: 
-
-\1) an attack on solitary and isolated protesters by a group of CCP supporters; 
-
-\2) swarming of victim by multiple CCP supporters; 
-
-\3) the use of PRC flags to obscure the attacks;
-
-\4) the use of flagpoles as weapons to hit and stab protesters; 
-
-\5) heightened aggression and violence when Xi Jinping is believed to be in the vicinity so as to ensure that he cannot see any signs of protest; and 
-
-\6) an apparent leader, often wearing an earpiece, who appears to be directing the CCP supporters\. 
+Six elements of this attack fit a pattern seen repeatedly over the days of Xi Jinping’s visit:
+1. an attack on solitary and isolated protesters by a group of CCP supporters; 
+2. swarming of victim by multiple CCP supporters; 
+3. the use of PRC flags to obscure the attacks;
+4. the use of flagpoles as weapons to hit and stab protesters; 
+5. heightened aggression and violence when Xi Jinping is believed to be in the vicinity so as to ensure that he cannot see any signs of protest; and 
+6. an apparent leader, often wearing an earpiece, who appears to be directing the CCP supporters. 
 
 After the attack, Jia said she was nauseated and had no appetite. She later went to Los Angeles where she visited a hospital and was diagnosed with symptoms “consistent with a concussion.” She was issued concussion discharge instructions and prescribed medication.<sup>[^97]</sup>
 
@@ -485,7 +506,7 @@ The person whom Jia Junwei identified as her main attacker was Li Huahong (李�
 
 Li was alleged to be involved in other attacks on subsequent days. On November 15, outside the Hyatt Regency Hotel where a banquet was held in Xi Jinping’s honor, she was among a group of CCP supporters, some of whom later attacked protesters.
 
-**VIDEO: IMG\_6974.MOV**
+<iframe src="https://drive.google.com/file/d/1m-SscXXlJeR0XxUtfOAN9eLvSzk_sNE8/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 On November 16, Ge Kaiying (葛開英) reports that she was attacked at noon by Li Huahong on Fourth Street in downtown San Francisco. She was alone and said Li recognized her from her presence at protests on previous days. According to Ge, Li stepped on her feet, then grabbed a box from her. When Ge tried to recover her belongings, Li hit her.<sup>[^99]</sup>
 
@@ -497,21 +518,26 @@ Chen reports that, on November 15, Li was chatting with someone from Chen’s gr
     
 > According to the Human Rights Law Foundation, “CACWA’s chairpersons and affiliates have…been implicated in numerous instances of violence, death threats, and property destruction targeting Falun Gong practitioners….”<sup>[^103]
 
-> Both Li and other members of CACWA were convicted in 2013 of assaulting Falun Gong practitioners and people they suspected of being associated with Falun Gong in 2011 in New York City.<sup>[^104]</sup>|
+> Both Li and other members of CACWA were convicted in 2013 of assaulting Falun Gong practitioners and people they suspected of being associated with Falun Gong in 2011 in New York City.<sup>[^104]</sup>
 
 
 
 Li Huahong was wearing a CACWA vest when she assaulted Jia Junwei on November 14 (see photo above). A man wearing a CACWA jacket was part of a group that attacked Tibetan protesters inside a parking garage across from the Hyatt Regency Hotel on November 15. 
 
-**PHOTO: CACWA in parking garage**
+<figure class="max-w-lg">
+  <img class="h-auto max-w-full rounded-lg" src="/images/CACWA-in-parking-garage.png" alt="CACWA in parking garage">
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400">Caption: A man wearing a Chinese Anti-Cult World Alliance jacket is part of a group that attacked protesters in a parking garage across from the Hyatt Regency Hotel on November 15 (for full details, see below).</figcaption>
+</figure>
 
-**Caption: A man wearing a Chinese Anti-Cult World Alliance jacket is part of a group that attacked protesters in a parking garage across from the Hyatt Regency Hotel on November 15 (for full details, see below).**
 
 A CACWA banner was hung on a barricade near an attack on Tibetan and Hong Kong protesters on the street across from the Hyatt Regency on November 15. 
 
-**PHOTO: Chinese Anti-Cult World Alliance banner**
+<figure class="max-w-lg">
+  <img class="h-auto max-w-full rounded-lg" src="/images/Chinese-Anti-Cult-World-Alliance-banner.png" alt="Chinese Anti-Cult World Alliance banner">
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400">A Chinese Anti-Cult World Alliance banner hangs on a railing at the corner of Third and Jessie Streets near the Hyatt Regency on November 15. The photo was taken from a designated protest zone set up by police across the street. Later, a group of CCP supporters attacked the protesters. Li Huahong, the leader of CACWA, was among the group (for full details, see below).
+</figcaption>
+</figure>
 
-**Caption: A Chinese Anti-Cult World Alliance banner hangs on a railing at the corner of Third and Jessie Streets near the Hyatt Regency on November 15. The photo was taken from a designated protest zone set up by police across the street. Later, a group of CCP supporters attacked the protesters. Li Huahong, the leader of CACWA, was among the group (for full details, see below).**
 
 <h2  id="wednesdaynov15" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Wednesday, November 15</h2>
 
@@ -542,7 +568,7 @@ The rally and march were one of the few occasions during the days of Xi Jinping�
 
 2. It was accompanied by a significant deployment of police officers\. 
 
-3. It was large\. 
+3. It was large. 
 
 Conversely, most of the incidents of harassment, intimidation, and assault occurred near locations where Xi Jinping was present or expected to be and where CCP supporters outnumbered protesters. At those locations, there were large deployments of police officers, but more often than not, police did not appear to regard the protection of citizens as their primary duty, and their apparent indifference signaled to CCP supporters that they would not be held accountable for their actions.
 
@@ -552,118 +578,101 @@ Only when arriving in downtown San Francisco, at Market and Third Streets, did t
 
 While the march was taking place, Chinese activist Wang Wei (王維) was assaulted near the St Regis Hotel at about 11 a.m.<sup>[^109]</sup> Like Jia Junwei the day before, Wang was not accompanied by other protesters, and his isolation appears to have emboldened his attackers. 
 
-**VIDEO: YDROo1qaM0k95Mqx (1).mp4**
-
-**<sup>[^110]</sup>** 
+[^110]
+<iframe src="https://drive.google.com/file/d/1GTpoZ9zEJvet93McdipNC36hwPchXMcV/preview" class="sm:w-full lg:w-1/2 h-80" allow="autoplay">  </iframe>
 
 Wang Wei testified that he noticed some CCP supporters and started taking videos of them because he feared attack and thought filming them might act as a deterrent or at least provide evidence in case of attack. He wore a “Free China” sticker on his arm and believed this excited their animosity. He and they exchanged sharp words. Then the CCP supporters began attacking him. There were some middle-aged men and a woman wearing a blue cheongsam. She shoved Wang three times. He warned the group that if he was pushed again, he would take action. After another shove, he stuck out a leg, and the men surrounded him and started beating him. They pushed him to the ground. The attackers then surrounded him with their large PRC flags and continued to strike him. One of them stabbed him with the tip of a metal flagpole. Still lying prostrate on the ground and realizing he was all alone, Wang grabbed the leg of a person who tried to kick him. After he grabbed the leg, others began kicking him as well, and continued to punch him. Wang became disoriented and felt as if he were going to faint. Only later did he learn that he was able to escape due to two white women who broke things up. They placed themselves between Wang and his assailants. They asked him if he was okay and helped him to call the police. Later, an ambulance came and took Wang to the hospital, where he received treatment. He and friends had originally planned to return to Los Angeles, where he lives, that evening, but then discovered that one of the tires of his car had been punctured by two large screws. He didn’t know whether or not this was done deliberately. 
 
 In the video above, a young security guard from the National Protective Service Private Security, a company allied with the CCP supporters, makes a feeble attempt to intervene but almost immediately desists. He then turns to a police officer standing on the other side of the black metal fence separating the sidewalk from the road, apparently to point out the assault to him. The police officer takes no action.
 
-**PHOTO: Screen Shot 2024-03-21 at 10.52.07 PM**
-
-**PHOTO: Screen Shot 2024-03-21 at 10.52.34 PM**
+<div class="grid grid-cols-1 lg:grid-cols-2">
+<img src="/images/Screen-Shot-2024-03-21-at-10.52.07-PM.png"  alt="Screen Shot 2024-03-21 at 10.52.07 PM" />
+<img src="/images/Screen-Shot-2024-03-21-at-10.52.34-PM.png"  alt="Screen Shot 2024-03-21 at 10.52.34 PM" />
+</div>
 
 On November 21,Wang returned to San Francisco to file a report about the assault with the police . As of February 1, 2024, when he was interviewed for this report, he had not heard back from the police about whether or not they had taken any action.<sup>[^111]</sup>
 
 Wang Wei identified the people in the following photographs as his attackers.
 
-**EITHER USE SCREENSHOT OF TWEET:**
-
-**Screen Shot 2024-04-12 at 7.49.09 AM**
-
-**OR USE PHOTOS FROM TWEET:**
-
-**Screen Shot 2024-04-12 at 7.49.41 AM**
-
-**Screen Shot 2024-04-12 at 7.49.30 AM**
-
-**Screen Shot 2024-04-12 at 7.50.03 AM**
-
-**Screen Shot 2024-04-12 at 7.49.52 AM**
-
-**<sup>[^112]</sup>**
+![Screen Shot 2024-04-12 at 7.49.09 AM](/images/Screen-Shot-2024-04-12-at-7.49.09-AM.png)[^112]
 
 The attack on Wang Wei involved four united front leaders from the Seattle area. 
-
 One of them, the woman dressed in the blue cheongsam who precipitated the attack on Wang, is named Zhuo Ma (卓瑪), also known as Wengxi Zhuoma (翁西卓瑪), also known as Youyong (游泳).<sup>[^113]</sup> 
 
-
-
-
 > She is President of the Sichuan Association of Washington State (美國華盛頓州四川同鄉總會), a united front group in the Seattle area. According to her bio on a pro-CCP website, she was born into a “revolutionary family” in China and came to the US in 2010. She “welcomed” Xi Jinping on a previous visit of his to the US in 2015 as part of the “special team” of Liang Guoyao (梁國堯), a prominent united front leader who holds multiple positions related to his place of origin, Guangdong Province.<sup>[^114]</sup>
-
 
 China Democracy Party (中國民主黨) leader Chen Chuangchuang (陳闖創), who would himself become a victim of assault by CCP supporters the following day, the 16th, said that Zhuo Ma confronted a group of protesters around 9 a.m. on the morning of the 15th, about two hours before the assault on Wang Wei, and, at that time, admitted that she was a member of the Chinese Communist Party.<sup>[^115]</sup>
 
 A second assailant of Wang Wei from the united front network in the Seattle area is Guo Jianwei (郭建偉). 
 
-**PHOTO: Screen Shot 2024-02-23 at 10.43.10 AM**
+![Screen-Shot-2024-02-23-at-10.43.10-AM.png](/images/Screen-Shot-2024-02-23-at-10.43.10-AM.png)
 
 In the video above, Guo can be seen punching Wang Wei (see 1:00). 
 
-|<p>西雅图中文电台 Chinese Radio Seattle, “2019华州河南同乡会、河南商会春季联谊活动圆满结束,” 25 Mar 2019, <https://chineseradioseattle.com/2019/03/25/henan_tongxianghui_2019/>.</p><p>Anne-Marie Brady, “Magic Weapons: China’s political influence activities under Xi Jinping,” Wilson Center, 18 Sept. 2017: 22, https://www.wilsoncenter.org/sites/default/files/media/documents/article/magic\_weapons.pdf.</p><p>The National Committee of the Chinese People’s Political Consultative Conference, “China Zhi Gong Party convenes 16th national congress,” Xinhua, 13 Dec 2022,[ ](http://en.cppcc.gov.cn/2022-12/13/c_839382.htm)<http://en.cppcc.gov.cn/2022-12/13/c_839382.htm>.</p><p>今日新闻, “国防部宣布备战？如果台海战争打响，中国将面临四大压力,” 24 May 2023, <https://www.newstoday.cc/E0pAGpL.html#gsc.tab=0>.</p><p>LeLe Farley, “我去了蔡英文與麥卡錫LA會面現場，混入了小粉紅抗議者內部，偷偷問他們...,” 6 Apr 2023, https://youtu.be/YyA-Sl3BesA?si=k1Wmc42wv5x9fvCg.</p>
+> He is president of the Henan Association of Washington State (華州河南同鄉會), a united front group in Seattle. In a speech given at an event celebrating the fourth anniversary of the Henan Association in March 2019, Guo boasted of his organization’s ties to the Henan Province Overseas Chinese Association (河南省僑聯), a United Front group based in Henan Province, as well as to the Henan Province Zhi Gong Party (河南省致公黨).<sup>[^116]</sup> The China Zhi Gong Party is one of the eight minor parties of the PRC under the control of the United Front Work Department. According to united front expert Anne-Marie Brady, “The Zhi Gong Party is a united front link to liaise with overseas Chinese communities….”<sup>[^117]</sup> It is a member of the Chinese People’s Political Consultative Conference, the top-level United Front body.<sup>[^118]</sup> Guo was also present in Los Angeles at an April 2023 protest against Taiwan’s then-president Tsai Ing-wen’s visit to the US and can be seen standing alongside He Konghua (何孔華), a prominent San Francisco united front leader who also appeared among CCP supporters at the San Francisco International Airport on November 17, the day of Xi’s departure (see above and below).<sup>[^119]</sup> Also attending that protest against Tsai with Guo Jianwei and He Konghua, were two other united front figures, Jing Dongsheng and Rong Junwu, both of whom were active on the streets of San Francisco during Xi Jinping’s visit as well (see above). Guo also appears briefly in a video of the April 2023 Los Angeles protest against Tsai made by the satirical comic LeLe Farley.<sup>[^120]</sup>
 
-
-> He is president of the Henan Association of Washington State (華州河南同鄉會), a united front group in Seattle. In a speech given at an event celebrating the fourth anniversary of the Henan Association in March 2019, Guo boasted of his organization’s ties to the Henan Province Overseas Chinese Association (河南省僑聯), a United Front group based in Henan Province, as well as to the Henan Province Zhi Gong Party (河南省致公黨).<sup>[^116]</sup> The China Zhi Gong Party is one of the eight minor parties of the PRC under the control of the United Front Work Department. According to united front expert Anne-Marie Brady, “The Zhi Gong Party is a united front link to liaise with overseas Chinese communities….”<sup>[^117]</sup> It is a member of the Chinese People’s Political Consultative Conference, the top-level United Front body.<sup>[^118]</sup> Guo was also present in Los Angeles at an April 2023 protest against Taiwan’s then-president Tsai Ing-wen’s visit to the US and can be seen standing alongside He Konghua (何孔華), a prominent San Francisco united front leader who also appeared among CCP supporters at the San Francisco International Airport on November 17, the day of Xi’s departure (see above and below).<sup>[^119]</sup> Also attending that protest against Tsai with Guo Jianwei and He Konghua, were two other united front figures, Jing Dongsheng and Rong Junwu, both of whom were active on the streets of San Francisco during Xi Jinping’s visit as well (see above). Guo also appears briefly in a video of the April 2023 Los Angeles protest against Tsai made by the satirical comic LeLe Farley.<sup>[^120]</sup>**SCREENSHOT: Screen Shot 2024-02-23 at 11.16.49 AM** 
-
+![Screen-Shot-2024-02-23-at-11.16.49-AM.png](/images/Screen-Shot-2024-02-23-at-11.16.49-AM.png) 
 
 A third united front leader from the Seattle area involved in the assault on Wang Wei is Fang Weixia (方偉俠), chair of the Association for China’s Peaceful Reunification of Washington State (華盛頓州中國統一促進會會長). He can be seen punching (see 1:00) and kicking (see 1:13) Wang Wei in the video above. 
 
-**PHOTO: Screen Shot 2024-02-23 at 10.38.22 AM**
 
 > In September 2019, Fang spoke at an event celebrating the 70th anniversary of the founding of the PRC. Zou Yonghong (鄒永紅), Deputy Consul General of the PRC consulate of San Francisco, also spoke at that event. Guo Jianwei (see above) was also present on that occasion.<sup>[^121]</sup> In June 2022, he met Consul General Zhang Jianmin at the PRC consulate in San Francisco. The latter recognized Fang’s work as head of the Association for China’s Peaceful Reunification of Washington State to promote US-China relations and China’s “peaceful reunification.”<sup>[^122]</sup>
 
 
 Lastly, a fourth united front leader involved in the assault on Wang Wei is Chen Wenshen (陳文深). He first appears at the 00:47 mark in the video above. 
 
-**PHOTO: Screen Shot 2024-01-09 at 12.35.36 PM**
+![Screen-Shot-2024-01-09-at-12.35.36-PM.png](/images/Screen-Shot-2024-01-09-at-12.35.36-PM.png)
 
 
 > Chen is vice president of the Seattle-area Fujian Chamber of Commerce and Industry in Washington State (華州福建工商會). In March 2019, Zou Yonghong (鄒永紅), Deputy Consul General of the Chinese consulate of San Francisco, attended and spoke at the founding ceremony of the Chamber, as did other united front figures including Fang Weixia (方偉俠; see above), president of the Association for China’s Peaceful Reunification of Washington State (華州中國統一促進會會長), and Jing Dongsheng (靖東升; see above), president of the Oregon Association for China’s Peaceful Unification (俄勒岡州中國統一促進會).<sup>[^123]</sup>
 
 
 Bald-headed Chen was, according to protesters, probably the most ubiquitous and easily recognizable united front figure on the streets of San Francisco during Xi Jinping’s visit. He seemed to show up just about everywhere that protesters went. Chen was seen by protesters at the scenes of five incidents of harassment, intimidation, and assault in San Francisco during Xi Jinping’s visit.
+<div class="grid grid-cols-2 py-5">
+<figure class="max-w-lg">
+  <img class="h-auto max-w-full object-cover" src="/images/Screen-Shot-2024-02-02-at-2.02.18-PM.png" alt="CACWA in parking garage">
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">at flagpole in front of Hyatt Regency, November 15</figcaption>
+</figure>
 
-**PHOTO: Screen Shot 2024-02-02 at 2.02.18 PM**
+<figure class="max-w-lg">
+  <img class="h-auto max-w-full" src="/images/Kennedy-APEC-week-K4.png" alt="Kennedy-APEC week-K4">
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">at the designated protest area near the Hyatt Regency, November 15</figcaption>
+</figure>
 
-**CAPTION: At the flagpole in front of the Hyatt Regency, November 15**
+<figure class="max-w-lg">
+  <img class="h-auto max-w-full" src="/images/Chen-Wenshen-snatching-End-CCP-placard-16nov23-Moscone-Center.png" alt="Chen Wenshen snatching End CCP placard 16nov23 Moscone Center">
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">Attempting to snatch an “End CCP” placard near Moscone Center, November 16</figcaption>
+</figure>
 
-**PHOTO: Kennedy-APEC week-K4.png** 
+<figure class="max-w-lg">
+  <img class="h-auto max-w-full" src="/images/Chen-Wenshen-and-Guo-Jianwei-blocking-Chen's-companions-16nov23-Moscone-Center.png" alt="Chen Wenshen and Guo Jianwei blocking Chen's companions 16nov23 Moscone Center">
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">Together with Guo Jianwei preventing police and protesters from reaching Chen Chuangchuang’s assailant near Moscone Center, November 16</figcaption>
+</figure>
 
-**CAPTION: At the designated protest area near the Hyatt Regency, November 15**
+<figure class="max-w-lg">
+  <img class="h-auto max-w-full" src="/images/Screen-Shot-2024-01-30-at-11.00.14-AM.png" alt="Screen Shot 2024-01-30 at 11.00.14 AM">
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">Among the scrum of CCP supporters who assaulted Chemi Lhamo at the airport, November 17</figcaption>
+</figure>
 
-**PHOTO: Chen Wenshen snatching End CCP placard** 
+<figure class="max-w-lg">
+  <img class="h-auto max-w-full" src="/images/Screen-Shot-2024-01-24-at-9.59.28-AM.png" alt="alt="Screen Shot 2024-01-24 at 9.59.28 AM">
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">at the bridge near the airport, November 17</figcaption>
+</figure>
+</div>
 
-**CAPTION: Attempting to snatch an “End CCP” placard near the Moscone Center, November 16**
-
-**PHOTO: Chen Wenshen and Guo Jianwei blocking Chen's companions 16nov23 Moscone Center**
-
-**CAPTION: Together with Guo Jianwei preventing police and protesters from reaching Chen Chuangchuang’s assailant near the Moscone Center, November 16**
-
-**PHOTO: Screen Shot 2024-01-30 at 11.00.14 AM**
-
-**CAPTION: Among the scrum of CCP supporters who assaulted Chemi Lhamo at the airport, November 17**
-
-**PHOTO: Screen Shot 2024-01-24 at 9.59.28 AM**
-
-**CAPTION: At the bridge near the airport, November 17**
 
 > In November 2019, Chen was among a group of united front figures in Seattle that welcomed a visiting delegation from the China Council for the Promotion of Peaceful National Reunification (中國和平統一促進會; CCPPNR) from Beijing at an event with the Association for China’s Peaceful Reunification of Washington State (華州中國統一促進會), the united front group of which Fang Weixia is the president.<sup>[^124][^125]</sup> The ACPR’s affiliation with the CCP and PRC was stated explicitly at the meeting by Sun Lingyan, the Deputy Secretary-General of the CCPPNR, who said that then-member of the Politburo Standing Committee of the Chinese Communist Party and then-Chair of the National Committee of the Chinese People’s Political Consultative Conference Wang Yang was its president and that the executive vice-president was the Minister of the United Front Work Department.<sup>[^126] [^127]</sup>
 
 At least six other people appear to have participated in the assault on Wang Wei (see video  above).
 
-**PHOTO: Screen Shot 2024-02-23 at 10.37.02 AM**
-
-**PHOTO: Screen Shot 2024-02-23 at 10.41.27 AM**
-
-**PHOTO: Screen Shot 2024-02-23 at 10.42.26 AM**
-
-**PHOTO: Screen Shot 2024-02-23 at 10.44.39 AM**
-
-**PHOTO: Screen Shot 2024-02-23 at 10.41.47 AM**
-
-**PHOTO: Screen Shot 2024-02-23 at 10.45.18 AM**
+<div class="grid grid-cols-2 lg:grid-cols-4">
+<img src="/images/Screen-Shot-2024-02-23-at-10.37.02-AM.png" alt="Screen Shot 2024-02-23 at 10.37.02 AM" />
+<img src="/images/Screen-Shot-2024-02-23-at-10.41.27-AM.png" alt="Screen Shot 2024-02-23 at 10.41.27 AM" />
+<img src="/images/Screen-Shot-2024-02-23-at-10.42.26-AM.png" alt="Screen Shot 2024-02-23 at 10.42.26 AM" />
+<img src="/images/Screen-Shot-2024-02-23-at-10.44.39-AM.png" alt="Screen Shot 2024-02-23 at 10.44.39 AM" />
+<img src="/images/Screen-Shot-2024-02-23-at-10.41.47-AM.png" alt="Screen Shot 2024-02-23 at 10.41.47 AM" />
+<img src="/images/Screen-Shot-2024-02-23-at-10.45.18-AM.png" alt="Screen Shot 2024-02-23 at 10.45.18 AM" />
+</div>
 
 **The Hyatt Regency Hotel**
 
@@ -681,14 +690,11 @@ Many of those interviewed for this report—especially, but not exclusively, tho
 
 California Governor Gavin Newsom was among the first to greet Xi Jinping as the latter stepped off his jet at San Francisco International Airport on November 14.<sup>[^139]</sup>
 
-**PHOTO: Screen Shot 2024-02-29 at 11.52.57 AM**
+![Screen Shot 2024-02-29 at 11.52.57 AM](/images/Screen-Shot-2024-02-29-at-11.52.57-AM.png)
 
 Before the banquet for Xi at the Hyatt Regency, Newsom presented Xi with a Golden State Warriors jersey. This occurred while residents of his state were being beaten by Xi Jinping’s supporters outside.
 
-**PHOTO: Screen Shot 2024-02-29 at 11.54.29 AM** 
-
-
-
+![Screen Shot 2024-02-29 at 11.54.29 AM](/images/Screen-Shot-2024-02-29-at-11.54.29-AM.png)
 
 > In October 2023, just weeks earlier, Newsom visited Hong Kong and China, where he met Xi. The visit was heavily criticized by 20 California-based groups representing Hong Kongers, Taiwanese, Tibetans and Uyghurs as well as 43 other Chinese, Hong Kong, Taiwanese, Tibetan, Uyghur, and human rights groups in a joint letter to Newsom.<sup>[^140]</sup> In the lead-up to Newsom’s trip, he ruled out discussing human rights with his counterparts in Hong Kong and China. Human Rights Watch called on him to do so.<sup>[^141]</sup> Eventually, after pressure from bipartisan political leaders and human rights groups, his office reported that he raised the issue, though it did not report specifically to whom he spoke or in what context.<sup>[^142]</sup> HKDC Executive Director Anna Kwok attempted to arrange a meeting with Newsom while both were in San Francisco during Xi Jinping’s visit. The meeting did not occur; instead, Newsom’s office sent her a link to its press statement about his trip to the PRC.<sup>[^143]</sup>
 
@@ -704,7 +710,8 @@ According to Tsela, “When I first began to go up the flagpole, I spent about 3
 
 In this video, Tsela can be seen to have climbed to that height. The large PRC flags previously blocking her from view at a lower height can be seen below her. 
 
-**VIDEO: Tsela scaling flagpole Joel Umanzor The Standard.mp4**
+<iframe src="https://drive.google.com/file/d/18EbI0wbZjUKqI0QzwUYNods0-hnoQ1sH/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
+
 
 Tsela would remain on the flagpole holding out the Tibetan flag from 3:15 p.m .to 8:45 p.m. while the banquet went on inside the hotel.
 
@@ -714,54 +721,58 @@ Topjor Tsultrim, Communications Coordinator with Students for a Free Tibet, corr
 
 Topjor also singled out a woman in a purple jacket.<sup>[^148]</sup> 
 
-**VIDEO: signal-2024-04-05-115232\_002.mp4**
+<iframe src="https://drive.google.com/file/d/1IlJvzu9f_oLAt78cFhCKrHnAu6RiD4W0/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 After Tsela ascended the flagpole, this woman and her accompanying security guard tried to prevent Topjor from leaving the area near the base of the flagpole by repeatedly moving to stand in front of him and telling him he could not leave. Later in the evening, Topjor saw her at a checkpoint outside the Hyatt Regency. At this point, the police officers at the checkpoint were allowing only hotel workers and banquet guests to enter the hotel. The woman in the purple jacket told the police officers, “Let me through,” showed her badge, and was allowed to enter the hotel. This gave Topjor the impression that she may have been associated with, or even a part of, the Chinese delegation accompanying Xi Jinping at the banquet that evening. Topjor saw her also on the 14th of November near the airport when Xi was due to arrive in San Francisco and again on the 17th when he was to depart. Then, too, she was accompanied by security guards who appeared to be acting as her bodyguards. She was liaising with a police officer who appeared to be showing her his contact details, which she entered into her phone. Another man prevented Topjor from approaching the woman.<sup>[^149]</sup> In both locations she was accompanied by what appeared to be her own personal security guard(for more on her at the San Francisco International Airport on November 17, see below).
 
 Sonamtso, who is on the international board of directors for Students for a Free Tibet, was among those who accompanied Tsela. She said that, even after Tsela ascended the flagpole, Tibetans on the ground continued to be harassed and intimidated: “CCP supporters used giant flags and tried to tie them to the black metal fence the police had put up. One of us put up the Tibetan flag. They removed it. They tried to block us from public view. There was a woman in green constantly trying to obscure our view. She was really into this, like it was the only thing she was tasked with. She continued to shove the Chinese flag in front of us. That went on for some time. I tried to communicate with police about what was happening, and I pointed her out to them. I told the police, You have to do something. They’re all over, and we’re not allowed to move.” The police gave the Tibetans an ultimatum: Go to a designated protest zone on the other side of the street or leave. Sonamtso wanted the Tibetans to be safe but was afraid that moving away from Tsela would leave her more vulnerable. Eventually, the Tibetans agreed to move.<sup>[^150]</sup>
 
-**PHOTO: Screen Shot 2024-02-28 at 10.45.53 AM**
+![Screen Shot 2024-02-28 at 10.45.53 AM](/images/Screen-Shot-2024-02-28-at-10.45.53-AM.png)
 
 The woman in green can be seen incessantly hitting protesters with her small flags in the video below. Eventually, a police officer directs her to back away. The woman in purple, suspected of being affiliated with the Chinese consulate or delegation, meekly attempts to intercede on behalf of the woman in green. 
 
-**VIDEO: suspected Chinese organizer at flagpole.mp4**
+<iframe src="https://drive.google.com/file/d/1YhK5qLBlhvsLnVY9LRZbpM8Vr_g-GLe1/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 The woman in green appears to be associated with the American Fujian Association (美國福建同鄉會; AFA, sometimes rendered into English—including by the group itself—as the Fukien American Association). She has appeared together with Chen Heng (陳恆), the chair of AFA, at AFA events. <sup>[^151]</sup>  
 
 In San Francisco, they also stood side by side, as can be seen in this screenshot:
 
-**PHOTO: Screen Shot 2024-02-28 at 10.49.46 AM**
+![Screen Shot 2024-02-28 at 10.49.46 AM](/images/Screen-Shot-2024-02-28-at-10.49.46-AM.png)
 
 Chen himself was present at the flagpole, and, in fact, played a high-profile role, at one point attempting to snatch the “Dictator Xi, Your Time Is Up” banner from Tsela (at 00:15 in the video). 
 
-**VIDEO: suspected organizer pulling banner edited.mov**
+<iframe src="https://drive.google.com/file/d/1wQD3DuzLU_Io7qkrRmGt9RWsf25uh6g_/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
+
 
 
 > Chen Heng is an associate of John Chen Shanzhuang, the united front leader from New York who was reported to be responsible for mobilizing and transporting CCP supporters from there to San Francisco to “welcome” Xi. Chen Heng appears in the background of this photo of Chen Shanzhuang outside the St Regis. 
 
->> **PHOTO: John Chen St Regis 14nov23 Jungho Kim The Standard CHEN HENG IN BACKGROUND**
-> Chen Heng has appeared alongside Chen Shanzhuang on other occasions as well, such as at the CCP supporters’ protest against Taiwan’s then-president Tsai Ing-wen’s visit to New York in March 2023. 
+> ![John Chen St Regis 14nov23 Jungho Kim The Standard CHEN HENG IN BACKGROUND](/images/John-Chen-St-Regis-14nov23-Jungho-Kim-The-Standard-CHEN-HENG-IN-BACKGROUND.png)
 
-> **PHOTO/SCREENSHOT: John Chen & Chen Heng**  
-> **CAPTION: L—Chen Heng; R—John Chen Shanzhuang**  
+> Chen Heng has appeared alongside Chen Shanzhuang on other occasions as well, such as at the CCP supporters’ protest against Taiwan’s then-president Tsai Ing-wen’s visit to New York in March 2023. 
+> ![John-Chen-&-Chen-Heng.pn](/images/John-Chen-&-Chen-Heng.png)
+> <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4"> L—Chen Heng; R—John Chen Shanzhuang</figcaption>
+
 > Chen Heng is also an associate of Harry Lu Jianwang (盧建旺), who was arrested by the FBI in April 2023 for his role in operating an undeclared police station of the Chinese government in Chinatown in Manhattan.<sup>[^152]</sup> According to the complaint against Lu and a co-defendant, “the defendants worked together to establish the first known overseas police station in the United States on behalf of the Fuzhou branch of the MPS [Ministry of Public Security].” Lu is reported to be one of three co-chairs of the Fujian Association, along with Chen Heng and Chen Lundong. When asked by a reporter about Lu's arrest, Chen Heng said he was surprised to learn of it.<sup>[^153]</sup> The complaint alleges that , since 2015, Lu “[has been] directed to assist the PRC government’s repressive activities on U.S. soil.” One of the examples given is this: “In 2015, during PRC President Xi Jinping’s visit to the United States, Lu participated in counterprotests in Washington, D.C. against members of a religion that is forbidden under PRC law.” That activity appears similar to what his Fujian Association Co-Chair Chen Heng was doing in San Francisco. In the following undated photo, Chen Heng is seen sitting to the right of the current Mayor of New York, Eric Adams. On Adams’ other side is Wu Xiaoming, Deputy Consul General of the Chinese consulate of New York City, and next to him, Harry Lu Jianwang.  
-**PHOTO: Harry Lu PRC deputy consul NYC Eric Adams Chen Heng**
+> ![Harry Lu PRC deputy consul NYC Eric Adams Chen Heng](/images/Harry-Lu-PRC-deputy-consul-NYC-Eric-Adams-Chen-Heng.png)
 
 
 Another figure from New York who can be seen in the video above (from 00:19 to 00:33) attempting to snatch the “Dictator Xi, Your Time Is Up” banner from Tsela is Shi Yong Wei (施雍伟). He does so right after Chen Heng makes the attempt, and, in fact, he gets a better grip on it than Chen Heng did, nearly managing to snatch it.  
 
-**PHOTO/SCREENSHOT: Screen Shot 2024-01-29 at 10.26.38 AM**
+![Screen Shot 2024-01-29 at 10.26.38 AM](/images/Screen-Shot-2024-01-29-at-10.26.38-AM.png)  
+
 
 
 > Shi is reportedly a convicted felon. He was arrested by the FBI in September 2003 for extortion.<sup>[^154]</sup> According to his own account, published in his book, *The Son Of Qinghua: Shi Yong Wei's 15-Year Prison Saga After Being Falsely Convicted In The U.S. Federal Legal System,* Shi spent 15 years in federal prison.<sup>[^155]</sup>
 
-> **PHOTO: Screen Shot 2024-01-29 at 11.15.13 AM**
+> ![Screen Shot 2024-01-29 at 11.15.13 AM](/images/Screen-Shot-2024-01-29-at-11.15.13-AM.png)
+
 > In October 2023, weeks before Xi Jinping’s visit to San Francisco, he appeared at an art exhibition standing behind Huang Ping (黄屏), the Consul General of the Chinese consulate in New York.<sup>[^156]</sup>
 
 
 Chen Heng also appears in a video (at 8:04) by the satirical vlogger LeLe Farley taken in front of the Hyatt Regency on the afternoon of November 15.<sup>[^157]</sup> That video shows another united front figure present at the scene, Wang Jianming (王建明). From 8:21 to 8:52, Wang comes into the frame holding a megaphone in his right hand and an American flag in his left. (Among CCP supporters in San Francisco, megaphones were typically held by organizers or leaders.) He is president of the Pennsylvania Association for China’s Peaceful Unification (賓州中國和平統一促進會).<sup>[^158]</sup> He may have led the delegation of CCP supporters from Philadelphia that was reported to be present in San Francisco during Xi Jinping’s visit. 
 
-**PHOTO: Screen Shot 2024-02-07 at 1.08.44 PM**
+![Screen Shot 2024-02-07 at 1.08.44 PM](/images/Screen-Shot-2024-02-07-at-1.08.44-PM.png)
 
 At the end of the evening, when Tibetan protester Tsela Zoksang came down after five hours of clinging to the flagpole, she was cited by the San Francisco police for “trespassing.” Police told her they did this at the behest of the Hyatt Regency. This is the only known law enforcement action taken in response to a suspected criminal offense outside of the Hyatt Regency on November 15.<sup>[^159]</sup> 
 
@@ -769,13 +780,12 @@ At the end of the evening, when Tibetan protester Tsela Zoksang came down after 
 
 Tsela was still up the flagpole, about 25 to 30 feet in the air, when four Tibetan protesters were attacked in the Hearst Parking Center, a parking garage across from the Hyatt Regency. . The protesters unfurled, from one of the higher floors, a large banner about 30’ x 15’ in size f. It read, “Dictator Xi Jinping, Your Time Is Up! Free Tibet.” 
 
-**PHOTO: signal-2024-04-12-103622\_002.jpeg**
+![signal-2024-04-12-103622_002.jpeg](/images/signal-2024-04-12-103622_002.jpeg)
 
 Only minutes after unfurling the banner, protesters suddenly felt a violent tug on it from below. Because of the size and weight of the banner, it had special straps through which to put one's hands in order to hold it up. The sudden violence of the tug was such that it lifted three of the four protesters off the ground. Because they had their hands through the straps, they could not immediately let go of the banner, and one of them was lifted off of the ground and almost pulled over the side of the building, which most likely would have resulted in a fatal fall. His hands were lacerated in the incident.
 
-**PHOTO: signal-2024-04-05-124419\_003.jpeg**
-
-**PHOTO: signal-2024-04-05-124419\_002.jpeg**
+<img src="/images/signal-2024-04-05-124419_003.jpeg" alt="signal-2024-04-05-124419_003.jpeg" class="img-sm">
+<img src="/images/signal-2024-04-05-124419_002.jpeg" alt="signal-2024-04-05-124419_002.jpeg" class="img-sm">
 
 Later, when he had the opportunity to confront his attackers, he shouted at them, "I almost died because of you.” For the sake of safety, the protesters extracted their hands from the banner straps and let it fall. Then they went downstairs to look for it. They found it lying on a lower floor and tried to unfurl it again. As they did, they were attacked by about 15 masked men. The attackers ripped the banner out of the protesters’ hands and ran away. The protesters ran after them and took a video.<sup>[^160]</sup> The video begins the moment after the attackers ripped the banner from the protesters’ hands and shows them running to the elevator in the parking garage. 
 
@@ -944,7 +954,7 @@ He was also seen near the San Francisco International Airport on November 17.
 Yang Baohai is reportedly the president of the Bay Area Fujian Ren Association (福建人在湾区联谊会), a united front group in the San Francisco Bay area.<sup>[^183]</sup> In April 2021, Yang Baohai met Chen Heng, vice-chair of the Fukien American Association, in New York City at an event that was videotaped and posted online.<sup>[^184]</sup> Chen Heng was also present on the streets of San Francisco, attempting to snatch the banner from the Tibetan protester on the flagpole outside the Hyatt Regency on the 15th. 
 
 
-Yang Baohai has appeared at various pro-CCP demonstrations together with other united front figures.
+>Yang Baohai has appeared at various pro-CCP demonstrations together with other united front figures.
 
 > Yang was photographed by a Chinese-language media outlet at a protest against the visit of then-vice president of Taiwan William Lai Ching-te (賴清德) to San Francisco on August 16, 2023.<sup>[^185]</sup> The outlet reports that Liu held a megaphone and led CCP supporters in chanting slogans. He told the publication that he is Fujianese. The publication reported that “nearly 100” CCP supporters protested outside the Hyatt Regency.<sup>[^186]</sup> The united front leader from Oregon, Jing Dongsheng was also at that proteSt During Xi Jinping’s stay in San Francisco, Jing participated in the harassment and intimidation of one protester and appeared to act as a scout on the lookout for protesters as well (see above). 
 
@@ -1127,7 +1137,7 @@ One of the CCP supporters present at the scene, an older man, was identified by 
 **PHOTO: suspected organizer (Liu Yijiang)**
 
 
-The man is Zhu Jiemei (朱介眉), a united front leader from the Portland, Oregon, area, reported to be chair of the Oregon Overseas Chinese Association (俄勒岡華人聯合會), vice chair (or in some cases, vice president) of the US Association for China’s Peaceful Unification (美洲和平統一促進聯合會), and chair of the US Suey Sing Association (美洲萃勝工商會波特蘭, a traditional chamber of commerce dating back to the early days of Chinese immigrant presence in the US). All of the above is according to a report made by the US Suey Sung Association about Zhu’s April 2023 visit to the Shaanxi Federation of Returned Overseas Chinese (陝西省歸國華僑聯合會), a United Front group in Shaanxi Province, PRC.<sup>[^214]</sup> The source of the report is a sign that the visit was official and made in coordination with Party authorities. On that visit, Zhu wore the same black fedora hat he wore in San Francisco. Other sources refer to him as chair of the Oregon Association for China’s Peaceful Reunification (俄勒岡州促進中國統一促進會)<sup>[^215]</sup> and a founding member ( 元老) of the Portland Suey Sing Chamber of Labor & Commerce (砵崙萃勝工商会).<sup>[^216]</sup>
+> The man is Zhu Jiemei (朱介眉), a united front leader from the Portland, Oregon, area, reported to be chair of the Oregon Overseas Chinese Association (俄勒岡華人聯合會), vice chair (or in some cases, vice president) of the US Association for China’s Peaceful Unification (美洲和平統一促進聯合會), and chair of the US Suey Sing Association (美洲萃勝工商會波特蘭, a traditional chamber of commerce dating back to the early days of Chinese immigrant presence in the US). All of the above is according to a report made by the US Suey Sung Association about Zhu’s April 2023 visit to the Shaanxi Federation of Returned Overseas Chinese (陝西省歸國華僑聯合會), a United Front group in Shaanxi Province, PRC.<sup>[^214]</sup> The source of the report is a sign that the visit was official and made in coordination with Party authorities. On that visit, Zhu wore the same black fedora hat he wore in San Francisco. Other sources refer to him as chair of the Oregon Association for China’s Peaceful Reunification (俄勒岡州促進中國統一促進會)<sup>[^215]</sup> and a founding member ( 元老) of the Portland Suey Sing Chamber of Labor & Commerce (砵崙萃勝工商会).<sup>[^216]</sup>
 
 > Zhu was also present at the August 2023 pro-CCP demonstration against the visit of then-vice president of Taiwan William Lai Ching-te to San Francisco.<sup>[^217]</sup> The RFA article in which he is quoted refers to Zhu as the chair of the Oregon Overseas Chinese Association. Several local Associations for the Peaceful Reunification of China were present at the demonstration, including the one from Oregon he has been reported to chair. Jing Dongsheng (靖東升), another united front leader from Portland, also appeared at that August 2023 protest, and he appeared on the streets of San Francisco participating in the harassment and intimidation of Li Huanjun and apparently acting as a scout (see above).
 
@@ -1169,8 +1179,8 @@ A united front leader from San Francisco was also present during the harassment 
 
 **PHOTO: Jennifer Cheung Moscone Center 16nov23 3**
 
-|<p>` `*世界電子報*, “南京大屠杀86周年 湾区华人公祭 追索日本战争罪行,” 11 Dec 2023, <https://www.worldjournal.com/wj/story/121519/7632866?from=wj_referralnews&zh-cn>. The group is sometimes referred to in English as Rape of Nanking Redress Committee (instead of Coalition). </p><p>Alliance for China’s Peaceful Reunification, 旧金山湾区统促会贺党二十大胜利召开 办九二共识座谈, 22 Oct, 2022, <https://acprusa.com/news/News2022/102322Wanqu.html></p><p>Cheung is chair of the Rape of Nanking Redress Coalition (南京大屠殺索賠聯盟)<sup>[^223]</sup> and President of the Global Alliance for Preserving the History of WWII in Asia (世界抗日戰爭史實維護聯合會; the literal translation is “Global Alliance for Safeguarding the Historical Truth of the Anti-Japan War”), the latter as reported on the Alliance for China’s Peaceful Reunification website.<sup>[^224]</sup></p>|
-| :- |
+
+> Cheung is chair of the Rape of Nanking Redress Coalition (南京大屠殺索賠聯盟)<sup>[^223]</sup> and President of the Global Alliance for Preserving the History of WWII in Asia (世界抗日戰爭史實維護聯合會; the literal translation is “Global Alliance for Safeguarding the Historical Truth of the Anti-Japan War”), the latter as reported on the Alliance for China’s Peaceful Reunification website.<sup>[^224]</sup>
 
 On the 17th, she was at the San Francisco International Airport, where she played a key role (see below for more on that and for other information about her united front activities and network).
 
@@ -1362,16 +1372,26 @@ The woman who identified herself as Jennifer was Jennifer Cheung or Chung (張�
 
 She had appeared at the scene of the assault on several Chinese protesters the day before, the 16th, as well as on the bridge near the airport where Chemi Lhamo had been assaulted earlier on the 17th (see above). 
 
-|<p>Hong Kong and Macau Fellowship Association of Shenzhen, Federation of Returned Overseas Chinese Limited website: <https://www.hkmoc.com.hk/zh/>. The photo in which Jennifer Cheung can be seen with Chen Longkui and Jing Dongsheng can be found here: https://www.hkmoc.com.hk/wp-content/uploads/2018/09/S301.jpg.</p><p>Alliance for China’s Peaceful Reunification, “加州湾区统促会主办美国北加州华人庆祝新中国成立七十一周年云端联欢会,” https://acprusa.com/news/News2020/10012020CASF.html.</p><p>星島日報, ”紀念大屠殺85周年 南京祭三藩市舉行, 12 Dec 2022, https://www.singtaousa.com/2022-12-12/%e7%b4%80%e5%bf%b5%e5%a4%a7%e5%b1%a0%e6%ae%ba85%e5%91%a8%e5%b9%b4-%e5%8d%97%e4%ba%ac%e7%a5%ad%e4%b8%89%e8%97%a9%e5%b8%82%e8%88%89%e8%a1%8c/4355443#page3%20https://www.worldjournal.com/wj/story/121519/6832712?from=wj\_referralnews.</p><p>世界日報, "南京大屠杀86周年 湾区华人公祭 追索日本战争罪行,” 11 Dec 2023, <https://www.worldjournal.com/wj/story/121519/7632866?zh-cn>.</p><p>As already noted, she is chair of the Rape of Nanking Redress Coalition (南京大屠殺索賠聯盟) and President of the Global Alliance for Preserving the History of WWII in Asia (世界抗日戰爭史實維護聯合會; the literal translation is the “Global Alliance for Safeguarding the Historical Truth of the Anti-Japan War”). She has also participated in the activities of the Alliance for China’s Peaceful Unification; in activities carried out by the united front group, the Hong Kong and Macau Fellowship Association of Shenzhen; and, together with Chen Longkui (陳隆魁) and Chen Zhaojin (陳兆進), two united front figures involved in attacks on protesters in San Francisco,  in activities carried out by the  Federation of Returned Overseas Chinese Limited (see above).<sup>[^244]</sup> In 2020, she participated in the Bay Area Association for Peaceful Unification of China’s online ceremony to celebrate the 71st anniversary of the PRC, singing a patriotic song as a member of the chorus.<sup>[^245]</sup> In 2022, she held a commemoration of the Nanjing Massacre attended by Zhang Jianmin, Consul General of the PRC consulate of San Francisco.<sup>[^246]</sup> And, in 2023, she held another commemoration of the Nanjing Massacre, this one attended by Zou Yonghong, the Deputy Consul General of the PRC consulate of San Francisco.<sup>[^247]</sup> </p><p></p><p>星島日報, “APEC現場直播｜鄧孟詩感謝習近平改善美中關係促和平 在美華人應團結促雙贏,” 17 Nov 2023, <https://www.singtaousa.com/2023-11-17/apec%e7%8f%be%e5%a0%b4%e7%9b%b4%e6%92%ad%ef%bd%9c%e9%84%a7%e5%ad%9f%e8%a9%a9%e6%84%9f%e8%ac%9d%e7%bf%92%e8%bf%91%e5%b9%b3%e6%94%b9%e5%96%84%e7%be%8e%e4%b8%ad%e9%97%9c%e4%bf%82%e4%bf%83%e5%92%8c/4671194>. See also singtaotv, “APEC現場直播｜三藩市退休華裔法官鄧孟詩感謝習近平改善美中關係促和平 呼籲在美華人應團結促雙贏,” 17 Nov 2023, https://youtu.be/7eU2eyZMaQg?feature=shared. The interview was published by an organization called Chinese Information Radio on behalf of Sing Tao US, which, in 2021, was compelled by the US Department of Justice to register as a foreign agent under the Foreign Agents Registration Act. (See Lachlan Markay, “DOJ brands Chinese-owned U.S. newspaper a foreign agent,” *Axios*, 25 Aug 2021, <https://www.axios.com/2021/08/25/doj-chinese-owned-sing-tao-newspaper-foreign-agent>.) No listings could be found for Chinese Information Radio, which may or may not be Chinese Radio International (中国国际广播电台), which is controlled by the Central Propaganda Department of the Chinese Communist Party and, in 2020, was designated by the US Department of State as a “foreign mission.” (See Morgan Ortagus, Department Spokesperson, “Designation of Additional PRC Propaganda Outlets as Foreign Missions,” US Department of State, 21 Oct 2020, <https://2017-2021.state.gov/designation-of-additional-prc-propaganda-outlets-as-foreign-missions/>.</p><p>Comfort Women Action for Redress and Education, About Us, https://comfortwomenaction.org/about-us/.</p><p>See No Cold War, “A New Cold War against China is against the interests of humanity,” https://nocoldwar.org/statement.</p><p>Ibid. While concern about the Nanjing Massacre and Comfort Women is entirely legitimate, in the case of Cheung, Tang and Sing, it also aligns with CCP propaganda that seeks to stoke nationalist grievances and resentment against Japan.</p><p>See the photo: <https://comfortwomenaction.org/wp-content/uploads/photo-gallery/11-1.-Special-guests-Jennifer-Chung-Lillian-Sing-Julie-Tang.jpg?bwg=1691390716>.The photo is from an event in 2022 marking the 10th anniversary of the Glendale peace monument (<https://comfortwomenaction.org/2023/08/06/report-from-the-10th-anniversary-celebration/>). </p><p>Retired San Francisco judge Julie Tang (鄧孟詩) attended both of the ceremonies celebrating the 71st anniversary of the PRC and commemorating the Nanjing Massacre. She was also present among CCP supporters at the airport on November 17, where, in an interview given to pro-CCP media, she thanked Xi Jinping for improving US-China relations and encouraged Chinese in the US to unite and promote win-win situations.<sup>[^248]</sup> In 1997, along with Lillian Sing, another retired San Francisco judge, Julie Tang co-founded the Rape of Nanking Redress Coalition—the group now led by Jennifer Chungg.<sup>[^249]</sup> Julie Tang also co-founded Pivot to Peace<sup>[^250]</sup> and allies with US anti-war activists such as No Cold War and Code Pink in campaigning for a softer stance from the US government on China. Jennifer Cheung and Julie Tang work together on campaigns for Korean Comfort Women. They are often seen together with Lillian Sing. Lillian Sing and Julie Tang are on the advisory board of Comfort Women Action for Redress and Education.<sup>[^251]</sup> At one of their events, the three figures, Jennifer Chung, Julie Tang, and Lilian Sing can be seen sitting next to one another.<sup>[^252]</sup> </p>|
-| :- |
+
+
+> As already noted, she is chair of the Rape of Nanking Redress Coalition (南京大屠殺索賠聯盟) and President of the Global Alliance for Preserving the History of WWII in Asia (世界抗日戰爭史實維護聯合會; the literal translation is the “Global Alliance for Safeguarding the Historical Truth of the Anti-Japan War”). She has also participated in the activities of the Alliance for China’s Peaceful Unification; in activities carried out by the united front group, the Hong Kong and Macau Fellowship Association of Shenzhen; and, together with Chen Longkui (陳隆魁) and Chen Zhaojin (陳兆進), two united front figures involved in attacks on protesters in San Francisco,  in activities carried out by the  Federation of Returned Overseas Chinese Limited (see above).<sup>[^244]</sup> In 2020, she participated in the Bay Area Association for Peaceful Unification of China’s online ceremony to celebrate the 71st anniversary of the PRC, singing a patriotic song as a member of the chorus.<sup>[^245]</sup> In 2022, she held a commemoration of the Nanjing Massacre attended by Zhang Jianmin, Consul General of the PRC consulate of San Francisco.<sup>[^246]</sup> And, in 2023, she held another commemoration of the Nanjing Massacre, this one attended by Zou Yonghong, the Deputy Consul General of the PRC consulate of San Francisco.<sup>[^247]</sup> 
+
+> Retired San Francisco judge Julie Tang (鄧孟詩) attended both of the ceremonies celebrating the 71st anniversary of the PRC and commemorating the Nanjing Massacre. She was also present among CCP supporters at the airport on November 17, where, in an interview given to pro-CCP media, she thanked Xi Jinping for improving US-China relations and encouraged Chinese in the US to unite and promote win-win situations.<sup>[^248]</sup> In 1997, along with Lillian Sing, another retired San Francisco judge, Julie Tang co-founded the Rape of Nanking Redress Coalition—the group now led by Jennifer Chungg.<sup>[^249]</sup> Julie Tang also co-founded Pivot to Peace<sup>[^250]</sup> and allies with US anti-war activists such as No Cold War and Code Pink in campaigning for a softer stance from the US government on China. Jennifer Cheung and Julie Tang work together on campaigns for Korean Comfort Women. They are often seen together with Lillian Sing. Lillian Sing and Julie Tang are on the advisory board of Comfort Women Action for Redress and Education.<sup>[^251]</sup> At one of their events, the three figures, Jennifer Chung, Julie Tang, and Lilian Sing can be seen sitting next to one another.<sup>[^252]</sup>
+
 
 He Konghua (何孔華), yet another united front leader from the Bay Area who was present at the airport on the 17th** and was identified by protesters as an apparent organizer or leader, was also there. 
 
 **PHOTO: He Konghua at airport 17 nov 23**
 
 
-|<p>星島日報, “北加江蘇同鄉會 慶十年華誕暨新春聯誼,” 1 Feb 2024, https://www.singtaousa.com/2024-02-01/%E5%8C%97%E5%8A%A0%E6%B1%9F%E8%98%87%E5%90%8C%E9%84%89%E6%9C%83-%E6%85%B6%E5%8D%81%E5%B9%B4%E8%8F%AF%E8%AA%95%E6%9A%A8%E6%96%B0%E6%98%A5%E8%81%AF%E8%AA%BC/4748093#page3.</p><p>` `*星島日報*, “苗比達, “慶祝十一南灣開盛宴 僑胞歡聚賀祖國繁榮,” 24 Sep 2022, https://www.singtaousa.com/2022-09-24/%e6%85%b6%e7%a5%9d%e5%8d%81%e4%b8%80%e5%8d%97%e7%81%a3%e9%96%8b%e7%9b%9b%e5%ae%b4%e5%83%91%e8%83%9e%e6%ad%a1%e8%81%9a%e8%b3%80%e7%a5%96%e5%9c%8b%e7%b9%81%e6%a6%ae/4277004 .</p><p>SFPA旧金山摄影师联盟, “中国之夜，共渡美丽时光,” 18 Sep 2022, https://www.meipian.cn/4ef5maba.</p><p>Ibid.</p><p>星島日報, “北加江蘇同鄉會 慶十年華誕暨新春聯誼,” 1 Feb 2024, https://www.singtaousa.com/2024-02-01/%E5%8C%97%E5%8A%A0%E6%B1%9F%E8%98%87%E5%90%8C%E9%84%89%E6%9C%83-%E6%85%B6%E5%8D%81%E5%B9%B4%E8%8F%AF%E8%AA%95%E6%9A%A8%E6%96%B0%E6%98%A5%E8%81%AF%E8%AA%BC/4748093#page3.</p><p>He Konghua has been reported to be president of the North California Beijing Association ([北加州](http://www.chinaxinwzx.com/chengshi/2023/0216/21332.html)北京同鄉會會長)<sup>[^253]</sup>, executive chair of the San Francisco, South Bay, and Silicon Valley National Day Committee (舊金山南灣矽谷國慶委員會執行主席),<sup>[^254]</sup> and an overseas member of the All-China Federation of Returned Overseas Chinese (中國僑聯海外委員), the top-level United Front group in the PRC.<sup>[^255]</sup> In September 2022, she hosted an event in Santa Clara, California, to celebrate the 73rd anniversary of the PRC. That same month, Zou Yonghong, Deputy Consul General of the PRC consulate in San Francisco, presented He with a congratulatory certificate.<sup>[^256]</sup> In February 2023, she participated in an event in San Francisco’s Chinatown with Zhang Jianmin, Consul General of the PRC consulate in San Francisco (中國駐舊金山總領事張建敏).<sup>[^257]</sup></p><p></p><p>On April 6, 2023, holding a loudspeaker and leading chants, she was  prominent in a pro-CCP protest against the visit of then-president of Taiwan Tsai Ing-wen to southern California. In the following photo, she can be seen together at the protest with several united front figures identified in this report, including, on the left, Chen Zhaojin (holding a white phone, Rong Junwu ( wearing his white jacket), Guo Jingwei (in the background), and, on the right, Jing Dongsheng (in a gray suit). Covered by the PRC flag that Rong Junwu is holding is Yang Baohai, yet another united front figure who appeared in multiple locations in San Francisco.   </p><p></p><p>新唐人電視台, “中共雇人抗议蔡英文 被曝克扣佣金,” 7 Apr 2023,https://cn.ntdtv.com/b5/2023/04/06/a103684674.html.</p><p>**PHOTO: Chen Zhaojin with He Konghua from NTDTV<sup>[^258]</sup>**</p>|
-| :- |
+
+> He Konghua has been reported to be president of the North California Beijing Association (北京同鄉會會長)<sup>[^253]</sup>, executive chair of the San Francisco, South Bay, and Silicon Valley National Day Committee (舊金山南灣矽谷國慶委員會執行主席),<sup>[^254]</sup> and an overseas member of the All-China Federation of Returned Overseas Chinese (中國僑聯海外委員), the top-level United Front group in the PRC.<sup>[^255]</sup> In September 2022, she hosted an event in Santa Clara, California, to celebrate the 73rd anniversary of the PRC. That same month, Zou Yonghong, Deputy Consul General of the PRC consulate in San Francisco, presented He with a congratulatory certificate.<sup>[^256]</sup>
+ In February 2023, she participated in an event in San Francisco’s Chinatown with Zhang Jianmin, Consul General of the PRC consulate in San Francisco (中國駐舊金山總領事張建敏).<sup>[^257]</sup>
+ 
+> On April 6, 2023, holding a loudspeaker and leading chants, she was  prominent in a pro-CCP protest against the visit of then-president of Taiwan Tsai Ing-wen to southern California. In the following photo, she can be seen together at the protest with several united front figures identified in this report, including, on the left, Chen Zhaojin (holding a white phone, Rong Junwu ( wearing his white jacket), Guo Jingwei (in the background), and, on the right, Jing Dongsheng (in a gray suit). Covered by the PRC flag that Rong Junwu is holding is Yang Baohai, yet another united front figure who appeared in multiple locations in San Francisco.
+
+> **PHOTO: Chen Zhaojin with He Konghua from NTDTV<sup>[^258]</sup>**
+
 
 At a certain point toward the end of the afternoon, a CCP supporter attempted to cross a police barricade and invade the protest zone.<sup>[^259]</sup> He was thrown to the ground by police, handcuffed, and led away. He was the only CCP supporter that protesters ever saw being taken into police custody.
 
