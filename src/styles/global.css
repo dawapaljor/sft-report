@@ -34,6 +34,7 @@
      .footnotes ::marker{
         font-weight: bold;
      }
+     .footnotes p{padding:3px;}
    iframe{
       padding: 20px;
    }  
