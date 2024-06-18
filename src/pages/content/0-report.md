@@ -379,7 +379,7 @@ Along the route from the San Francisco International Airport to the St Regis Hot
 
 One protester in particular posted a video of herself being harassed and intimidated along the route on the afternoon of November 14.<sup>[^74]</sup> Her name is Li Huanjun (李煥君).
 
-<iframe controls src="https://drive.google.com/file/d/1BweZVqVNTmusdaAafuiv_2KKQXxOPnow/preview" width="640" height="480" allow="autoplay" ></iframe>
+<iframe controls src="https://drive.google.com/file/d/1BweZVqVNTmusdaAafuiv_2KKQXxOPnow/preview" class="sm:w-full lg:w-1/2 h-80 " width="640" height="480" allow="autoplay" ></iframe>
 
 <sup>[^75]</sup>
 
