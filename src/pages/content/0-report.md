@@ -1853,7 +1853,7 @@ Furthering the Crackdown on Falun Gong in the United States,” Human Rights Law
 [^103]: 103.HRLF Staff, “Overseas Influence Operations of the Chinese Communist Party:
 Furthering the Crackdown on Falun Gong in the United States,” Human Rights Law Foundation, 12 Sep 2022, https://hrlf.net/wp-content/uploads/2022/09/2022-Overseas-Influence-Operations-of-the-Chinese-Communist-Party-Furthering-the-Crackdown-on-Falun-Gong-in-the-United-States.pdf.
 
-[^104]: Corey Kilgannon, “A Battle for Chinese Hearts and Minds in Flushing,” New York Times, 7 Mar 2011, https://archive.nytimes.com/cityroom.blogs.nytimes.com/2011/03/07/a-battle-for-chinese-hearts-and-minds-in-flushing/. See also 大紀元時報, “周永康嫡系特工李華紅打人案 紐約法院定罪,” 12 Jan 2013, https://www.epochtimes.com/b5/13/1/11/n3773946.htm.
+[^104]: 104.Corey Kilgannon, “A Battle for Chinese Hearts and Minds in Flushing,” New York Times, 7 Mar 2011, https://archive.nytimes.com/cityroom.blogs.nytimes.com/2011/03/07/a-battle-for-chinese-hearts-and-minds-in-flushing/. See also 大紀元時報, “周永康嫡系特工李華紅打人案 紐約法院定罪,” 12 Jan 2013, https://www.epochtimes.com/b5/13/1/11/n3773946.htm.
 
 [^105]: 105.自由亚洲电台 post, 15 Nov 2023, https://x.com/RFA\_Chinese/status/1724916230698807630?s=20; ABC7 News Bay Area, “Dueling protests clash during Biden-Xi summit in CA,” 15 Nov 2023, https://youtu.be/TbOWC4fRYcM?si=2lRRpWfZa4NMW1J-. 
 [^106]: 106.Katherine Li, “S.F.’s APEC is causing a reckoning for AAPI communities,” *San Francisco Chronicle*, 16 Nov 2023, https://www.sfchronicle.com/bayarea/article/apec-aapi-protests-18491983.php#photo-24456559.
