@@ -1313,10 +1313,6 @@ At this point, around 10 a.m., Hong Kong protesters arrived. They tried to cross
 
 Carmen Lau came away from the encounter with bruises on her legs. 
 
-**PHOTO: Carmen bruises from APEC 1.jpeg**
-
-**PHOTO: Carmen bruises from APEC 2.jpeg**
-
 <div class="grid grid-cols-1 lg:grid-cols-2 gap-3 pt-5">
     <img src="/images/Carmen-bruises-from-APEC-1-min.jpeg" alt="Carmen bruises from APEC 1.jpeg" class="w-full"/>
     <img src="/images/Carmen-bruises-from-APEC-2.jpeg" alt="Carmen bruises from APEC 2.jpeg" class="w-full"/>
@@ -1355,6 +1351,7 @@ In the ambulance, the paramedics examined the youths, checking blood levels and 
 One of the youths said his ear was purple and he had scrapes from the concrete where he’d fallen down. The other had bruises on the right side of his head and the back of his head from being hit with poles and sticks. He was worried he might have a concussion, as he had minor headaches for some time after the attack. Both had facial injuries. The following photo was taken immediately after the assault.
 
 **PHOTO: 19yo Tibetan assaulted at airport 17nov23.jpeg**
+![19yo Tibetan assaulted at airport 17nov23-min](/images/19yo-Tibetan-assaulted-at-airport-17nov23-min.jpeg)
 
 On their way home, the two Tibetan youths stopped at the hospital to be examined. The following photos were taken at Redwood City Medical Center at 3:45 p.m. on the same day.<sup>[^241]</sup> 
 
@@ -1370,23 +1367,31 @@ Sometime later, a detective contacted one of the youths and asked whether he wis
 
 After the assault, one of the Tibetan youths identified a man in this photo as among those who assaulted them. 
 
-**PHOTO: Yoenten identified guy on curb in middle as one of his assailants**
+
+![Yoenten identified guy on curb in middle as one of his assailants.png](/images/Yoenten-identified-guy-on-curb-in-middle-as-one-of-his-assailants.png)
+
 
 He identified  the man in the middle sitting on the curb and wearing a red headband as one of his assailants. The man can be seen in the video above that was taken on the phone that had been whacked from one of the Tibetans’ hands, and also in this still from that video. 
 
-**PHOTO: also suspected of beating up Kaiyu**
+![also suspected of beating up Kaiyu-min.png](/images/also-suspected-of-beating-up-Kaiyu-min.png)
+
 
 That man would later be identified as having been involved in the theft of a phone from a reporter and in one of the most violent assaults that occurred over  the four days of Xi Jinping’s visit to San Francisco. He can be seen in the photo below standing next to others accused of participating in that assault…
 
-**PHOTO: Thugs who attacked Sherman and Kaiyu 3.jpeg**
+<img src="/images/Thugs-who-attacked-Sherman-and-Kaiyu-3.jpeg" alt="Thugs who attacked Sherman and Kaiyu 3.jpeg" class="img-sm"/>
+
 
 …and in this still in the act of beating up Kaiyu Zhang.
 
-**PHOTO: Screen Shot 2024-02-08 at 11.34.03 AM**
+<img src="/images/2024-02-08-j.png" alt="2024-02-08-j.png" class="img-sm"/>
+
 
 The man was also among the group that stalked Tibetan protesters after the end of the protest outside the Hyatt Regency on the 15th. The following photo is a still from the video that appears above in the description of that incident. He was wearing the same Adidas shoulder bag as he wore on the 17th in the photo above.
 
-**PHOTO: signal-2024-04-09-103111\_002.jpg**
+
+<img src="/images/signal-2024-04-09-103111_002.jpg" alt="signal-2024-04-09-103111_002.jpg" class="img-sm pb-10"/>
+
+
 
 **Theft of Reporter’s Phone**
 
@@ -1409,7 +1414,7 @@ She had appeared at the scene of the assault on several Chinese protesters the d
 
 He Konghua (何孔華), yet another united front leader from the Bay Area who was present at the airport on the 17th** and was identified by protesters as an apparent organizer or leader, was also there. 
 
-**PHOTO: He Konghua at airport 17 nov 23**
+![He Konghua at airport 17 nov 23.jpeg](/images/He-Konghua-at-airport-17-nov-23-min.jpeg)
 
 
 
@@ -1418,12 +1423,12 @@ He Konghua (何孔華), yet another united front leader from the Bay Area who wa
  
 > On April 6, 2023, holding a loudspeaker and leading chants, she was  prominent in a pro-CCP protest against the visit of then-president of Taiwan Tsai Ing-wen to southern California. In the following photo, she can be seen together at the protest with several united front figures identified in this report, including, on the left, Chen Zhaojin (holding a white phone, Rong Junwu ( wearing his white jacket), Guo Jingwei (in the background), and, on the right, Jing Dongsheng (in a gray suit). Covered by the PRC flag that Rong Junwu is holding is Yang Baohai, yet another united front figure who appeared in multiple locations in San Francisco.
 
-> **PHOTO: Chen Zhaojin with He Konghua from NTDTV<sup>[^258]</sup>**
-
+> ![Chen Zhaojin with He Konghua from NTDTV](/images/Chen-Zhaojin-with-He-Konghua-from-NTDTV.png)<sup>[^258]</sup>
 
 At a certain point toward the end of the afternoon, a CCP supporter attempted to cross a police barricade and invade the protest zone.<sup>[^259]</sup> He was thrown to the ground by police, handcuffed, and led away. He was the only CCP supporter that protesters ever saw being taken into police custody.
 
-**VIDEO: arresting the jumper.m4v**
+<iframe src="https://drive.google.com/file/d/1Z6HO_9y0-QhmewAPctvS822_ysHnReJL/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
+
 
 When the protesters left the designated protest zone at the end of the protest in the late afternoon, they had to negotiate with police to provide an escort to take them past the CCP supporters. Tibetans who had gone out of the protest area reported to the other protesters that they’d seen CCP supporters holding poles lined up along the road. Some suspected they were planning to launch an attack on protesters as they left.<sup>[^260]</sup> The police initially said they wouldn’t help the protesters to leave, but then some of them agreed to do so. 
 
@@ -1435,19 +1440,19 @@ Once the group of protesters escorted by the police arrived at the Costco parkin
 
 The vigilance of the protesters in leaving the protest area proved sadly justified. One of the most brutal assaults of the day, indeed of the several days of Xi Jinping’s visit to San Francisco, occurred near the Costco parking lot where many of the protesters had parked their vehicles. The victims were Chinese protester Kaiyu Zhang and 74-year-old Hong Kong protester Chow Kai-hong, who was also assaulted on the 15th near the Hyatt Regency (see above). Of the two, it was Kaiyu Zhang who was beaten far worse. Li Delong, who was assaulted on the 16th, was accompanying Kaiyu Zhang and Chow Kai-hong. Ironically, when they were attacked, they were on their way to the police station to file reports about the assaults they had endured on  previous days. 
 
-**VIDEO: Attack on Kaiyu.MP4**
+<iframe src="https://drive.google.com/file/d/1Z6HO_9y0-QhmewAPctvS822_ysHnReJL/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 **<sup>[^264]</sup>**
 
 According to Kaiyu Zhang, “When we were halfway to the Costco parking lot, we saw a dozen young Chinese men who blocked the entire sidewalk in front of us. They were standing there gazing around, wearing red headbands or with red scarves in their jackets. 
 
-**VIDEO: signal-2024-04-10-113124\_007.mp4**
+<iframe src="https://drive.google.com/file/d/1LRCmrtBREPlc4lDX7eTnHOEH9CvxZgp3/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 “We instantly knew we were in danger, as we had heard of many cases of assault during APEC, including Chow Baak’s and Li Delong’s.
 
 “We tried to keep as far away as possible from them when we passed, but the entire group of young men started following us at an intimidatingly close distance and repeatedly insulted us: ‘Fuck Hong Kongers! Fuck you old shits.’ I realized we were being targeted because they heard Chow Baak and me speaking Cantonese with one another…. I thought our right to free speech was protected by the Constitution and we should not be intimidated by CCP supporters on American soil, so I responded, ‘Fuck the CCP, fuck Xi Jinping.’…. 
 
-**VIDEO: signal-2024-04-10-113124\_010.mp4**
+<iframe src="https://drive.google.com/file/d/15AMcWp1YywDoJOMDMM3gU2pcIator-kt/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 **<sup>[^265]</sup>**
 
@@ -1455,45 +1460,40 @@ According to Kaiyu Zhang, “When we were halfway to the Costco parking lot, we 
 
 This is how Kaiyu Zhang looked after the attack:
 
-**PHOTO: Screen Shot 2024-02-08 at 11.36.22 AM**
 
-**PHOTO: Screen Shot 2024-02-08 at 11.36.31 AM**
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-3 pt-5">
+    <img src="/images/2024-02-08-h.png" alt="2024-02-08-h.png" class="w-full"/>
+    <img src="/images/2024-02-08-i.png" alt="2024-02-08-i.png" class="w-full"/>
+</div>
 
 This is Kaiyu Zhang giving his name to the police directly after the assault: 
 
-**VIDEO: signal-2024-04-10-113124\_004.mp4**
+<iframe src="https://drive.google.com/file/d/14w5xgjrrz9rMTsAo9YTuMi5b9vXcZAZf/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
-**<sup>[^267]</sup>**
+<sup>[^267]</sup>
 
 This shows Kaiyu Zhang being brought to the ambulance after the attack. According to the time on the tweet, 2:47 p.m., this occurred 45 minutes to one hour after the assault. 
 
 **VIDEO: signal-2024-04-10-113124\_002.mp4**
+<iframe src="https://drive.google.com/file/d/1Z7ev4cyLmthuWgZw1APfhiTEo_QaumBn/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
-**<sup>[^268]</sup>**
+<sup>[^268]</sup>
 
 These are photos of the people identified as his assailants:
 
-**PHOTOS:**
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-3 pt-5">
+    <img src="/images/Screen-Shot-2024-02-06-at-3.00.53-PM.png" alt="Screen Shot 2024-02-06 at 3.00.53 PM.png" class="w-full"/>
+    <img src="/images/Screen-Shot-2024-02-07-at-10.55.18-AM.png" alt="Screen Shot 2024-02-07 at 10.55.18 AM.png" class="w-full"/>
+    <img src="/images/Screen-Shot-2024-02-06-at-2.59.14-PM.png" alt="Screen Shot 2024-02-06 at 2.59.14 PM.png" class="w-full"/>
+    <img src="/images/Screen-Shot-2024-02-06-at-2.59.20-PM.png" alt="Screen Shot 2024-02-06 at 2.59.20 PM.png" class="w-full"/>
+    <img src="/images/Screen-Shot-2024-02-06-at-2.59.25-PM.png" alt="Screen Shot 2024-02-06 at 2.59.25 PM.png" class="w-full"/>
+    <img src="/images/Screen-Shot-2024-02-07-at-10.55.04-AM.png" alt="Screen Shot 2024-02-07 at 10.55.04 AM.png" class="w-full"/>
+    <img src="/images/Screen-Shot-2024-02-07-at-10.50.15-AM.png" alt="Screen Shot 2024-02-07 at 10.50.15 AM.png" class="w-full"/>
+    <img src="/images/Screen-Shot-2024-01-29-at-12.12.12-PM.png" alt="Screen Shot 2024-01-29 at 12.12.12 PM.png" class="w-full"/>
+    <img src="/images/Screen-Shot-2024-01-29-at-12.13.33-PM.png" alt="Screen Shot 2024-01-29 at 12.13.33 PM.png" class="w-full"/>
+    <img src="/images/Screen-Shot-2024-02-07-at-10.49.42-AM.png" alt="Screen Shot 2024-02-07 at 10.49.42 AM.png" class="w-full"/>
+</div>
 
-**Screen Shot 2024-02-06 at 3.00.53 PM**
-
-**Screen Shot 2024-02-07 at 10.55.18 AM**
-
-**Screen Shot 2024-02-06 at 2.59.14 PM**
-
-**Screen Shot 2024-02-06 at 2.59.20 PM**
-
-**Screen Shot 2024-02-06 at 2.59.25 PM**
-
-**Screen Shot 2024-02-07 at 10.55.04 AM**
-
-**Screen Shot 2024-02-07 at 10.49.42 AM**
-
-**Screen Shot 2024-02-07 at 10.50.15 AM**
-
-**Screen Shot 2024-01-29 at 12.12.12 PM**
-
-**Screen Shot 2024-01-29 at 12.13.33 PM**
 
 Kaiyu Zhang continues: “Almost every one of the assailants was caught on video. The police were given the footage on the same day as the assault. Two days later, on November 19, an officer told me that, in spite of all their efforts, the police had been unable to identify any of the assailants. I then shared the footage on social media, seeking help and support. Many people who sympathized with me helped to spread the footage. An anonymous tipster informed me of the identity of one of the assailants. I phoned my contact officer and provided this information then emailed him at 3:18 p.m. on November 24, but since then, I haven’t been able to reach him by email or phone. On November 29, I called a press conference in front of the South San Francisco police station to pressure the police to make progress on my case. AP, Fox News, NBC, VOA, Radio Free Asia, Epoch Times and KTSF reported on it.<sup>[^269]</sup> My contact officer was not on duty that day. Another officer was assigned to handle my case but he knew nothing about it. As of December 10, I have heard nothing from the police…. I escaped from Shanghai to the US in March 2023. I believed I was secure and had utter protection to voice my opinions in the US. I was a peaceful protester…. Since the assault, I have been suffering from serious headaches, nightmares, pain in my eye, and horrible ringing in my ears. I’ve become afraid of going outside because I fear CCP agents may track me down and attack me again… I don’t feel safe anymore, even in the US, which was unthinkable before the assault.”<sup>[^270]</sup>
 
