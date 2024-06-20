@@ -1659,15 +1659,14 @@ We thank the external reviewers and others who helped to ensure the quality and 
 
 
 
-
 **Appendix 1:**
 
-**Timeline of key events related to Xi Jinping’s visit to San Francisco**
+# **Timeline of key events related to Xi Jinping’s visit to San Francisco**
 
 
-***Below are the events covered in detail in the report. This is intended to provide an overview.*** 
+**Below are the events covered in detail in the report. This is intended to provide an overview.**
 
-***The key locations mentioned are these: the San Francisco International Airport, the StRegis San Francisco Hotel, the Hyatt Regency Hotel, and the Moscone Center. These are the main places Xi Jinping frequented during the course of his stay in San Francisco from November 14 to 17. Almost all of the cases of harassment, intimidation, and assault occurred near these locations while Xi Jinping was present there.***
+*The key locations mentioned are these: the San Francisco International Airport, the StRegis San Francisco Hotel, the Hyatt Regency Hotel, and the Moscone Center. These are the main places Xi Jinping frequented during the course of his stay in San Francisco from November 14 to 17. Almost all of the cases of harassment, intimidation, and assault occurred near these locations while Xi Jinping was present there.*
 
 
 |**DATE** |**MAIN EVENTS**|
@@ -1683,7 +1682,7 @@ We thank the external reviewers and others who helped to ensure the quality and 
 
 **Appendix 2:**
 
-**Map of locations in central San Francisco where incidents of harassment, intimidation, and assault occurred**
+# **Map of locations in central San Francisco where incidents of harassment, intimidation, and assault occurred**
 
 **(Other incidents of harassment, intimidation, and assault occurred near the San Francisco International Airport, which lies outside of the city and is not included in the map below.)**
 
@@ -1691,7 +1690,7 @@ We thank the external reviewers and others who helped to ensure the quality and 
 
 **Appendix 3:**
 
-# <a name="_waklajrs1l2x"></a>**List of cases of harassment, intimidation, and assault documented in this report**
+# **List of cases of harassment, intimidation, and assault documented in this report**
 
 *In addition to the cases of harassment, intimidation, and assault documented in this report, eight other cases were reported, are noted in the report, and appear in the list below, marked by an asterisk.*
 
