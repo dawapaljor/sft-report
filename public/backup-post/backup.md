@@ -319,11 +319,9 @@ Brief profiles of these two individuals reveal their ties to the CCP. Tracing th
 
 > In 1999, he co-founded the American Fuzhou Langqi United Association (美國福州琅岐聯合總會). He is also listed as the chairman of the American Chinese Commerce Association (美華總商會會長), which shares a website with the American Chinese Commerce Association (Hong Kong) (美國(香港)旅美華人總商會), of which he is also president. Besides the organizations mentioned above, he is also reported to be the convener of an organization called Coalition of Asian-Americans for Civil Rights (CAACR) (亞裔維權大聯盟).<sup>[^61]</sup>
 
-> In San Francisco, Chen led supporters in “welcoming” Xi outside the St Regis Hotel, where the Chinese delegation was staying, on November 14. Some of them harassed and intimidated protesters.
+> In San Francisco, Chen led supporters in “welcoming” Xi outside the St Regis Hotel, where the Chinese delegation was staying, on November 14. Some of them harassed and intimidated protesters.  
 
-> <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548929/AtSlH8nNhO_tnuUi_plqras.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
-
-> <sup>[^62]</sup>
+>  <sup>[^62]</sup> <iframe src="https://drive.google.com/file/d/1Euklhd43btG6zhk6y94RloMi_RKZeXww/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe> 
 
 Besides united front figures like Lu Qiang and Chen Shanzhuang, who** reportedly organized the mobilization and transport of CCP supporters to San Francisco from, respectively, southern California and New York, several other prominent united front leaders participated in the “welcoming” of Xi Jinping in San Francisco. They will be noted as they appear in the timeline of events below.
 
@@ -368,8 +366,8 @@ Another pattern seen at the airport that would recur in subsequent days was that
 **Harassment and Intimidation of Uyghur Camp Survivor Tursunay Ziyawudun and Other Uyghurs**
 
 Of particular note is the harassment of Uyghur camp survivor Tursunay Ziyawadun and other Uyghurs.<sup>[^73]</sup> CCP supporters attempted to surround her and use PRC flags to cover the flag of East Turkestan she was carrying. 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548930/IMG_9890_uijy9j.mov"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
+<iframe src="https://drive.google.com/file/d/1clRVv3CreSVr43cyNJ8ovv4bLKsOQoNq/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 This episode is redolent with ironic symbolism: Having escaped from both a CCP concentration camp for Uyghurs and other Turkic Muslims and CCP-ruled East Turkestan, Tursunay found herself harassed once again by people loyal to the regime who had persecuted her, but this time on American soil. The CCP supporters who harassed her most likely had no idea of who she was or what she had been through. The feeling that they, as Uyghurs and other targeted peoples, had come to the US to escape persecution at the hands of PRC authorities and now here they were experiencing it again in the US was a sentiment shared by many of the protesters in San Francisco who were originally from China, East Turkestan, Hong Kong and Tibet.
 
@@ -381,7 +379,7 @@ Along the route from the San Francisco International Airport to the St Regis Hot
 
 One protester in particular posted a video of herself being harassed and intimidated along the route on the afternoon of November 14.<sup>[^74]</sup> Her name is Li Huanjun (李煥君).
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548920/F3nrJnj5gExRZYIy_gfotyh.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe controls src="https://drive.google.com/file/d/1BweZVqVNTmusdaAafuiv_2KKQXxOPnow/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay" ></iframe>
 
 <sup>[^75]</sup>
 
@@ -408,9 +406,8 @@ Another man who appears prominent and centrally in the video in which Li Huanjun
 
 In addition to having participated in the harassment and intimidation of Li Huanjun, Jing Dongsheng appears also to have been a “scout,” one of the people apparently stationed at various “sensitive” locations where Xi’s delegation stayed or was expected to appear around San Francisco to keep a lookout for protesters. He appears in this video posted by Ma Yongtian (馬永田) photographing her with his camera in a taunting manner.  
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548916/keyyqIFXSxMJ1hjC_ah8nm3.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+[^86]<iframe src="https://drive.google.com/file/d/19xMEBMyUNXnEgnDZ4fGomsRXhdjnrnk0/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
-[^86]
 
 Ma Yongtian is from Jilin Province. Her factory was forcibly seized in 2001, and since then, she has been seeking compensation. She was arrested in 2017 in Florida for blocking Xi Jinping’s motorcade.<sup>[^87]</sup> In San Francisco, she was searching for a place where she might do the same when she came across these scouts. Not only is Jing Dongsheng present, so are other recognizable united front figures. Two of them appear together with him in the same frame, as can be seen in the following photo:
 
@@ -509,7 +506,7 @@ The person whom Jia Junwei identified as her main attacker was Li Huahong (李�
 
 Li was alleged to be involved in other attacks on subsequent days. On November 15, outside the Hyatt Regency Hotel where a banquet was held in Xi Jinping’s honor, she was among a group of CCP supporters, some of whom later attacked protesters.
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719555704/IMG_6974_tg9q9x.mov"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1m-SscXXlJeR0XxUtfOAN9eLvSzk_sNE8/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 On November 16, Ge Kaiying (葛開英) reports that she was attacked at noon by Li Huahong on Fourth Street in downtown San Francisco. She was alone and said Li recognized her from her presence at protests on previous days. According to Ge, Li stepped on her feet, then grabbed a box from her. When Ge tried to recover her belongings, Li hit her.<sup>[^99]</sup>
 
@@ -581,9 +578,8 @@ Only when arriving in downtown San Francisco, at Market and Third Streets, did t
 
 While the march was taking place, Chinese activist Wang Wei (王維) was assaulted near the St Regis Hotel at about 11 a.m.<sup>[^109]</sup> Like Jia Junwei the day before, Wang was not accompanied by other protesters, and his isolation appears to have emboldened his attackers. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548915/YDROo1qaM0k95Mqx_1_uykmwm.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
-
 [^110]
+<iframe src="https://drive.google.com/file/d/1GTpoZ9zEJvet93McdipNC36hwPchXMcV/preview" class="sm:w-full lg:w-1/2 h-80" allow="autoplay">  </iframe>
 
 Wang Wei testified that he noticed some CCP supporters and started taking videos of them because he feared attack and thought filming them might act as a deterrent or at least provide evidence in case of attack. He wore a “Free China” sticker on his arm and believed this excited their animosity. He and they exchanged sharp words. Then the CCP supporters began attacking him. There were some middle-aged men and a woman wearing a blue cheongsam. She shoved Wang three times. He warned the group that if he was pushed again, he would take action. After another shove, he stuck out a leg, and the men surrounded him and started beating him. They pushed him to the ground. The attackers then surrounded him with their large PRC flags and continued to strike him. One of them stabbed him with the tip of a metal flagpole. Still lying prostrate on the ground and realizing he was all alone, Wang grabbed the leg of a person who tried to kick him. After he grabbed the leg, others began kicking him as well, and continued to punch him. Wang became disoriented and felt as if he were going to faint. Only later did he learn that he was able to escape due to two white women who broke things up. They placed themselves between Wang and his assailants. They asked him if he was okay and helped him to call the police. Later, an ambulance came and took Wang to the hospital, where he received treatment. He and friends had originally planned to return to Los Angeles, where he lives, that evening, but then discovered that one of the tires of his car had been punctured by two large screws. He didn’t know whether or not this was done deliberately. 
 
@@ -714,7 +710,7 @@ According to Tsela, “When I first began to go up the flagpole, I spent about 3
 
 In this video, Tsela can be seen to have climbed to that height. The large PRC flags previously blocking her from view at a lower height can be seen below her. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548910/Tsela_scaling_flagpole_Joel_Umanzor_The_Standard_zm7fu8.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/18EbI0wbZjUKqI0QzwUYNods0-hnoQ1sH/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 
 Tsela would remain on the flagpole holding out the Tibetan flag from 3:15 p.m .to 8:45 p.m. while the banquet went on inside the hotel.
@@ -725,7 +721,7 @@ Topjor Tsultrim, Communications Coordinator with Students for a Free Tibet, corr
 
 Topjor also singled out a woman in a purple jacket.<sup>[^148]</sup> 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548884/signal-2024-04-05-115232_002_fssk6d.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1IlJvzu9f_oLAt78cFhCKrHnAu6RiD4W0/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 After Tsela ascended the flagpole, this woman and her accompanying security guard tried to prevent Topjor from leaving the area near the base of the flagpole by repeatedly moving to stand in front of him and telling him he could not leave. Later in the evening, Topjor saw her at a checkpoint outside the Hyatt Regency. At this point, the police officers at the checkpoint were allowing only hotel workers and banquet guests to enter the hotel. The woman in the purple jacket told the police officers, “Let me through,” showed her badge, and was allowed to enter the hotel. This gave Topjor the impression that she may have been associated with, or even a part of, the Chinese delegation accompanying Xi Jinping at the banquet that evening. Topjor saw her also on the 14th of November near the airport when Xi was due to arrive in San Francisco and again on the 17th when he was to depart. Then, too, she was accompanied by security guards who appeared to be acting as her bodyguards. She was liaising with a police officer who appeared to be showing her his contact details, which she entered into her phone. Another man prevented Topjor from approaching the woman.<sup>[^149]</sup> In both locations she was accompanied by what appeared to be her own personal security guard(for more on her at the San Francisco International Airport on November 17, see below).
 
@@ -735,7 +731,7 @@ Sonamtso, who is on the international board of directors for Students for a Free
 
 The woman in green can be seen incessantly hitting protesters with her small flags in the video below. Eventually, a police officer directs her to back away. The woman in purple, suspected of being affiliated with the Chinese consulate or delegation, meekly attempts to intercede on behalf of the woman in green. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548903/suspected_Chinese_organizer_at_flagpole_wbqjlk.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1YhK5qLBlhvsLnVY9LRZbpM8Vr_g-GLe1/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 The woman in green appears to be associated with the American Fujian Association (美國福建同鄉會; AFA, sometimes rendered into English—including by the group itself—as the Fukien American Association). She has appeared together with Chen Heng (陳恆), the chair of AFA, at AFA events. <sup>[^151]</sup>  
 
@@ -745,7 +741,7 @@ In San Francisco, they also stood side by side, as can be seen in this screensho
 
 Chen himself was present at the flagpole, and, in fact, played a high-profile role, at one point attempting to snatch the “Dictator Xi, Your Time Is Up” banner from Tsela (at 00:15 in the video). 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548879/suspected_organizer_pulling_banner_edited_dmn40g.mov"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1wQD3DuzLU_Io7qkrRmGt9RWsf25uh6g_/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 
 
@@ -793,9 +789,9 @@ Only minutes after unfurling the banner, protesters suddenly felt a violent tug 
 
 Later, when he had the opportunity to confront his attackers, he shouted at them, "I almost died because of you.” For the sake of safety, the protesters extracted their hands from the banner straps and let it fall. Then they went downstairs to look for it. They found it lying on a lower floor and tried to unfurl it again. As they did, they were attacked by about 15 masked men. The attackers ripped the banner out of the protesters’ hands and ran away. The protesters ran after them and took a video.<sup>[^160]</sup> The video begins the moment after the attackers ripped the banner from the protesters’ hands and shows them running to the elevator in the parking garage. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719550831/IMG_7991_gsjjey.mov"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548927/IMG_2673_i4y3nr.mov"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719551131/IMG_0941_d2fwie.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1QAdnN6cSKah7_9fqcruS7peQbKP21xYk/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1jsS8fas0vwZRgHw_JgIq8nhKEynR-2Z9/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1nphlI0MRNg4-I2bsheCAgEKKuvmTXOwS/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 <img src="/images/Still-from-IMG-2340-2.png" alt="Still from IMG_2340 2.png" class="img-sm">
 
@@ -828,7 +824,7 @@ After that, one of the Tibetan protesters, Chemi Lhamo, Campaigns Director with 
 
 The security guard put Chemi Lhamo’s arms behind her back and pushed her to the elevator doors. She said, “Let go of me. You’re hurting me.” The security guard led her out of the parking garage through a California Pizza Kitchen restaurant on the ground floor and to the street, where Chemi Lhamo spotted some of the same men who had attacked her and the others in the parking garage. The men quickly fled, blending into the crowd of CCP supporters gathered there. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719550452/IMG_2684_gfhnbf.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1MWMHkVBBkKZVXMeE-CENdCKBXzPyTP_H/preview" class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></iframe>
 
 
 Chemi Lhamo says the group of men seemed trained and that they seemed to act with military discipline. Their faces were covered by masks. They clutched at their masks to make sure they stayed on and tried to avoid appearing on camera. They appeared to have gotten the parking garage security guards to carry out work on their behalf. 
@@ -867,7 +863,7 @@ The next attack occurred later that evening, between 7:30 and 8 p.m. Its target 
 
 One of the attackers can be seen in this video holding at least five poles. This same man was seen later with only one pole. Later, some other CCP supporters around the area also had poles with them. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548907/IMG_0260_v8dzbu.mov"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1Jjp-xBRYRn4UaIpv5ooRaP7iKTrsJ60x/preview" class="sm:w-full lg:w-1/2 h-80" allow="autoplay"></iframe>
 
 <figure class="max-w-lg">
   <img class="h-auto max-w-full rounded-lg" src="/images/flagpole-weapons-at-Hyatt-Regency-15nov23-copy.jpeg" alt="CACWA in parking garage">
@@ -876,13 +872,13 @@ One of the attackers can be seen in this video holding at least five poles. This
 
 As the group of CCP supporters came to the corner of Third and Jessie Streets, where the designated protest zone was demarcated by metal barriers, they confronted the protesters.
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548880/signal-2024-01-25-194608_003_o6xy1u.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1wGPP0qZSulxSsnJC_eA2bcVVnb93oEu3/preview" class="sm:w-full lg:w-1/2 h-96" allow="autoplay"></iframe>
 
 HKDC Executive DirectorAnna Kwok, who was in the designated protest zone, said that police lined Third Street, separating both protesters and CCP supporters from the Hyatt Regency, and that, originally, there was a small group of police officers at the intersection of Third and Jessie Streets, between the Hong Kong and Tibetan protesters on one side of Jessie and the CCP supporters on the other side. But, after a while, those police officers disappeared, and “things went downhill after that. Thugs appeared between 7:30 to 7:50 p.m. and tried to provoke violence.”<sup>[^176]</sup> 
 
 About ten minutes before they attacked, around 7:20 p.m., a single person, coming along Third Street from the other direction,  entered the designated protest zone, where he was seen taking photos of protesters at close range. He was confronted by Hong Kong protesters, at which time, he fled.
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548887/20231115-Hyatt_Regency-suspect_CCP_operative_1_hvlhux.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1H92XkQa_SmiZ5YR8taUNCjLR3vsGylRt/preview" class="sm:w-full lg:w-1/2 h-96" allow="autoplay"></iframe>
 
 As he was fleeing, other men prevented protesters from giving chase. One of those men was the bald-headed Chen Wenshen, vice-president of the Fujian Chamber of Commerce and Industry of Washington State (華州福建工商會) in the Seattle area (see above), who had been present at the attack on Wang Wei outside the St Regis Hotel earlier that day, as well as near the flagpole at the Hyatt Regency, and would again be seen near the Moscone Center on the 16th and at the San Francisco airport on the 17th, all locations where incidents of harassment, intimidation, and assault occurred. 
 
@@ -891,8 +887,8 @@ As he was fleeing, other men prevented protesters from giving chase. One of thos
 About 10 to 15 minutes after that, the attackers attempted to enter the designated protest area. Some videos of the incident appear to show what might be characterized as a “melee” or “scuffle” involving both CCP supporters and protesters, but as the sequence here shows, it was the CCP supporters who attempted to violently encroach upon the designated protest zone set up by the police, and, while the attackers were armed, the protesters were not. Once attacked, some young Tibetan protesters attempted to defend the protest zone, pushing back against the attackers. In interviews, they said their reason for doing so was that some of the people in the protest zone were women and others were older, including some parents, and they wanted to protect them. They were also aware of death threats having been made against HKDC Executive Director Anna Kwok and were intent on protecting her.<sup>[^177]</sup> Kwok, in turn, was aware of their solicitude: “Tibetans and others surrounded me to protect me; due to the threats, we prepared for the possibility of targeted kidnapping.”<sup>[^178]</sup>
 
 <div class="grid sm:grid-cols-1 lg:grid-cols-2">
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548887/20231115-Hyatt_Regency-suspect_CCP_operative_1_hvlhux.mp4"  controls class="sm:w-full lg:w-full h-96 sm:h-80" allow="autoplay"></video> 
-<video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548876/Barricade_attack_dlxln0.mp4"  controls class="sm:w-full lg:w-full h-96 sm:h-80" allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1H92XkQa_SmiZ5YR8taUNCjLR3vsGylRt/preview" class="sm:w-full lg:w-full h-96 sm:h-80" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1bQvnltxRxRPRqPSp0GPP2OofkyidIDJV/preview" class="sm:w-full lg:w-full h-96 sm:h-80" allow="autoplay"></iframe>
 </div>
 
 The attackers used umbrellas and metal poles to hit protesters and stab at them. One man can be seen in the video trying to separate his flagpole from its flag, presumably so as to better use it as a weapon. They also threw water bottles full of water as well as sand. 
@@ -968,7 +964,7 @@ Yang Baohai is reportedly the president of the Bay Area Fujian Ren Association (
 
 After the protest ended, some of the protesters who left the designated protest zone were stalked by the same group of people who had attacked them there. A little more than a dozen attackers followed them for blocks down Market Street. There were about a dozen Tibetan protesters altogether: some women in their twenties, including SFT Campaigns Director Chemi Lhamo, along with some older people and teenagers. While many protesters were leaving the area at about the same time, the stalkers chose to target the youngest Tibetan protesters. As the group of protesters passed an alleyway, they saw the CCP supporters who had attacked them. When the CCP supporters saw them, one of them threw down his cigarette and led the others in following the protesters, which gave the protesters the impression the CCP supporters had been waiting for them to pass. The CCP supporters dragged their metal poles on the ground, making a scraping noise that the protesters believed was intended to intimidate them. When they were certain the CCP supporters were following them, the protesters began videoing them.
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719560185/IMG_27011_2_lz0vog.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/18ib15Z3mu3iy9fo8KH1mu_5OMn9tpRVe/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 A number of the stalkers are clearly recognizable from the photos and videos of the attack in the designated protest zone.  Because of the harassment and attacks at the Hyatt Regency, the Tibetan protesters had heightened their vigilance, and this group of protesters had made arrangements to chaperone some in the group to the subway and others to a van waiting to pick them up. The CCP supporters smirked and laughed at the protesters as they followed them. 
 
@@ -1004,9 +1000,7 @@ SFT Executive Director Pema Doma was in communication with the group by phone an
 Also near the Hyatt Regency on the evening of the 15th, a 74-year-old Hong Kong protester named Chow Kai-hong / Zhou Qihong (周啟鴻; also commonly referred to as Chow Baak 周伯, 伯 meaning “uncle”) was assaulted. The attack occurred outside The Hearst Building on Third Street near its intersection with Market Street and just down the block from the Hyatt Regency. At least five men were involved in the attack. One man shoved Chow to the ground. 
 
 
-
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548909/Attack_on_74_year_old_HKer_gpksxe.mp4"  class="sm:w-full lg:w-2/3 h-3/3 sm:h-80 py-0" allow="autoplay"></video> 
-
+<iframe src="https://drive.google.com/file/d/1Myxa0aUYE781mfxiqjzMZz3J-U7G7EzN/preview" class="sm:w-full lg:w-2/3 h-3/3 sm:h-80 py-0" allow="autoplay"></iframe>  
 
 <sup>[^194]</sup>
 
@@ -1096,8 +1090,7 @@ Chen Chuangchuang (陳闖創), a lawyer and one of the leaders of the China Demo
 
 The attack occurred during a confrontation between CCP supporters and protesters. CCP supporters were pushing protesters away from the temporary security fence put up in front of the Moscone Center, and thus, away from view from the center. They cornered some of the protesters in the entryway of a building. At that point, police intervened and attempted to separate the parties. As they were doing so, Chen was pepper-sprayed in the face by a CCP supporter. Chen’s glasses had been broken by CCP supporters the day before, the 15th, and when he was pepper-sprayed, he didn’t even realize at first what had happened until his eyes started burning.<sup>[^201]</sup>
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548927/XTv53fP1xxaftMUr_kau8jf.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
-
+<iframe src="https://drive.google.com/file/d/1KWx5tUFSCsYaIp-4HiiYJj4FrP4lbBim/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 **<sup>[^202]</sup>**
 
@@ -1191,7 +1184,7 @@ Yang Baohai was also involved in the attack on Tibetan protesters at the designa
 
 Prior to the attacks on Chinese protesters near the Moscone Center, a group of Vietnamese protesters had been gathered at the same location. Some members of the China Democracy Party joined them. One of the Vietnamese protesters had a placard depicting Xi Jinping. This appeared to be the reason the CCP supporters began attacking the Vietnamese protesters. In fact, the Vietnamese protesters had been on the scene first, along with a handful of Chinese protesters. The CCP supporters appeared to attempt to supplant them, mixing in with them and covering their flags and posters with PRC flags. Yang Baohai was also involved in that incident. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548876/signal-2024-04-09-125353_002_qq2sgc.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1hLATdAat6w9Cmkwh7RG2D2hWueVVzJ00/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 <sup>[^222]</sup>
 
@@ -1244,7 +1237,7 @@ Pema Doma said she spoke with the police at this point. She told them she wanted
 
 While Tibetan protest leaders had difficulty liaising with law enforcement officers on the scene and received a variety of different and sometimes contradictory responses ranging from hostile to indifferent to sympathetic, police officers seemed to have more respectful and direct relations with at least one person who appeared to represent CCP supporters. In the following video, a police officer can be seen apparently sharing information (perhaps his contact information) on his phone with the woman accompanied by security guards, three of whom appear to be from the private company Critical Synthesis. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548887/suspected_Chinese_state_agent_w_security_guards_p7gvlf.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1wm_bVTAK8HciG9rHtS2P0JIZkX6AtGFj/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 Security guards from the same company were seen accompanying CCP supporters that same day at the scenes of incidents of harassment, intimidation, and assault. On some occasions, they attempted to intervene to prevent the CCP supporters from further harming the protesters; on others, they stood and watched. 
 
@@ -1283,7 +1276,9 @@ More and more people arrived. There was no space. Chemi Lhamo was surrounded by 
 
 The CCP supporters put a big banner in front of Chemi Lhamo. By then, she could not be seen from any angle—she was covered by flags behind her as well. She was pushed and shoved. She stood her ground. She could see Tibetans “three layers away” trying to get to her. She told them she was okay and would stay until she was no longer safe. But they couldn’t see her, and she could no longer see anyone else. She kept shouting that she was okay. The woman next to Chemi Lhamo disappeared; her place was taken by male CCP supporters.
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548920/SF_airport_17_nov_23_trimmed_vjdgqy.mp4"  controls class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></video> 
+
+<iframe src="https://drive.google.com/file/d/1bKHWn_p6szitIPhQzHvWCO7z9mGzaQ4y/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
+
 
 Chen Wenshen, the bald man who had been present at many other incidents in the previous days, was there (see video above from 00:20). 
 
@@ -1341,7 +1336,9 @@ Pema Doma asked the police to go and help the young men. The police said they wo
 
 The two Tibetan youths were both 19 years old. They had been in school that day and had not planned to go to the protest, but one of them received a call from one of the Tibetans at the airport who told him that someone was trying to hit his mother. That was when the two decided to go to the airport. They arrived around noon. As they approached, they were stopped at the infamous bridge where Chemi Lhamo and the others had been assaulted. A woman  recognized by one of the young men from a previous day’s protest had recognized him as well and alerted other CCP supporters to the young men’s presence. All the young men wished to do was to go and meet the other Tibetans in the protest zone. About 20 people blocked  the two Tibetan men at the mouth of the bridge. Ten to 15 others were standing off to the side. Both of the young men took out their cameras and began filming the situation “for our safety,” as one put it. One of the Tibetan youths was standing behind the other. One of the CCP supporters tried to punch the youth who was in back, but he ducked the punch. Another knocked the phone out of his hand.<sup>[^239]</sup> The video below shows what the youth had been filming when the CCP supporter knocked the phone out of his hand. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548885/Lhawang_video_leading_to_attack_ajwcfd.mov"  controls class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1ArtoXZIqHFghwxmxBB6ppE0TgY5Ry6Ol/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
+
+**VIDEO: Lhawang video leading to attack.MOV**
 
 According to the interview with one of the Tibetan youths, moments before the phone was knocked out of the other’s hand, the CCP supporters had put up their flags to block views of the incident and had begun to play loud music. Then a CCP supporter tried to hit the Tibetan youth in the front and missed. Other CCP supporters grabbed his jacket, and he lost his balance and fell over,  dropping his phone. From the ground, he could see it in the middle of the walkway. A woman was jumping up and down on it. He got up to retrieve it. The other Tibetan youth also tried  to get the phone. CCP supporters hit him with sticks. The first Tibetan youth went to the aid of his companion. CCP supporters pulled his hoodie over his face. He felt them trying to pick him up. He swung wildly so as to keep them at bay and felt many punches. The other youth said that the attackers tried to throw him over the bridge and into the water below. He grabbed onto a tree to prevent that from happening. One of the youths estimates that, in all, there were about 50 people attacking them, more or less 25 on each of them. Three security guards on the bridge stood and watched the attack, but another security guard, dressed in a black suit, intervened. Then other security guards arrived and the CCP supporters scattered. The Tibetan youth whose phone was smashed managed to retrieve it; the other Tibetan youth noticed his phone was gone but didn’t know what had happened to it. 
 
@@ -1353,6 +1350,7 @@ In the ambulance, the paramedics examined the youths, checking blood levels and 
 
 One of the youths said his ear was purple and he had scrapes from the concrete where he’d fallen down. The other had bruises on the right side of his head and the back of his head from being hit with poles and sticks. He was worried he might have a concussion, as he had minor headaches for some time after the attack. Both had facial injuries. The following photo was taken immediately after the assault.
 
+**PHOTO: 19yo Tibetan assaulted at airport 17nov23.jpeg**
 ![19yo Tibetan assaulted at airport 17nov23-min](/images/19yo-Tibetan-assaulted-at-airport-17nov23-min.jpeg)
 
 On their way home, the two Tibetan youths stopped at the hospital to be examined. The following photos were taken at Redwood City Medical Center at 3:45 p.m. on the same day.<sup>[^241]</sup> 
@@ -1429,8 +1427,7 @@ He Konghua (何孔華), yet another united front leader from the Bay Area who wa
 
 At a certain point toward the end of the afternoon, a CCP supporter attempted to cross a police barricade and invade the protest zone.<sup>[^259]</sup> He was thrown to the ground by police, handcuffed, and led away. He was the only CCP supporter that protesters ever saw being taken into police custody.
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548916/arresting_the_jumper_dxhqfs.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
-
+<iframe src="https://drive.google.com/file/d/1Z6HO_9y0-QhmewAPctvS822_ysHnReJL/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 
 When the protesters left the designated protest zone at the end of the protest in the late afternoon, they had to negotiate with police to provide an escort to take them past the CCP supporters. Tibetans who had gone out of the protest area reported to the other protesters that they’d seen CCP supporters holding poles lined up along the road. Some suspected they were planning to launch an attack on protesters as they left.<sup>[^260]</sup> The police initially said they wouldn’t help the protesters to leave, but then some of them agreed to do so. 
@@ -1443,21 +1440,21 @@ Once the group of protesters escorted by the police arrived at the Costco parkin
 
 The vigilance of the protesters in leaving the protest area proved sadly justified. One of the most brutal assaults of the day, indeed of the several days of Xi Jinping’s visit to San Francisco, occurred near the Costco parking lot where many of the protesters had parked their vehicles. The victims were Chinese protester Kaiyu Zhang and 74-year-old Hong Kong protester Chow Kai-hong, who was also assaulted on the 15th near the Hyatt Regency (see above). Of the two, it was Kaiyu Zhang who was beaten far worse. Li Delong, who was assaulted on the 16th, was accompanying Kaiyu Zhang and Chow Kai-hong. Ironically, when they were attacked, they were on their way to the police station to file reports about the assaults they had endured on  previous days. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548916/arresting_the_jumper_dxhqfs.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1Z6HO_9y0-QhmewAPctvS822_ysHnReJL/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
-<sup>[^264]</sup>
+**<sup>[^264]</sup>**
 
 According to Kaiyu Zhang, “When we were halfway to the Costco parking lot, we saw a dozen young Chinese men who blocked the entire sidewalk in front of us. They were standing there gazing around, wearing red headbands or with red scarves in their jackets. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548876/signal-2024-04-10-113124_007_i1ytqj.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/1LRCmrtBREPlc4lDX7eTnHOEH9CvxZgp3/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 “We instantly knew we were in danger, as we had heard of many cases of assault during APEC, including Chow Baak’s and Li Delong’s.
 
 “We tried to keep as far away as possible from them when we passed, but the entire group of young men started following us at an intimidatingly close distance and repeatedly insulted us: ‘Fuck Hong Kongers! Fuck you old shits.’ I realized we were being targeted because they heard Chow Baak and me speaking Cantonese with one another…. I thought our right to free speech was protected by the Constitution and we should not be intimidated by CCP supporters on American soil, so I responded, ‘Fuck the CCP, fuck Xi Jinping.’…. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548876/signal-2024-04-10-113124_010_sd9bcy.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/15AMcWp1YywDoJOMDMM3gU2pcIator-kt/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
-<sup>[^265]</sup>
+**<sup>[^265]</sup>**
 
 “Meanwhile, I saw another group of young men, also wearing red scarves, heading toward us. It all happened so fast after that. I was tackled from behind. I was pinned down. I only recall these men above me beating me violently. I lost consciousness in no time. When I regained consciousness, I found myself lying on the grass. A woman nearby was calling the police. It took a long time before a police officer arrived. Chow Baak and I were sent to the hospital soon after. I was in [the] ER until 2 a.m. the following day.”<sup>[^266]</sup>
 
@@ -1471,13 +1468,14 @@ This is how Kaiyu Zhang looked after the attack:
 
 This is Kaiyu Zhang giving his name to the police directly after the assault: 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548878/signal-2024-04-10-113124_004_hfgq74.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+<iframe src="https://drive.google.com/file/d/14w5xgjrrz9rMTsAo9YTuMi5b9vXcZAZf/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 <sup>[^267]</sup>
 
 This shows Kaiyu Zhang being brought to the ambulance after the attack. According to the time on the tweet, 2:47 p.m., this occurred 45 minutes to one hour after the assault. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548884/signal-2024-04-10-113124_002_pgvdgk.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+**VIDEO: signal-2024-04-10-113124\_002.mp4**
+<iframe src="https://drive.google.com/file/d/1Z7ev4cyLmthuWgZw1APfhiTEo_QaumBn/preview" class="sm:w-full lg:w-2/3 h-2/3 sm:h-80" allow="autoplay"></iframe>
 
 <sup>[^268]</sup>
 
