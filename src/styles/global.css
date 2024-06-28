@@ -18,8 +18,12 @@
          
       }
 
-     iframe, iframe+p>strong>em{ display: block;
-      }
+    .report ul{
+      list-style-type: square;
+    }
+    .report li{
+      list-style-type:decimal
+    }
     
      .footnotes{
         margin-top:20px;
@@ -104,3 +108,4 @@ table th{background:#FCD34D;
          @apply object-center;
       }
     }
+    
