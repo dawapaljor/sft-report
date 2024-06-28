@@ -21,7 +21,7 @@
     .report ul{
       list-style-type: square;
     }
-    .report li{
+    .report ol{
       list-style-type:decimal
     }
     
