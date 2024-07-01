@@ -1,6 +1,7 @@
 ---
 import Navbar from '../components/Navbar.astro';
 import Hero from '../components/Hero.astro';
+import $ from "jquery";
 import StickyNavBottom from '../components/StickyNavBottom.astro';
 import Footer from '../components/Footer.astro';
 interface Props {
@@ -47,13 +48,13 @@ const { title } = Astro.props;
 		$(document).ready(function(){
 			
 			$("#dropdownMenuIconHorizontalButton").click(function(){
-				alert("hide/show");
+				
     			$("#dropdownDotsHorizontal").show();
  			 });
 
   			$(".menu-item").click(function(){
     			$("#dropdownDotsHorizontal").hide();
-				alert("hide")
+				
  			 });
 		});
 		</script>
