@@ -25,7 +25,6 @@ This report makes 18 recommendations to the White House, relevant federal agenci
 
 <h2  id="methodology" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Methodology</h2>
 
-
 This report is based primarily on the testimonies of 26 protesters and one journalist who were present in San Francisco during Xi Jinping’s visit from November 14 to 17, 2023, as well as on video and photographic evidence provided by protesters. Media reports and social media posts have also been of some assistance. 
 
 We have attempted to document all cases of harassment and intimidation of and assault on protesters that we came across. All cases described in detail have been substantiated by testimonies of participants and witnesses and/or video and photographic evidence. 
