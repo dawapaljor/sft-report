@@ -53,7 +53,7 @@ We have identified some groups and individuals as belonging to the Chinese Commu
 
 We have attempted to contact all of those identified in the report as CCP supporters as well as private security firms perceived to be associated with CCP supporters through email, telephone calls and letters. We notified them that they are mentioned in the report, asked if we might ask them some questions, and offered them the opportunity to respond and comment. As of May 15, 2024, most have not responded. None has responded affirmatively. In many cases, these groups and individuals have little to no online presence or website. Many of the email addresses and phone numbers they have made available online or in tax documents proved to be incorrect, out of date, or inoperative. In the first instance, we contacted them by telephone or email at the numbers and addresses that could be found. Where that did not succeed, and in cases where post addresses could be found, we sent letters to them. Only two could be reached by phone. Both made clear they did not wish to speak with us. One responded to email inquiries. None responded to letters.Of those identified in the report as being present on the streets of San Francisco during Xi’s visit, we have not been able to find contact information for three leaders of united front groups, one CCP member based in the PRC, and one convicted felon with no known united front leadership position.
 
-We have also reached out to the San Francisco Police Department, the South San Francisco Police Department, and the San Mateo Sheriff’s Office for information and comment.. 
+We have also reached out to the San Francisco Police Department, the South San Francisco Police Department, and the San Mateo Sheriff’s Office for information and comment.
 
 Where we have received responses, we have included those in the report.
 
@@ -111,9 +111,9 @@ In 1989, many overseas Chinese were shocked and outraged by the Tiananmen Massac
 
 The 1990s in particular, but also the following decades, have been a boom time for the development of the united front in the US. This development coincided with increased migration from the PRC to the US and a large increase in the number of Chinese students at US universities. Recent migrants and Chinese students became the main targets of united front work and often the main groups tasked with carrying it out. The PRC also experienced rapid economic growth in this period, allowing the CCP to exert greater influence around the world, including on diaspora communities.
 
-While the earlier model of united front work focused on securing the CCP’s political power and exerting the CCP’s influence, the united front work this report examines in San Francisco includes a broader range of goals, astroturfing public support for the CCP in the United states and neutralizing public displays of opposition among them. 
+While the earlier model of united front work focused on securing the CCP’s political power and exerting the CCP’s influence, the united front work this report examines in San Francisco includes a broader range of goals, astroturfing public support for the CCP in the United States and neutralizing public displays of opposition among them. 
 
-These objectives of CCP united front work have been observed as far back as the 2008 global Olympic torch relay.<sup>[^8]</sup> The CCP considered the Beijing Olympics of 2008 as China’s grand coming-out to the world, and its global Olympic torch relay the glorious prologue. Therefore, when large numbers of protesters turned out during early stops on the torch’s tour and seriously damaged the effectiveness of the propaganda campaign, the CCP rapidly mobilized united front groups in Australia and Japan to ensure that the same wouldn’t happen in those places. The torch relay in San Francisco was also targeted for united front mobilization. These mobilized united front groups gathered to display overseas support for CCP leadership and to identify, manage and neutralize any signs of opposition to CCP leaders and policies (i.e., protests).
+These objectives of CCP united front work have been observed as far back as the 2008 global Olympic torch relay.<sup>[^8]</sup> The CCP considered the Beijing Olympics of 2008 as China’s grand coming-out to the world, and its global Olympic torch relay the glorious prologue. Therefore, when large numbers of protesters turned out during early stops on the torch’s tour and seriously damaged the effectiveness of the propaganda campaign, the CCP rapidly mobilized united front groups in Australia and Japan to ensure that the same wouldn’t happen in those places. The torch relay in San Francisco was also targeted for united front mobilization. These mobilized united front groups gathered to display overseas support for CCP leadership and to identify, manage, and neutralize any signs of opposition to CCP leaders and policies (i.e., protests).
 
 The CCP regarded these efforts as so successful that they still serve as the template for overseas public events the CCP considers to be related to its core interests, such as foreign visits of top Party leaders and sovereignty over East Turkestan, Hong Kong, Taiwan and Tibet.
 
@@ -124,7 +124,7 @@ The mass protests in Hong Kong in 2019 were another moment when the CCP felt its
 This report describes a repeating pattern of attacks on protesters during Xi Jinping’s 2023 visit to San Francisco. This pattern is defined by the following aspects:
 
 1. United front groups and figures involved in the CCP-supporting and counter-protest efforts are non-state actors\. While their exact relation to the CCP as an institution may be somewhat vague or unclear, they are not formally, openly, or explicitly incorporated into Party structures\. In other words, the CCP is effectively “outsourcing” repressive actions. 
-2. there are clear and well-documented connections between (i) the state organs of the PRC such as embassies and consulates, (ii) United Front organs that are formal parts of CCP infrastructure in the PRC, and (iii) overseas united front groups that are informally connected to the party structure\. 
+2. There are clear and well-documented connections between (i) the state organs of the PRC such as embassies and consulates, (ii) United Front organs that are formal parts of CCP infrastructure in the PRC, and (iii) overseas united front groups that are informally connected to the party structure\. 
 
 It is worth noting that while the pro-CCP public assemblies “welcoming Xi” were intended to present a peaceful face of “patriotic” support for China and for good relations between China and the US, in fact their motives also involved neutralizing any manifestation of opposition to Xi or the CCP. The strong motive to neutralize dissent has led to repressive actions not short of harassment, intimidation, and assault, and as such, has resulted in acts of transnational repression. It is further worth noting that not all individuals associated with these groups participated in harassment, intimidation and assault. 
 
@@ -176,11 +176,11 @@ It is clear that countering transnational repression—and TNR carried out by th
 
 Hundreds, if not thousands, of CCP supporters were mobilized and transported to San Francisco to “welcome” Xi Jinping. Some came from the Bay Area, while others traveled from as far away as southern California; Portland, Oregon; Seattle; Philadelphia; and New York. It appears that their transport and accommodations were paid for. The mission of “welcoming Xi” was framed as a glorious patriotic duty. United front groups and their leaders were mobilized. Chinese students at universities in the Bay Area and in other areas of California were recruited through chapters of Chinese Students and Scholars Association with close ties to PRC consulates. 
 
-It appears that the purpose of the mobilization of large numbers of CCP supporters was twofold: firstly, to show strong support for Xi Jinping; and secondly, to obscure, neutralize, and. if possible. eliminate any sign of opposition. The ultimate aim was to present a “sea of red” to the “great leader.” Toward that end, the large numbers were crucial. They were used to crowd out and drown out protesters. Among the large numbers, those who would adopt more aggressive measures could blend in and hide. Ordinary items, especially flags and flagpoles, were deployed by some CCP supporters as weapons against protesters. Flags were regularly used to obscure protesters, both to prevent others from seeing them and to block views of assaults. Flagpoles were regularly used to stab and hit protesters. Protesters interviewed for this report frequently had the impression that the actions of CCP supporters were orchestrated and coordinated to a high degree.
+It appears that the purpose of the mobilization of large numbers of CCP supporters was twofold: firstly, to show strong support for Xi Jinping; and secondly, to obscure, neutralize, and, if possible, eliminate any sign of opposition. The ultimate aim was to present a “sea of red” to the “great leader.” Toward that end, the large numbers were crucial. They were used to crowd out and drown out protesters. Among the large numbers, those who would adopt more aggressive measures could blend in and hide. Ordinary items, especially flags and flagpoles, were deployed by some CCP supporters as weapons against protesters. Flags were regularly used to obscure protesters, both to prevent others from seeing them and to block views of assaults. Flagpoles were regularly used to stab and hit protesters. Protesters interviewed for this report frequently had the impression that the actions of CCP supporters were orchestrated and coordinated to a high degree.
 
 This report documents 34 cases of harassment and intimidation of and assault on protesters that occurred over the course of the four days (November 14–17, 2023) that Xi Jinping was in San Francisco  . These actions include threats, attempts to prevent protest, physical attacks and beatings, thefts of cell phones, and incidents of stalking. Other incidents of harassment, intimidation, and assault were reported by the media and/or on social media and are mentioned in the report. The FBI’s definition of transnational repression—“when foreign governments stalk, intimidate, or assault people in the United States”—is certainly applicable in this instance, as many or all of these acts were perpetrated in San Francisco by people taking part in a coordination mobilization campaign with links to the CCP.<sup>[^24]</sup>  
 
-Significantly, most incidents of harassment, intimidation, and assault occurred at locations where Xi Jinping was present or expected to be—in particular, the San Francisco International Airport on his arrival on November 14 and his departure on November 17; and three places in downtown San Francisco: the St Regis San Francisco Hotel, where the Chinese delegation was reported to be staying; the Hyatt Regency Hotel, where Xi attended a banquet held in his honor by US business groups; and the Moscone Center, venue of the APEC summit.
+Significantly, most incidents of harassment, intimidation, and assault occurred at locations where Xi Jinping was present or expected to be—in particular, the San Francisco International Airport on his arrival on November 14 and his departure on November 17; and three places in downtown San Francisco: the St.Regis San Francisco Hotel, where the Chinese delegation was reported to be staying; the Hyatt Regency Hotel, where Xi attended a banquet held in his honor by US business groups; and the Moscone Center, venue of the APEC summit.
 
 Generally, the actions taken by law enforcement authorities to prevent the attacks, to protect victims of the attacks, and to apprehend and hold accountable perpetrators of the attacks were inadequate. In some cases, police officers appear to have witnessed an attack but to have taken no action. In other cases, protesters reported the attacks to police officers either while they were ongoing or immediately after they took place, but police officers declined to take action. In still other cases, police officers attempted to separate the CCP supporters from the protesters, though they only did so in response to urgent requests from protesters. Where police continued to monitor the situation, the safety of the protesters improved; where they failed to do so, protesters were attacked in the very areas police had set up to protect them. While activists were threatened before Xi Jinping’s visit and law enforcement agencies were made aware of the threats, little to no preventive actions were taken. Police officers on the scene often appeared to have little awareness of the dynamics of what was happening before their eyes and appeared at times indifferent or even hostile and callous toward protesters’ appeals for protection. On only one occasion did anyone interviewed for this report witness a CCP supporter—a man who tried to cross a police barricade to approach protesters,—being taken into custody by the police for an aggressive action toward protesters. The inadequate action by law enforcement authorities put protesters in the position of having to take their own precautions, without which, some protesters interviewed for this report believed, things would have been much worse.
 
@@ -188,8 +188,8 @@ The following section traces the incidents of harassment, intimidation, and assa
 
 - November 11: threats to activists before Xi Jinping’s arrival;
 - November 12 to 14: mobilization and transport of CCP supporters;
-- November 14: Xi Jinping’s arrival at the San Francisco International Airport; harassment and intimidation at the airport and along the expected route of his motorcade; an assault at the St Regis, where the Chinese delegation is reported to be staying;
-- November 15: another assault at the St Regis; multiple attacks at the Hyatt Regency, where a banquet for Xi Jinping is held;
+- November 14: Xi Jinping’s arrival at the San Francisco International Airport; harassment and intimidation at the airport and along the expected route of his motorcade; an assault at the St.Regis, where the Chinese delegation is reported to be staying;
+- November 15: another assault at the St.Regis; multiple attacks at the Hyatt Regency, where a banquet for Xi Jinping is held;
 - November 16: multiple attacks near the Moscone Center where Xi attends the APEC summit; and
 - November 17: multiple attacks at the San Francisco International Airport when Xi Jinping departs.
 
@@ -198,7 +198,7 @@ Interspersed with accounts of the events as they unfolded are identifications an
 <h2  id="saturdaynov11" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Saturday, November 11</h2>
 
 
-### (three days before Xi’s arrival in San Francisco)
+### *Three days before Xi’s arrival in San Francisco*
 
 Threats against activists were made even before Xi Jinping’s arrival on November 14.
 
@@ -217,10 +217,10 @@ Uyghurs also reported cases of Uyghurs in East Turkestan and/or the PRC being co
 
 On the morning of November 11, Hong Kong Democracy Council Executive Director Anna Kwok announced on social media that she had arrived in San Francisco and was going to protest against Xi Jinping.<sup>[^27]</sup>
 
-In response, about 12 hours later, she was inundated with online threats: Some encouraged others to apprehend her. Others threatened kidnapping. One said, “Can somebody drop her unconscious body at the Chinese consulate/embassy?”<sup>[^28]</sup> The threats, all sent from what appear to be pseudonymous accounts, appeared to be coordinated. The accounts shared and commented on each other’s comments. Many used the same image: her face on a Hong Kong Police Force’s wanted poster that offered a bounty of HK$1 million for information or assistance leading to her arreSt The US Department of State and governmental authorities in other countries had already denounced the arrest warrants and bounties against Hong Kong activists in exile as transnational repression.
+In response, about 12 hours later, she was inundated with online threats: Some encouraged others to apprehend her. Others threatened kidnapping. One said, “Can somebody drop her unconscious body at the Chinese consulate/embassy?”<sup>[^28]</sup> The threats, all sent from what appear to be pseudonymous accounts, appeared to be coordinated. The accounts shared and commented on each other’s comments. Many used the same image: her face on a Hong Kong Police Force’s wanted poster that offered a bounty of HK$1 million for information or assistance leading to her arrest. The US Department of State and governmental authorities in other countries had already denounced the arrest warrants and bounties against Hong Kong activists in exile as transnational repression.
 
 
-[![anna tweet](/images/anna-tweet.png 'Codey the Codecademy mascot')](https://codecademy.com)
+[![anna tweet](/images/anna-tweet.png 'Codey the Codecademy mascot')](https://x.com/AnnaKwokFY/status/1723772927751950490?s=20)
 
 
 <sup>[^29]</sup>
@@ -234,7 +234,7 @@ Over the following days, Kwok said, “There were multiple moments when I knew o
 <h2  id="nov12to14" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">November 12 to 14</h2>
 
 
-### (and other days leading up to Xi Jinping’s arrival)
+### Other days leading up to Xi Jinping’s arrival
 
 In the days leading up to Xi Jinping’s arrival in San Francisco on November 14, reports began to emerge that large numbers of CCP supporters were being transported to San Francisco from southern California, New York, and Philadelphia. (Later, evidence of groups from Portland, Oregon; Seattle, Washington; and the San Francisco Bay Area itself also emerged.)
 
@@ -246,7 +246,7 @@ Chinese Students and Scholars Association (中國學生學者聯合（誼）會)
 
 CSSAs have a record of surveilling and reporting on Chinese students. They are collectively overseen by the CCP’s United Front Work Department and are often controlled, funded, and/or closely watched by Chinese embassies or consulates. The US Department of State says, “…the CCP created the Chinese Students and Scholars Association (CSSA) to monitor Chinese students and mobilize them against views that dissent from the CCP’s stance. That directive has not changed.”<sup>[^33]</sup> The United States-China Economic and Security Review Commission says CSSAs “receive guidance from the CCP through Chinese embassies and consulates—governmental ties the CSSAs frequently attempt to conceal—and are active in carrying out overseas Chinese work consistent with Beijing’s United Front strategy.”<sup>[^34]</sup>
 
-An email message from a “BCSSA Official”at UC Berkeley told Chinese students that transport to welcoming events for Xi Jinping and meals would be arranged and provided. 
+An email message from a “BCSSA Official” at UC Berkeley told Chinese students that transport to welcoming events for Xi Jinping and meals would be arranged and provided. 
 
 
 ![Berkeley-CSSA-email-cropped.png](/images/Berkeley-CSSA-email-cropped.png)  
@@ -272,17 +272,17 @@ Many young people who were presumably students were, in particular, gathered alo
 
 ### Mobilization and Transport of Other United Front Groups
 
-In fact, over the course of the four days of Xi Jinping’s visit to San Francisco, **students** in general did not appear to make up a large percentage of the CCP supporters at events and locations other than those at the airport on November 14. The majority of CCP supporters appeared to be associated with other united front groups. 
+In fact, over the course of the four days of Xi Jinping’s visit to San Francisco, students in general did not appear to make up a large percentage of the CCP supporters at events and locations other than those at the airport on November 14. The majority of CCP supporters appeared to be associated with other united front groups. 
 
 It was reported by Chinese-language media with good relations with the CCP supporters that between 16 and 20 buses transported about 800 CCP supporters from southern California to San Francisco. The daily cost of each bus rental was at least $5,000. At least 400 rooms were reserved at five different hotels at a rate of at least $150 a night. The entire mobilization from southern California alone was said to have cost hundreds of thousands of dollars. Almost 1,000 CCP supporters from New York and other areas were transported to San Francisco. The report estimated that altogether as many as 10,000 CCP supporters from various regions would gather in San Francisco.<sup>[^37]</sup>
 
-Overseas Chinese from southern California were also reported to have hired 10 armed, uniformed security guards to “maintain order on site.”<sup>[^38]</sup> Over the coming days, security guards who appeared to be associated with CCP supporters were present at all but one of the locations where protesters were harassed, intimidated, and assaulted. At least two private security firms were employed.<sup>[^39]</sup> The guards of one firm dressed in distinctive black suits that protesters came to recognize. The guards of the other wore uniforms, and many appeared strikingly young (fFor more details on these security firms, see below). Apart from a united front leader from southern California who claimed to have hired the 10 guards mentioned above, it is unclear who exactly hired the security guards. In response to our query regarding who hired the security firms, a representative of one of the firms said, “I recommend contacting the Chinese consulate directly for the details you're looking for.”<sup>[^40]</sup> The security guards were seen at times to be working with individuals who may have had direct ties to the PRC. (See below for details.) The guards’ exact responsibilities and purpose often appeared unclear; at times, they themselves appeared not to know. Some protesters reported that the security guards acted aggressively towards them and asserted the authority to determine where they were and were not allowed to be, while other security guards appeared to have little idea of what they were doing or remained inactive in response to incidents of harassment, intimidation, and assault (see below for details).
+Overseas Chinese from southern California were also reported to have hired 10 armed, uniformed security guards to “maintain order on site.”<sup>[^38]</sup> Over the coming days, security guards who appeared to be associated with CCP supporters were present at all but one of the locations where protesters were harassed, intimidated, and assaulted. At least two private security firms were employed.<sup>[^39]</sup> The guards of one firm dressed in distinctive black suits that protesters came to recognize. The guards of the other wore uniforms, and many appeared strikingly young (for more details on these security firms, see below). Apart from a united front leader from southern California who claimed to have hired the 10 guards mentioned above, it is unclear who exactly hired the security guards. In response to our query regarding who hired the security firms, a representative of one of the firms said, “I recommend contacting the Chinese consulate directly for the details you're looking for.”<sup>[^40]</sup> The security guards were seen at times to be working with individuals who may have had direct ties to the PRC (see below for details). The guards’ exact responsibilities and purpose often appeared unclear; at times, they themselves appeared not to know. Some protesters reported that the security guards acted aggressively towards them and asserted the authority to determine where they were and were not allowed to be, while other security guards appeared to have little idea of what they were doing or remained inactive in response to incidents of harassment, intimidation, and assault (see below for details).
 
 United front groups that traveled from southern California to San Francisco include the All American Chinese Association<sup>[^41]</sup> (南加華人華僑聯合總會/美國南加州華人華僑聯合總會), the Chinese American Unity Alliance (洛杉磯華埠大聯盟), and the Taishan Friendship Association of Southern California (南加台山聯誼會).<sup>[^42]</sup> 
 
 Other united front groups that traveled to San Francisco include the Philadelphia Fujian Association (費城福建同鄉會), the American Lianjiang Association (美國連江同鄉會; Lianjiang is a county in Fujian Province), the American Fujian Association (美國福建同鄉會), the North American Zhejiang Overseas Chinese Association (北美浙江華僑聯盟社團), and the Los Angeles-based Beijing Association USA (美國北京聯合會).<sup>[^43]</sup> 
 
-While some united front groups seek to obscure their close links with CCP entities and officials, others proudly display them. For example, on the front page of Beijing Association USA’s website are two letters congratulating it. One is from the All-China Federation of Returned Overseas Chinese (中華全國歸國華僑聯合會), the top-level CCP United Front group tasked with overseeing relations with overseas Chinese that is mentioned in the introduction above. The other is from China Overseas Friendship Association (中華海外聯誼會), the external name of the 9th Bureau of the CCP’s United Front Work Department, one of two UFWD bureaus tasked with overseeing overseas Chinese affairs.<sup>[^44]</sup>  
+While some united front groups seek to obscure their close links with CCP entities and officials, others proudly display them. For example, on the front page of Beijing Association USA’s website are two letters congratulating it. One is from the All-China Federation of Returned Overseas Chinese (中華全國歸國華僑聯合會), the top-level CCP United Front group tasked with overseeing relations with overseas Chinese that is mentioned in the Introduction above. The other is from China Overseas Friendship Association (中華海外聯誼會), the external name of the 9th Bureau of the CCP’s United Front Work Department, one of two UFWD bureaus tasked with overseeing overseas Chinese affairs.<sup>[^44]</sup>  
 
 Beijing Association USA was one of many united front groups seen lining the route to the Filoli Estate where the meeting between Xi Jinping and President Biden took place on November 15.
 
@@ -323,7 +323,7 @@ Brief profiles of these two individuals reveal their ties to the CCP. Tracing th
 </br> 
 
 
-> John Chen Shanzhuang (陳善莊), (sometimes spelled “John Chan” in English) reportedly played a leading role in mobilizing CCP supporters from New York. He is reported to be the chair of Asian American Community Empowerment (美國亞裔社團聯合總會).<sup>[^56]</sup> He was interviewed on the streets of San Francisco during Xi Jinping’s visit, and the accompanying photograph shows him wearing a lapel pin of the American Chinese Commerce Association (HK) (美國(香港)旅美華人總商會), **another group** of which he is the chair.<sup>
+> John Chen Shanzhuang (陳善莊), (sometimes spelled “John Chan” in English) reportedly played a leading role in mobilizing CCP supporters from New York. He is reported to be the chair of Asian American Community Empowerment (美國亞裔社團聯合總會).<sup>[^56]</sup> He was interviewed on the streets of San Francisco during Xi Jinping’s visit, and the accompanying photograph shows him wearing a lapel pin of the American Chinese Commerce Association (HK) (美國(香港)旅美華人總商會), another group of which he is the chair.<sup>
 [^57]</sup>
 
 > ![Screen-Shot-2024-03-01-at-9.24.40-AM](/images/Screen-Shot-2024-03-01-at-9.24.40-AM.png)
@@ -334,7 +334,7 @@ Brief profiles of these two individuals reveal their ties to the CCP. Tracing th
 
 > In 1999, he co-founded the American Fuzhou Langqi United Association (美國福州琅岐聯合總會). He is also listed as the chairman of the American Chinese Commerce Association (美華總商會會長), which shares a website with the American Chinese Commerce Association (Hong Kong) (美國(香港)旅美華人總商會), of which he is also president. Besides the organizations mentioned above, he is also reported to be the convener of an organization called Coalition of Asian-Americans for Civil Rights (CAACR) (亞裔維權大聯盟).<sup>[^61]</sup>
 
-> In San Francisco, Chen led supporters in “welcoming” Xi outside the St Regis Hotel, where the Chinese delegation was staying, on November 14. Some of them harassed and intimidated protesters.
+> In San Francisco, Chen led supporters in “welcoming” Xi outside the St.Regis Hotel, where the Chinese delegation was staying, on November 14. Some of them harassed and intimidated protesters.
 
 > <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548929/AtSlH8nNhO_tnuUi_plqras.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
@@ -356,13 +356,13 @@ On several occasions, protesters changed their plans due to safety concerns. Tib
 
 ### (first day of Xi’s Visit to San Francisco)
 
-Xi Jinping arrived at the San Francisco International Airport. He and the Chinese delegation were rumored to be staying at the St Regis hotel. Hundreds of CCP supporters lined the route from the airport to the hotel and also gathered near the hotel. Some protesters also went to the airport, a few were present along the route of Xi’s motorcade, and a few more were near the hotel. The first incidents of harassment, intimidation, and assault occurred on this day.
+Xi Jinping arrived at the San Francisco International Airport. He and the Chinese delegation were rumored to be staying at the St.Regis hotel. Hundreds of CCP supporters lined the route from the airport to the hotel and also gathered near the hotel. Some protesters also went to the airport, a few were present along the route of Xi’s motorcade, and a few more were near the hotel. The first incidents of harassment, intimidation, and assault occurred on this day.
 
 Among the serious incidents of the day were these:
 
 - The harassment and intimidation of Uyghur camp survivor Tursunay Ziyawudun and other Uyghurs at the San Francisco International Airport.
-- The harassment and intimidation of Chinese activist Li Huanjun on the route from the airport to the St Regis.
-- The assault on Chinese activist Jia Junwei outside the St Regis
+- The harassment and intimidation of Chinese activist Li Huanjun on the route from the airport to the St.Regis.
+- The assault on Chinese activist Jia Junwei outside the St.Regis
 
 ### Near San Francisco International Airport
 
@@ -386,11 +386,11 @@ Of particular note is the harassment of Uyghur camp survivor Tursunay Ziyawadun 
  <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548930/IMG_9890_uijy9j.mov"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
 
-This episode is redolent with ironic symbolism: Having escaped from both a CCP concentration camp for Uyghurs and other Turkic Muslims and CCP-ruled East Turkestan, Tursunay found herself harassed once again by people loyal to the regime who had persecuted her, but this time on American soil. The CCP supporters who harassed her most likely had no idea of who she was or what she had been through. The feeling that they, as Uyghurs and other targeted peoples, had come to the US to escape persecution at the hands of PRC authorities and now here they were experiencing it again in the US was a sentiment shared by many of the protesters in San Francisco who were originally from China, East Turkestan, Hong Kong and Tibet.
+This episode is redolent with ironic symbolism: having escaped from both a CCP concentration camp for Uyghurs and other Turkic Muslims and CCP-ruled East Turkestan, Tursunay found herself harassed once again by people loyal to the regime who had persecuted her, but this time on American soil. The CCP supporters who harassed her most likely had no idea of who she was or what she had been through. The feeling that they, as Uyghurs and other targeted peoples, had come to the US to escape persecution at the hands of PRC authorities and now here they were experiencing it again in the US was a sentiment shared by many of the protesters in San Francisco who were originally from China, East Turkestan, Hong Kong and Tibet.
 
-### On the Route from the San Francisco International Airport to the St Regis Hotel
+### On the Route from the San Francisco International Airport to the St.Regis Hotel
 
-Along the route from the San Francisco International Airport to the St Regis Hotel, where the Chinese delegation was rumored to be staying, many CCP supporters, as well as some protesters, awaited Xi’s motorcade. 
+Along the route from the San Francisco International Airport to the St.Regis Hotel, where the Chinese delegation was rumored to be staying, many CCP supporters, as well as some protesters, awaited Xi’s motorcade. 
 
 ### Harassment and Intimidation of Li Huanjun
 
@@ -412,7 +412,7 @@ Near the end of the video (01:27), a man with a mohawk appears from behind a fla
 
 ![Chen LongkuiM](/images/Screen-Shot-2024-02-08-at-1.05.01-PM.png) 
 
-> According to articles in Chinese-language pro-CCP publications, based on information provided by an official at the United Front Work Department of Guilin city, Chen came from Guilin in the Guangxi Zhuang Autonomous Region in the PRC  to the US in the 1980s to study, later settling there. As of September 2023, he was president of the Guilin Qiaozi Enterprise Federation (桂林僑資企業聯合會), board chair of the Guangxi Tourism Development Group (廣西景區通旅遊發展有限公司), and an overseas committee member of the All-China Federation of Returned Overseas Chinese (中國僑聯/中華全國歸國華僑聯合會/AFROC). AFROC is the same organization to which Lu Qiang (see above) belongs, the top-level United Front group with overall responsibility for overseeing relations with overseas Chinese.<sup>[^79]</sup> In fact, Chen attended the same event as Lu, the 11th National Congress of Returned Overseas Chinese, in September 2023 in Beijing, just two months before Xi Jinping’s trip to San Francisco. Xi Jinping and other top CCP officials addressed this Congress, and Chen posed for a photo in the Great Hall of the People in Beijing.<sup>[^80]</sup>
+> According to articles in Chinese-language pro-CCP publications, based on information provided by an official at the United Front Work Department of Guilin City, Chen came from Guilin in the Guangxi Zhuang Autonomous Region in the PRC  to the US in the 1980s to study, later settling there. As of September 2023, he was president of the Guilin Qiaozi Enterprise Federation (桂林僑資企業聯合會), board chair of the Guangxi Tourism Development Group (廣西景區通旅遊發展有限公司), and an overseas committee member of the All-China Federation of Returned Overseas Chinese (中國僑聯/中華全國歸國華僑聯合會/AFROC). AFROC is the same organization to which Lu Qiang (see above) belongs, the top-level United Front group with overall responsibility for overseeing relations with overseas Chinese.<sup>[^79]</sup> In fact, Chen attended the same event as Lu, the 11th National Congress of Returned Overseas Chinese, in September 2023 in Beijing, just two months before Xi Jinping’s trip to San Francisco. Xi Jinping and other top CCP officials addressed this Congress, and Chen posed for a photo in the Great Hall of the People in Beijing.<sup>[^80]</sup>
 
 Another man who appears prominent and centrally in the video in which Li Huanjun is harassed and intimidated is also a united front leader.
 
@@ -446,11 +446,11 @@ It seems that, like Jing Dongsheng, both of these men are from the Portland, Ore
 
 ![Screen-Shot-2024-02-02-at-2.31.52-PM-min.png](/images/Screen-Shot-2024-02-02-at-2.31.52-PM-min.png)
 
-> In this photo taken in Los Angeles, the woman in sunglasses and carrying a megaphone is He Konghua, **the leader of the Beijing Association** in San Francisco. The man to her left in the white jacket is Rong Junwu, who was scouting and also part of the group that assaulted Chinese protesters in San Francisco where he wore the same white jacket. The man to his left is Jing Dongsheng, and the man behind He Konghua and holding a phone is Chen Zhaojin, another united front figure from San Francisco. *Newsweek* reported that the pro-CCP demonstrators against Tsai were offered $400 each by Deputy Consul Li Chunlin of the Chinese consulate in Los Angeles for each day of the protest<sup>[^90]</sup>  
+> In this photo taken in Los Angeles, the woman in sunglasses and carrying a megaphone is He Konghua, **the leader of the Beijing Association** in San Francisco. The man to her left in the white jacket is Rong Junwu, who was scouting and also part of the group that assaulted Chinese protesters in San Francisco where he wore the same white jacket. The man to his left is Jing Dongsheng, and the man behind He Konghua and holding a phone is Chen Zhaojin, another united front figure from San Francisco. *Newsweek* reported that the pro-CCP demonstrators against Tsai were offered $400 each by Deputy Consul Li Chunlin of the Chinese consulate in Los Angeles for each day of the protest.<sup>[^90]</sup>
 
 </br>
 
-> Jing Dongsheng also attended a united front protest against Taiwan then-Vice President William Lai Ching-te’s visit to San Francisco in August 2023[^91]. Another united front figure, Yang Baohai (楊寶海; he also goes by the name, Liu Baohai/劉寶海) also attended. Yang would later be seen on November 15 among a group attacking Tibetan protesters outside the Hyatt Regency Hotel (see below).
+> Jing Dongsheng also attended a united front protest against Taiwan then-Vice President William Lai Ching-te’s visit to San Francisco in August 2023.[^91] Another united front figure, Yang Baohai (楊寶海; he also goes by the name, Liu Baohai/劉寶海) also attended. Yang would later be seen on November 15 among a group attacking Tibetan protesters outside the Hyatt Regency Hotel (see below).
 
 The other scouts in Ma Yongtian’s video are the men dressed in similar black tracksuits. 
 
@@ -480,19 +480,19 @@ Judging by their uniforms and shoulder badges, these security guards work for a 
 
 As in several other incidents of harassment and intimidation of and assault on protesters by CCP supporters, rather than intervene to protect the victim, the security guards assisted the perpetrators.
 
-### Near the St Regis (125 3rd St, San Francisco)
+### Near the St.Regis (125 3rd St, San Francisco)
 
-The St Regis San Francisco Hotel is where Xi Jinping and the PRC delegation were reported to be staying. For that reason, it attracted both CCP supporters and protesters. 
+The St.Regis San Francisco Hotel is where Xi Jinping and the PRC delegation were reported to be staying. For that reason, it attracted both CCP supporters and protesters. 
 
-Xi Jinping was reported to have touched down at San Francisco airport at 2:30 pm, and Xi was reported to have arrived at the St Regis around 3:30 or 4 p.m. on November 14.<sup>[^93]</sup>
+Xi Jinping was reported to have touched down at San Francisco airport at 2:30 pm, and Xi was reported to have arrived at the St.Regis around 3:30 or 4 p.m. on November 14.<sup>[^93]</sup>
 
 Trouble outside the hotel began earlier that afternoon. Large numbers of one CCP united front group, the American Chinese Commerce Association (Hong Kong) (ACCA (HK), 美國(香港)旅美華人總商會), as well as members of another united front group, Chinese Anti-Cult World Alliance (全球華人反邪教聯盟), were present. The chair of ACCA (HK), John Chen Shanzhuang (the united front leader profiled earlier in this report who organized the transport of many from New York) was present.<sup>[^94]</sup> CCP supporters blared the PRC national anthem on a loop on loudspeakers and attempted to outshout and sometimes surround the protesters with PRC flags.<sup>[^95]</sup> Most of the protesters were effectively harassed out of the area by Xi’s supporters.
 
 ### Assault on Jia Junwei
 
-Around this time, a protester named Jia Junwei (賈俊偉) said she was attacked by a group of CCP supporters in the vicinity of the St Regis Hotel. Jia said she was protesting because her home in the PRC had been demolished by corrupt elements (腐敗分子) and her father had been imprisoned and “persecuted to death” in custody. She held up a handmade banner that told this story. 
+Around this time, a protester named Jia Junwei (賈俊偉) said she was attacked by a group of CCP supporters in the vicinity of the St.Regis Hotel. Jia said she was protesting because her home in the PRC had been demolished by corrupt elements (腐敗分子), and her father had been imprisoned and “persecuted to death” in custody. She held up a handmade banner that told this story. 
 
-Jia said that a CCP supporter named Li Huahong snatched her banner, dragged her into an area surrounded by other CCP supporters who held up their large PRC flags so that no one could see what was happening, pulled her hair, and hit her in the head. She lost consciousness but could still feel that she was being hit in the head by what felt like flagpoles. She believed this was done to her because Xi Jinping’s motorcade was expected to arrive at the hotel and the attackers didn’t want Xi to see her. Jia also believed the CCP supporters were ordered by members of the PRC Embassy to attack her. People she believed to be members of the PRC Embassy first took photos of her, then pointed and gestured at her. It was only after they pointed and gestured at her that the people with PRC flags came over and surrounded her. The apparent leader of the attack, Li Huahong, wore an earpiece and headphones and carried a loudspeaker. After Jia was attacked, an ambulance came to the scene and first responders attended to her.<sup>[^96]</sup>
+Jia said that a CCP supporter named Li Huahong snatched her banner, dragged her into an area surrounded by other CCP supporters who held up their large PRC flags so that no one could see what was happening, pulled her hair, and hit her in the head. She lost consciousness but could still feel that she was being hit in the head by what felt like flagpoles. She believed this was done to her because Xi Jinping’s motorcade was expected to arrive at the hotel, and the attackers didn’t want Xi to see her. Jia also believed the CCP supporters were ordered by members of the PRC Embassy to attack her. People she believed to be members of the PRC Embassy first took photos of her, then pointed and gestured at her. It was only after they pointed and gestured at her that the people with PRC flags came over and surrounded her. The apparent leader of the attack, Li Huahong, wore an earpiece and headphones and carried a loudspeaker. After Jia was attacked, an ambulance came to the scene, and first responders attended to her.<sup>[^96]</sup>
 
 In these photos, the CCP supporters can be seen surrounding Jia and attempting to block view of her with PRC flags.
 
@@ -503,7 +503,7 @@ In these photos, the CCP supporters can be seen surrounding Jia and attempting t
 
 In the following photo, CCP supporters have taken Jia’s banner and are surrounding her. Jia is the one wearing the black backpack and gray pants. Strikingly, a police officer stands in a position from which he must have a view of what is occurring but does nothing to intervene.  
 
-<img  src="/images/attack-on-Jia-Junwei-14nov23-St-Regis-希望之聲.png" alt="attack on Jia Junwei 14nov23 St Regis 希望之聲" class=" sm:w-full lg:w-1/2"/>
+<img  src="/images/attack-on-Jia-Junwei-14nov23-St-Regis-希望之聲.png" alt="attack on Jia Junwei 14nov23 St.Regis 希望之聲" class=" sm:w-full lg:w-1/2"/>
 
 Only after Jia has been knocked to the ground unconscious does a police officer come to her aid. 
 
@@ -566,7 +566,7 @@ In the afternoon, US President Joe Biden and Xi Jinping met at the Filoli Estate
 
 Among the serious incidents reported or recorded that day were these: 
 
-- an assault on Chinese activist Wang Wei outside the St Regis; 
+- an assault on Chinese activist Wang Wei outside the St.Regis; 
 - harassment of Tibetan activist Tsela Zoksang and the Tibetan protesters accompanying her as she climbed a flagpole outside the Hyatt Regency; 
 - an attack on four Tibetan activists in a parking garage across from the Hyatt Regency by a group of 10 to 15 men;
 - an attack on Hong Kong and Tibetan protesters at the designated protest area that had been set up for them by police across from the Hyatt Regency;
@@ -575,7 +575,7 @@ Among the serious incidents reported or recorded that day were these:
 
 ### On the Route from Downtown San Francisco to the Filoli Estate
 
-The route from downtown San Francisco to Filoli, where the Biden-Xi meeting took place, was lined with CCP supporters who were bused there from their accommodations. Their positioning along Cañada Road suggests that they were alerted to the route that Xi’s motorcade would take to reach Filoli, as there are two possible routes, and the attendees were all lined up along the route the motorcade eventually took. Some Chinese protesters also gathered there. Scuffles broke out among some CCP supporters and Chinese protesters as the CCP supporters used their numbers to try to deny space to the protesters, crowding them out and attempting to ensure that they could not be viewed from vehicles passing on the road.<sup>[^105]</sup>
+The route from downtown San Francisco to Filoli, where the Biden-Xi meeting took place, was lined with CCP supporters who were bused there from their accommodations. Their positioning along Cañada Road suggests that they were alerted to the route that Xi’s motorcade would take to reach Filoli, as there are two possible routes, and the attendees were all lined up along the route the motorcade eventually took. Some Chinese protesters also gathered there. Scuffles broke out among some CCP supporters and Chinese protesters as the CCP supporters used their numbers to try to deny space to the protesters, crowding them out, and attempting to ensure that they could not be viewed from vehicles passing on the road.<sup>[^105]</sup>
 
 ### Rally and March Protesting against Xi Jinping
 
@@ -591,17 +591,17 @@ The rally and march were one of the few occasions during the days of Xi Jinping�
 
 Conversely, most of the incidents of harassment, intimidation, and assault occurred near locations where Xi Jinping was present or expected to be and where CCP supporters outnumbered protesters. At those locations, there were large deployments of police officers, but more often than not, police did not appear to regard the protection of citizens as their primary duty, and their apparent indifference signaled to CCP supporters that they would not be held accountable for their actions.
 
-Only when arriving in downtown San Francisco, at Market and Third Streets, did the marching protesters meet CCP supporters who had already started to gather in large numbers in the vicinity of the Hyatt Regency Hotel, about one block away. The hotel was the venue of the banquet for Xi to be held that evening. The large contingent of Tibetans, hundreds strong, as well as a group of Uyghurs, had originally planned to go to the Hyatt Regency to protest in the evening, but a significant portion of them were dissuaded from doing so by the sight of the large number of CCP supporters already gathering there. They feared there might be confrontations, and, for the sake of the safety of the protesters, they decided it was best to avoid that possibility. Students for a Free Tibet Executive Director Pema Doma said, “We’d originally wanted 500 Tibetans marching toward Tsela’s flag-raising action [see more on that below], but, when we saw how many CCP supporters there were and how aggressively they behaved, we decided it was too confrontational to lead the large proteSt This was around 4 or 5 p.m. We said to the Tibetans, anyone who feels unsafe can go home; anyone who wants to stay, we will continue to proteSt Nearly all the elders and children decided to return home, and a small contingency of mostly young adults remained to have our voices heard.”<sup>[^107]</sup> A smaller group of Uyghurs also decided to leave for the sake of safety.<sup>[^108]</sup> This is a clear instance of the large numbers of CCP supporters, who had already harassed, intimidated, and assaulted a number of protesters, having a deterrent effect on proteSt Some Hong Kong and Tibetan activists would later go to the Hyatt Regency to protest, and their experience would substantiate the fears of the Tibetans and Uyghurs who did not go.
+Only when arriving in downtown San Francisco, at Market and Third Streets, did the marching protesters meet CCP supporters who had already started to gather in large numbers in the vicinity of the Hyatt Regency Hotel, about one block away. The hotel was the venue of the banquet for Xi to be held that evening. The large contingent of Tibetans, hundreds strong, as well as a group of Uyghurs, had originally planned to go to the Hyatt Regency to protest in the evening, but a significant portion of them were dissuaded from doing so by the sight of the large number of CCP supporters already gathering there. They feared there might be confrontations, and, for the sake of the safety of the protesters, they decided it was best to avoid that possibility. Students for a Free Tibet Executive Director Pema Doma said, “We’d originally wanted 500 Tibetans marching toward Tsela’s flag-raising action [see more on that below], but, when we saw how many CCP supporters there were and how aggressively they behaved, we decided it was too confrontational to lead the large protest.  This was around 4 or 5 p.m. We said to the Tibetans, anyone who feels unsafe can go home; anyone who wants to stay, we will continue to protest. Nearly all the elders and children decided to return home, and a small contingency of mostly young adults remained to have our voices heard.”<sup>[^107]</sup> A smaller group of Uyghurs also decided to leave for the sake of safety.<sup>[^108]</sup> This is a clear instance of the large numbers of CCP supporters, who had already harassed, intimidated, and assaulted a number of protesters, having a deterrent effect on protest. Some Hong Kong and Tibetan activists would later go to the Hyatt Regency to protest, and their experience would substantiate the fears of the Tibetans and Uyghurs who did not go.
 
 ### Assault on Wang Wei
 
-While the march was taking place, Chinese activist Wang Wei (王維) was assaulted near the St Regis Hotel at about 11 a.m.<sup>[^109]</sup> Like Jia Junwei the day before, Wang was not accompanied by other protesters, and his isolation appears to have emboldened his attackers. 
+While the march was taking place, Chinese activist Wang Wei (王維) was assaulted near the St.Regis Hotel at about 11 a.m.<sup>[^109]</sup> Like Jia Junwei the day before, Wang was not accompanied by other protesters, and his isolation appears to have emboldened his attackers. 
 
  <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548915/YDROo1qaM0k95Mqx_1_uykmwm.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
 [^110]
 
-Wang Wei testified that he noticed some CCP supporters and started taking videos of them because he feared attack and thought filming them might act as a deterrent or at least provide evidence in case of attack. He wore a “Free China” sticker on his arm and believed this excited their animosity. He and they exchanged sharp words. Then the CCP supporters began attacking him. There were some middle-aged men and a woman wearing a blue cheongsam. She shoved Wang three times. He warned the group that if he was pushed again, he would take action. After another shove, he stuck out a leg, and the men surrounded him and started beating him. They pushed him to the ground. The attackers then surrounded him with their large PRC flags and continued to strike him. One of them stabbed him with the tip of a metal flagpole. Still lying prostrate on the ground and realizing he was all alone, Wang grabbed the leg of a person who tried to kick him. After he grabbed the leg, others began kicking him as well, and continued to punch him. Wang became disoriented and felt as if he were going to faint. Only later did he learn that he was able to escape due to two white women who broke things up. They placed themselves between Wang and his assailants. They asked him if he was okay and helped him to call the police. Later, an ambulance came and took Wang to the hospital, where he received treatment. He and friends had originally planned to return to Los Angeles, where he lives, that evening, but then discovered that one of the tires of his car had been punctured by two large screws. He didn’t know whether or not this was done deliberately. 
+Wang Wei testified that he noticed some CCP supporters and started taking videos of them because he feared attack and thought filming them might act as a deterrent or at least provide evidence in case of attack. He wore a “Free China” sticker on his arm and believed this excited their animosity. He and they exchanged sharp words. Then the CCP supporters began attacking him. There were some middle-aged men and a woman wearing a blue *cheongsam*. She shoved Wang three times. He warned the group that if he was pushed again, he would take action. After another shove, he stuck out a leg, and the men surrounded him and started beating him. They pushed him to the ground. The attackers then surrounded him with their large PRC flags and continued to strike him. One of them stabbed him with the tip of a metal flagpole. Still lying prostrate on the ground and realizing he was all alone, Wang grabbed the leg of a person who tried to kick him. After he grabbed the leg, others began kicking him as well, and continued to punch him. Wang became disoriented and felt as if he were going to faint. Only later did he learn that he was able to escape due to two white women who broke things up. They placed themselves between Wang and his assailants. They asked him if he was okay and helped him to call the police. Later, an ambulance came and took Wang to the hospital, where he received treatment. He and friends had originally planned to return to Los Angeles, where he lives, that evening, but then discovered that one of the tires of his car had been punctured by two large screws. He didn’t know whether or not this was done deliberately. 
 
 In the video above, a young security guard from the National Protective Service Private Security, a company allied with the CCP supporters, makes a feeble attempt to intervene but almost immediately desists. He then turns to a police officer standing on the other side of the black metal fence separating the sidewalk from the road, apparently to point out the assault to him. The police officer takes no action.
 
@@ -610,7 +610,7 @@ In the video above, a young security guard from the National Protective Service 
 <img src="/images/Screen-Shot-2024-03-21-at-10.52.34-PM.png"  alt="Screen Shot 2024-03-21 at 10.52.34 PM" />
 </div>
 
-On November 21,Wang returned to San Francisco to file a report about the assault with the police . As of February 1, 2024, when he was interviewed for this report, he had not heard back from the police about whether or not they had taken any action.<sup>[^111]</sup>
+On November 21, Wang returned to San Francisco to file a report about the assault with the police . As of February 1, 2024, when he was interviewed for this report, he had not heard back from the police about whether or not they had taken any action.<sup>[^111]</sup>
 
 Wang Wei identified the people in the following photographs as his attackers.
 
@@ -651,12 +651,12 @@ Bald-headed Chen was, according to protesters, probably the most ubiquitous and 
 <div class="grid grid-cols-2 py-5">
 <figure class="max-w-lg">
   <img class="h-auto max-w-full object-cover" src="/images/Screen-Shot-2024-02-02-at-2.02.18-PM.png" alt="CACWA in parking garage">
-  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">at flagpole in front of Hyatt Regency, November 15</figcaption>
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">At flagpole in front of Hyatt Regency, November 15</figcaption>
 </figure>
 
 <figure class="max-w-lg">
   <img class="h-auto max-w-full" src="/images/Kennedy-APEC-week-K4.png" alt="Kennedy-APEC week-K4">
-  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">at the designated protest area near the Hyatt Regency, November 15</figcaption>
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">At the designated protest area near the Hyatt Regency, November 15</figcaption>
 </figure>
 
 <figure class="max-w-lg">
@@ -743,7 +743,7 @@ Topjor also singled out a woman in a purple jacket.<sup>[^148]</sup>
 
  <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548884/signal-2024-04-05-115232_002_fssk6d.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
-After Tsela ascended the flagpole, this woman and her accompanying security guard tried to prevent Topjor from leaving the area near the base of the flagpole by repeatedly moving to stand in front of him and telling him he could not leave. Later in the evening, Topjor saw her at a checkpoint outside the Hyatt Regency. At this point, the police officers at the checkpoint were allowing only hotel workers and banquet guests to enter the hotel. The woman in the purple jacket told the police officers, “Let me through,” showed her badge, and was allowed to enter the hotel. This gave Topjor the impression that she may have been associated with, or even a part of, the Chinese delegation accompanying Xi Jinping at the banquet that evening. Topjor saw her also on the 14th of November near the airport when Xi was due to arrive in San Francisco and again on the 17th when he was to depart. Then, too, she was accompanied by security guards who appeared to be acting as her bodyguards. She was liaising with a police officer who appeared to be showing her his contact details, which she entered into her phone. Another man prevented Topjor from approaching the woman.<sup>[^149]</sup> In both locations she was accompanied by what appeared to be her own personal security guard(for more on her at the San Francisco International Airport on November 17, see below).
+After Tsela ascended the flagpole, this woman and her accompanying security guard tried to prevent Topjor from leaving the area near the base of the flagpole by repeatedly moving to stand in front of him and telling him he could not leave. Later in the evening, Topjor saw her at a checkpoint outside the Hyatt Regency. At this point, the police officers at the checkpoint were allowing only hotel workers and banquet guests to enter the hotel. The woman in the purple jacket told the police officers, “Let me through,” showed her badge, and was allowed to enter the hotel. This gave Topjor the impression that she may have been associated with, or even a part of, the Chinese delegation accompanying Xi Jinping at the banquet that evening. Topjor saw her also on the 14th of November near the airport when Xi was due to arrive in San Francisco and again on the 17th when he was to depart. Then, too, she was accompanied by security guards who appeared to be acting as her bodyguards. She was liaising with a police officer who appeared to be showing her his contact details, which she entered into her phone. Another man prevented Topjor from approaching the woman.<sup>[^149]</sup> In both locations she was accompanied by what appeared to be her own personal security guard (for more on her at the San Francisco International Airport on November 17, see below).
 
 Sonamtso, who is on the international board of directors for Students for a Free Tibet, was among those who accompanied Tsela. She said that, even after Tsela ascended the flagpole, Tibetans on the ground continued to be harassed and intimidated: “CCP supporters used giant flags and tried to tie them to the black metal fence the police had put up. One of us put up the Tibetan flag. They removed it. They tried to block us from public view. There was a woman in green constantly trying to obscure our view. She was really into this, like it was the only thing she was tasked with. She continued to shove the Chinese flag in front of us. That went on for some time. I tried to communicate with police about what was happening, and I pointed her out to them. I told the police, You have to do something. They’re all over, and we’re not allowed to move.” The police gave the Tibetans an ultimatum: Go to a designated protest zone on the other side of the street or leave. Sonamtso wanted the Tibetans to be safe but was afraid that moving away from Tsela would leave her more vulnerable. Eventually, the Tibetans agreed to move.<sup>[^150]</sup>
 
@@ -765,9 +765,9 @@ Chen himself was present at the flagpole, and, in fact, played a high-profile ro
 
 
 
-> Chen Heng is an associate of John Chen Shanzhuang, the united front leader from New York who was reported to be responsible for mobilizing and transporting CCP supporters from there to San Francisco to “welcome” Xi. Chen Heng appears in the background of this photo of Chen Shanzhuang outside the St Regis. 
+> Chen Heng is an associate of John Chen Shanzhuang, the united front leader from New York who was reported to be responsible for mobilizing and transporting CCP supporters from there to San Francisco to “welcome” Xi. Chen Heng appears in the background of this photo of Chen Shanzhuang outside the St.Regis. 
 
-> ![John Chen St Regis 14nov23 Jungho Kim The Standard CHEN HENG IN BACKGROUND](/images/John-Chen-St-Regis-14nov23-Jungho-Kim-The-Standard-CHEN-HENG-IN-BACKGROUND.png)
+> ![John Chen St.Regis 14nov23 Jungho Kim The Standard CHEN HENG IN BACKGROUND](/images/John-Chen-St-Regis-14nov23-Jungho-Kim-The-Standard-CHEN-HENG-IN-BACKGROUND.png)
 
 > Chen Heng has appeared alongside Chen Shanzhuang on other occasions as well, such as at the CCP supporters’ protest against Taiwan’s then-president Tsai Ing-wen’s visit to New York in March 2023. 
 > ![John-Chen-&-Chen-Heng.pn](/images/John-Chen-&-Chen-Heng.png)
@@ -798,14 +798,14 @@ At the end of the evening, when Tibetan protester Tsela Zoksang came down after 
 
 ### Parking Garage Attack
 
-Tsela was still up the flagpole, about 25 to 30 feet in the air, when four Tibetan protesters were attacked in the Hearst Parking Center, a parking garage across from the Hyatt Regency. . The protesters unfurled, from one of the higher floors, a large banner about 30’ x 15’ in size f. It read, “Dictator Xi Jinping, Your Time Is Up! Free Tibet.” 
+Tsela was still up the flagpole, about 25 to 30 feet in the air, when four Tibetan protesters were attacked in the Hearst Parking Center, a parking garage across from the Hyatt Regency. The protesters unfurled, from one of the higher floors, a large banner about 30’ x 15’ in size. It read, “Dictator Xi Jinping, Your Time Is Up! Free Tibet.” 
 
 ![signal-2024-04-12-103622_002.jpeg](/images/signal-2024-04-12-103622_002.jpeg)
 
 Only minutes after unfurling the banner, protesters suddenly felt a violent tug on it from below. Because of the size and weight of the banner, it had special straps through which to put one's hands in order to hold it up. The sudden violence of the tug was such that it lifted three of the four protesters off the ground. Because they had their hands through the straps, they could not immediately let go of the banner, and one of them was lifted off of the ground and almost pulled over the side of the building, which most likely would have resulted in a fatal fall. His hands were lacerated in the incident.
 
-<img src="/images/signal-2024-04-05-124419_003.jpeg" alt="signal-2024-04-05-124419_003.jpeg" class="img-sm">
-<img src="/images/signal-2024-04-05-124419_002.jpeg" alt="signal-2024-04-05-124419_002.jpeg" class="img-sm">
+<img src="/images/signal-2024-04-05-124419_003.jpeg" alt="signal-2024-04-05-124419_003.jpeg" class="img-sm mx-auto">
+<img src="/images/signal-2024-04-05-124419_002.jpeg" alt="signal-2024-04-05-124419_002.jpeg" class="img-sm mx-auto">
 
 Later, when he had the opportunity to confront his attackers, he shouted at them, "I almost died because of you.” For the sake of safety, the protesters extracted their hands from the banner straps and let it fall. Then they went downstairs to look for it. They found it lying on a lower floor and tried to unfurl it again. As they did, they were attacked by about 15 masked men. The attackers ripped the banner out of the protesters’ hands and ran away. The protesters ran after them and took a video.<sup>[^160]</sup> The video begins the moment after the attackers ripped the banner from the protesters’ hands and shows them running to the elevator in the parking garage. 
 
@@ -813,7 +813,7 @@ Later, when he had the opportunity to confront his attackers, he shouted at them
  <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548927/IMG_2673_i4y3nr.mov"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
  <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719551131/IMG_0941_d2fwie.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
-<img src="/images/Still-from-IMG-2340-2.png" alt="Still from IMG_2340 2.png" class="img-sm">
+<img src="/images/Still-from-IMG-2340-2.png" alt="Still from IMG_2340 2.png" class="img-sm mx-auto">
 
 
 In the videos, approximately 10 attackers can be seen in the elevators, the doors of which the protesters were able to momentarily hold open with their feet in order to confront them and attempt to identify them.
@@ -827,19 +827,19 @@ This is him in the elevator with his face masked, taken just before the above ph
 
 ![Still from IMG_2340 2.png](/images/Still-from-IMG-2340-2.png)
 
-He was later seen outside among the CCP supporters standing right next to Li Huahong, the founder of the Chinese Anti-Cult World Alliance (CACWA) who led the attack on Jia Junwei outside the St Regis on November 14. 
+He was later seen outside among the CCP supporters standing right next to Li Huahong, the founder of the Chinese Anti-Cult World Alliance (CACWA) who led the attack on Jia Junwei outside the St.Regis on November 14. 
 
 ![signal-2024-04-05-131148_002](/images/signal-2024-04-05-131148_002.jpeg)
 
 A third attacker in the parking garage wore a CACWA jacket. 
 
-<img src="/images/CACWA-in-parking-garage.png" alt="CACWA in parking garage" class="img-sm">
+<img src="/images/CACWA-in-parking-garage.png" alt="CACWA in parking garage" class="img-sm mx-auto">
 
 The attackers eventually managed to close the elevator doors on the protesters who had been confronting them and disappear while a few other attackers descended a nearby spiral ramp intended for cars.
 
 After that, one of the Tibetan protesters, Chemi Lhamo, Campaigns Director with Students for a Free Tibet, unfurled a Tibetan flag from the parking garage. As she did so, she was watched by a man in a green shirt who disappeared and then returned with two security guards employed by the parking garage. The security guards told her and the other Tibetan protesters to leave the parking garage. Chemi Lhamo said, “Why is he [the man in the green shirt] allowed to be here but not me? Didn’t you see we got attacked by 15 people?” One security guard took two of the Tibetan protesters and ushered them away. The other tried to take Chemi Lhamo.  The man in the green shirt ripped the Tibetan flag out of Chemi Lhamo’s hands, though she warned him not to. The next day, November 16, Chemi Lhamo happened to encounter the man in the green shirt on the street near the Moscone Center, the main APEC venue, and took a video of him from which the following screenshot was taken:
 
-<img src="/images/Screen-Shot-2024-04-12-at-2.26.08-PM.png" alt="Screen Shot 2024-04-12 at 2.26.08 PM" class="img-sm">
+<img src="/images/Screen-Shot-2024-04-12-at-2.26.08-PM.png" alt="Screen Shot 2024-04-12 at 2.26.08 PM" class="img-sm mx-auto">
 
 
 The security guard put Chemi Lhamo’s arms behind her back and pushed her to the elevator doors. She said, “Let go of me. You’re hurting me.” The security guard led her out of the parking garage through a California Pizza Kitchen restaurant on the ground floor and to the street, where Chemi Lhamo spotted some of the same men who had attacked her and the others in the parking garage. The men quickly fled, blending into the crowd of CCP supporters gathered there. 
@@ -853,13 +853,13 @@ While the attack was occurring, Students for a Free Tibet Executive Director Pem
 
 At about 6:30 p.m., Hong Kong protesters were followed and photographed by a man in a suit whom they suspected of being affiliated with CCP authorities. This occurred near the intersection of Market and Third Streets in San Francisco and lasted for about five minutes.<sup>[^162]</sup>  
 
-<img src="/images/Kennedy-APEC-week-K1.JPG" alt="Kennedy-APEC week-K1" class="img-sm">
+<img src="/images/Kennedy-APEC-week-K1.JPG" alt="Kennedy-APEC week-K1" class="img-sm mx-auto">
 
 When one Hong Kong protester tried taking a photo of the man in response to his surveillance, the man moved his phone away from them, apparently to avoid being photographed, but then moments later again began filming them. This pattern repeated itself three times. Only when one Hong Kong protester stepped toward him did he turn away and walk off, though he turned back repeatedly to look at them. The man has been identified as He Yong (何勇), a Communist Party branch secretary, and the vice-chair and secretary general of China Zhongguancun Precision Medicine Science and Technology Foundation (中關村精準醫學基金).<sup>[^163]</sup> By definition, as a party secretary, he would be a member of the CCP. The foundation describes itself as a charitable organization but emphasizes that it “adheres to the overall leadership” of the CCP and “establishes grassroots organizations of the Party...strictly enforcing political discipline, political rules and organizational discipline, and gives full play to its political core role.”<sup>[^164]</sup> He also appears to be the president of the Beijing Huaxian Chamber of Commerce (北京滑縣企業商會會長).<sup>[^165]</sup> It is unclear what role He Yong was playing on the streets of San Francisco, but the Hong Kong protesters regarded him as acting suspiciously and perhaps surveilling them. 
 
 A united front figure who was seen in the crowd of CCP supporters near the Hyatt Regency on the 15th and whom protesters suspected of being an organizer or coordinator is Chen Zhaojin (陳兆進).
 
-<img src="/images/accused-of-being-onsite-commander.jpeg" alt="accused of being onsite commander" class="img-sm">
+<img src="/images/accused-of-being-onsite-commander.jpeg" alt="accused of being onsite commander" class="img-sm mx-auto">
 
 On the following day, the 16th, he was involved in a scuffle with Chinese protesters near the Moscone Center, where several assaults occurred. In a screenshot of a video of the scuffle, he can be seen wearing what appears to be a walkie-talkie on his belt.
 
@@ -879,7 +879,7 @@ This increased the suspicion of some protesters that he had an organizing or coo
 
 The next attack occurred later that evening, between 7:30 and 8 p.m. Its target was the Hong Kong and Tibetan protesters gathered in the designated protest zone that had been set up by the police on the corner of Third and Jessie Streets to separate the CCP supporters and protesters gathered around the flagpole. The attack was carried out by a group of about a dozen CCP supporters and appears to have been premeditated. The group was photographed creeping up Jessie Street toward Third armed with metal poles that looked like flagpoles. 
 
-<img src="/images/signal-2024-01-25-194608-002.jpeg" alt="signal-2024-01-25-194608_002" class="img-sm">
+<img src="/images/signal-2024-01-25-194608-002.jpeg" alt="signal-2024-01-25-194608_002" class="img-sm mx-auto">
 
 One of the attackers can be seen in this video holding at least five poles. This same man was seen later with only one pole. Later, some other CCP supporters around the area also had poles with them. 
 
@@ -887,22 +887,22 @@ One of the attackers can be seen in this video holding at least five poles. This
 
 <figure class="max-w-lg">
   <img class="h-auto max-w-full rounded-lg" src="/images/flagpole-weapons-at-Hyatt-Regency-15nov23-copy.jpeg" alt="CACWA in parking garage">
-  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">Photo taken from the protest zone..</figcaption>
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">Photo taken from the protest zone.</figcaption>
 </figure>
 
 As the group of CCP supporters came to the corner of Third and Jessie Streets, where the designated protest zone was demarcated by metal barriers, they confronted the protesters.
 
  <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548880/signal-2024-01-25-194608_003_o6xy1u.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
-HKDC Executive DirectorAnna Kwok, who was in the designated protest zone, said that police lined Third Street, separating both protesters and CCP supporters from the Hyatt Regency, and that, originally, there was a small group of police officers at the intersection of Third and Jessie Streets, between the Hong Kong and Tibetan protesters on one side of Jessie and the CCP supporters on the other side. But, after a while, those police officers disappeared, and “things went downhill after that. Thugs appeared between 7:30 to 7:50 p.m. and tried to provoke violence.”<sup>[^176]</sup> 
+HKDC Executive Director Anna Kwok, who was in the designated protest zone, said that police lined Third Street, separating both protesters and CCP supporters from the Hyatt Regency, and that, originally, there was a small group of police officers at the intersection of Third and Jessie Streets, between the Hong Kong and Tibetan protesters on one side of Jessie and the CCP supporters on the other side. But, after a while, those police officers disappeared, and “things went downhill after that. Thugs appeared between 7:30 to 7:50 p.m. and tried to provoke violence.”<sup>[^176]</sup> 
 
 About ten minutes before they attacked, around 7:20 p.m., a single person, coming along Third Street from the other direction,  entered the designated protest zone, where he was seen taking photos of protesters at close range. He was confronted by Hong Kong protesters, at which time, he fled.
 
  <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548887/20231115-Hyatt_Regency-suspect_CCP_operative_1_hvlhux.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
-As he was fleeing, other men prevented protesters from giving chase. One of those men was the bald-headed Chen Wenshen, vice-president of the Fujian Chamber of Commerce and Industry of Washington State (華州福建工商會) in the Seattle area (see above), who had been present at the attack on Wang Wei outside the St Regis Hotel earlier that day, as well as near the flagpole at the Hyatt Regency, and would again be seen near the Moscone Center on the 16th and at the San Francisco airport on the 17th, all locations where incidents of harassment, intimidation, and assault occurred. 
+As he was fleeing, other men prevented protesters from giving chase. One of those men was the bald-headed Chen Wenshen, vice-president of the Fujian Chamber of Commerce and Industry of Washington State (華州福建工商會) in the Seattle area (see above), who had been present at the attack on Wang Wei outside the St.Regis Hotel earlier that day, as well as near the flagpole at the Hyatt Regency, and would again be seen near the Moscone Center on the 16th and at the San Francisco airport on the 17th, all locations where incidents of harassment, intimidation, and assault occurred. 
 
-<img src="/images/Kennedy-APEC-week-K4.png" alt="Kennedy-APEC week-K4" class="img-sm">
+[Kennedy-APEC week-K4](/images/Kennedy-APEC-week-K4.png)
 
 About 10 to 15 minutes after that, the attackers attempted to enter the designated protest area. Some videos of the incident appear to show what might be characterized as a “melee” or “scuffle” involving both CCP supporters and protesters, but as the sequence here shows, it was the CCP supporters who attempted to violently encroach upon the designated protest zone set up by the police, and, while the attackers were armed, the protesters were not. Once attacked, some young Tibetan protesters attempted to defend the protest zone, pushing back against the attackers. In interviews, they said their reason for doing so was that some of the people in the protest zone were women and others were older, including some parents, and they wanted to protect them. They were also aware of death threats having been made against HKDC Executive Director Anna Kwok and were intent on protecting her.<sup>[^177]</sup> Kwok, in turn, was aware of their solicitude: “Tibetans and others surrounded me to protect me; due to the threats, we prepared for the possibility of targeted kidnapping.”<sup>[^178]</sup>
 
@@ -916,11 +916,11 @@ The attackers used umbrellas and metal poles to hit protesters and stab at them.
 SFT Campaigns Director Chemi Lhamo, who had just been attacked in the parking garage, was bruised by a flying water bottle full of water that hit her on the chin.<sup>[^179]</sup> The following photo, taken on November 20, five days after the incident, shows the bruise on Chemi Lhamo’s chin. 
 
 
-<img src="/images/Screen-Shot-2024-04-12-at-2.17.54-PM.png" alt="Screen-Shot-2024-04-12-at-2.17.54-PM.png" class="img-sm">
+<img src="/images/Screen-Shot-2024-04-12-at-2.17.54-PM.png" alt="Screen-Shot-2024-04-12-at-2.17.54-PM.png" class="img-sm mx-auto">
 
 A 17-year-old Tibetan was cut in the arm with a sharp object. 
 
-<img src="/images/Screen-Shot-2024-03-04-at-1.25.21-PM.png" alt="Screen Shot 2024-03-04 at 1.25.21 PM" class="img-sm">
+<img src="/images/Screen-Shot-2024-03-04-at-1.25.21-PM.png" alt="Screen Shot 2024-03-04 at 1.25.21 PM" class="img-sm mx-auto">
 
 
 In an interview, another 17-year-old Tibetan said, “I got hit in the head three to four times by metal flagpoles…. I got sand thrown in my eyes. I was blinded for about five minutes. They started hitting us. We backed up. They put a big flag in front of my face. Then I got hit again. A lot of people got hit, not just me. Another person was hit four times.”<sup>[^180]</sup>
@@ -935,28 +935,28 @@ In fact, while none of those who crept up Jessie Street and then attacked the pr
 
 CACWA founder and leader Li Huahong herself was present at the scene and a part of the group that carried out the attack. 
 
-<img src="/images/Screen-Shot-2024-04-12-at-2.30.02-PM.png" alt="Screen Shot 2024-04-12 at 2.30.02 PM" class="img-sm">
+<img src="/images/Screen-Shot-2024-04-12-at-2.30.02-PM.png" alt="Screen Shot 2024-04-12 at 2.30.02 PM" class="img-sm mx-auto">
 
 She had already participated in the attack on Jia Junwei on November 14 (see above) and had earlier on November 15 taunted protesters in the designated protest zone while standing next to a man who had been involved in the attack on Tibetan protesters in the parking garage (see above).
 
 Unlike in the parking garage attack earlier, many of those who attacked protesters in the designated protest zone did not wear masks. 
 
-<img class="img-sm" src="/images/Screen-Shot-2024-02-28-at-3.08.16-PM.png" alt="Screen Shot 2024-02-28 at 3.08.16 PM" >
-<img class="img-sm" src="/images/Screen-Shot-2024-01-25-at-9.14.35-PM.png" alt="Screen Shot 2024-01-25 at 9.14.35 PM" >
-<img class="img-sm" src="/images/Screen-Shot-2024-01-28-at-4.05.40-PM-copy.png" alt="Screen Shot 2024-01-28 at 4.05.40 PM copy" >
-<img class="img-sm" src="/images/Screen-Shot-2024-01-25-at-9.11.12-PM.png" alt="Screen Shot 2024-01-25 at 9.11.12 PM" >
-<img class="img-sm" src="/images/Screen-Shot-2024-01-25-at-9.15.08-PM.png" alt="Screen Shot 2024-01-25 at 9.15.08 PM" >
-<img class="img-sm" src="/images/Screen-Shot-2024-03-06-at-9.48.48-AM.png" alt="Screen Shot 2024-03-06 at 9.48.48 AM" >
-<img class="img-sm" src="/images/Screen-Shot-2024-03-01-at-11.41.15-AM.png" alt="Screen Shot 2024-03-01 at 11.41.15 AM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-02-28-at-3.08.16-PM.png" alt="Screen Shot 2024-02-28 at 3.08.16 PM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-01-25-at-9.14.35-PM.png" alt="Screen Shot 2024-01-25 at 9.14.35 PM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-01-28-at-4.05.40-PM-copy.png" alt="Screen Shot 2024-01-28 at 4.05.40 PM copy" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-01-25-at-9.11.12-PM.png" alt="Screen Shot 2024-01-25 at 9.11.12 PM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-01-25-at-9.15.08-PM.png" alt="Screen Shot 2024-01-25 at 9.15.08 PM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-06-at-9.48.48-AM.png" alt="Screen Shot 2024-03-06 at 9.48.48 AM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-01-at-11.41.15-AM.png" alt="Screen Shot 2024-03-01 at 11.41.15 AM" >
 
 One of the attackers is Yang Baohai (楊寶海; he also goes by the name, Liu Baohai/劉寶海), who was seen elsewhere on the streets of San Francisco during Xi Jinping’s visit.. 
 
-<img class="img-sm" src="/images/Screen-Shot-2024-01-25-at-9.14.58-PM.png" alt="Screen Shot 2024-01-25 at 9.14.58 PM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-01-25-at-9.14.58-PM.png" alt="Screen Shot 2024-01-25 at 9.14.58 PM" >
 
 
 One of the victims of an attack by pro-CCP supporters submitted this photo, taken earlier in the day, and identified both figures in it as involved in the attacks. The one on the left is Yang Baohai (he also goes by the name, Liu Baohai). 
 
-<img class="img-sm" src="/images/Liu-Baohai-and-one-other.jpeg" alt="Liu Baohai and one other" >
+<img class="img-sm mx-auto" src="/images/Liu-Baohai-and-one-other.jpeg" alt="Liu Baohai and one other" >
 
 Yang Baohai is also pictured near the flagpole that Tsela climbed in front of the Hyatt Regency. In this photo, he is nearly swallowed up by the huge PRC flag being used to block the view of Tsela.  
 
@@ -964,7 +964,7 @@ Yang Baohai is also pictured near the flagpole that Tsela climbed in front of th
 
 He was also seen near the San Francisco International Airport on November 17.
 
-<img class="img-sm" src="/images/Screen-Shot-2024-03-01-at-11.40.57-AM.png" alt="Screen Shot 2024-03-01 at 11.40.57 AM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-01-at-11.40.57-AM.png" alt="Screen Shot 2024-03-01 at 11.40.57 AM" >
 
 Yang Baohai is reportedly the president of the Bay Area Fujian Ren Association (福建人在湾区联谊会), a united front group in the San Francisco Bay area.<sup>[^183]</sup> In April 2021, Yang Baohai met Chen Heng, vice-chair of the Fukien American Association, in New York City at an event that was videotaped and posted online.<sup>[^184]</sup> Chen Heng was also present on the streets of San Francisco, attempting to snatch the banner from the Tibetan protester on the flagpole outside the Hyatt Regency on the 15th. 
 
@@ -990,16 +990,16 @@ A number of the stalkers are clearly recognizable from the photos and videos of 
 
 <div>
 
-<img class="img-sm" src="/images/Screen-Shot-2024-03-05-at-12.44.53 PM.png" alt="Screen Shot 2024-03-05 at 12.44.53 PM" >
-<img class="img-sm" src="/images/Screen-Shot-2024-03-05-at-12.45.10-PM.png" alt="Screen Shot 2024-03-05 at 12.45.10 PM" >
-<img class="img-sm" src="/images/Screen-Shot-2024-03-05-at-12.46.57-PM.png" alt="Screen Shot 2024-03-05 at 12.46.57 PM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-05-at-12.44.53 PM.png" alt="Screen Shot 2024-03-05 at 12.44.53 PM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-05-at-12.45.10-PM.png" alt="Screen Shot 2024-03-05 at 12.45.10 PM" >
+<img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-05-at-12.46.57-PM.png" alt="Screen Shot 2024-03-05 at 12.46.57 PM" >
 
 <p class="text-xs text-gray-500 dark:text-gray-400 px-4">Stills from the above video</p>
 </div>
 
 At one point, Chemi Lhamo told a bystander they were being followed, hoping that the bystander might assist them.
 
-<img class="img-sm" src="/images/IMG_0284.jpg" alt="IMG_0284" >
+<img class="img-sm mx-auto" src="/images/IMG_0284.jpg" alt="IMG_0284" >
 
 The bystander did not initially appear to be part of the group of stalkers nor did he appear to be East Asian, according to Chemi. The bystander said he was with “them,” referring to the stalkers. He then joined the group of stalkers. Chemi said it was a strange and inexplicable incident that gave her the impression that the stalkers were from the area and perhaps part of a gang or other local organization. 
 
@@ -1055,7 +1055,7 @@ Yu appeared elsewhere on the streets of San Francisco, including at the encounte
 
 …and again at the airport on November 17 among the scrum of CCP supporters that assaulted Chemi Lhamo (see below)…
 
-<img src="/images/Yu-Yingqiang-at-airport-17nov23.png" alt="Yu Yingqiang at airport 17nov23" class="img-sm">
+<img src="/images/Yu-Yingqiang-at-airport-17nov23.png" alt="Yu Yingqiang at airport 17nov23" class="img-sm mx-auto">
 
 Protesters suspected Yu of playing either a coordinating or scouting role or both, as he was viewed on two occasions wearing earpieces, frequently communicating on his phone, and apparently being on the lookout. 
 
@@ -1070,7 +1070,7 @@ Chow would be assaulted again by CCP supporters on November 17 near the airport 
 
 (third day of Xi Jinping’s visit to San Francisco)
 
-Xi Jinping took part in APEC meetings held at the Moscone Center, only blocks away from two other locations mentioned frequently in this report, the Hyatt Regency Hotel and St Regis Hotel. Because there was no event in which Xi was featured, such as the Biden-Xi meeting or the banquet in honor of Xi, no large-scale protests against Xi were called in advance. There were a number of serious incidents of harassment, intimidation, and assault. Most occurred in the vicinity of the Moscone Center, and most were against Chinese protesters.
+Xi Jinping took part in APEC meetings held at the Moscone Center, only blocks away from two other locations mentioned frequently in this report, the Hyatt Regency Hotel and St.Regis Hotel. Because there was no event in which Xi was featured, such as the Biden-Xi meeting or the banquet in honor of Xi, no large-scale protests against Xi were called in advance. There were a number of serious incidents of harassment, intimidation, and assault. Most occurred in the vicinity of the Moscone Center, and most were against Chinese protesters.
 
 Among the serious incidents of the day were assaults on:
 
@@ -1181,7 +1181,7 @@ Zhu was also pictured holding a PRC flag on the corner of Third and Jessie Stree
 
 Another united front figure from the Portland area, Rong Junwu (容鈞武), was also on the scene, dressed in a white jacket.
 
-<img src="/images/Moscone-Center-16nov23.png" alt="Moscone Center 16nov23" class="img-sm">
+<img src="/images/Moscone-Center-16nov23.png" alt="Moscone Center 16nov23" class="img-sm mx-auto">
 
 <sup>[^219]</sup>
 
@@ -1193,9 +1193,9 @@ He was also present at the assault on Wang Wei on the 15th, and he was one of th
 </div>
 
 
-The bald-headed Chen Wenshen (陳文深) was also present during the attacks at the Moscone Center, as he had been just a short time before when Chen Chuangchuang was pepper-sprayed as well as on other occasions, including the assault on Wang Wei near the St Regis Hotel on the 15th, near the barricade attack on Hong Kong and Tibetan protesters near the Hyatt Regency Hotel on the 15th (see above), and at the airport on the 17th (see below). 
+The bald-headed Chen Wenshen (陳文深) was also present during the attacks at the Moscone Center, as he had been just a short time before when Chen Chuangchuang was pepper-sprayed as well as on other occasions, including the assault on Wang Wei near the St.Regis Hotel on the 15th, near the barricade attack on Hong Kong and Tibetan protesters near the Hyatt Regency Hotel on the 15th (see above), and at the airport on the 17th (see below). 
 
-<img src="/images/Chen-Wenshen-Moscone-Center-16nov23.png" alt="Chen Wenshen Moscone Center 16nov23-min.png" class="img-sm">
+<img src="/images/Chen-Wenshen-Moscone-Center-16nov23.png" alt="Chen Wenshen Moscone Center 16nov23-min.png" class="img-sm mx-auto">
 
 
 Liu Yijiang also identified Yang Baohai (楊寶海; he also goes by the name, Liu Baohai / 劉寶海) (left) and the man standing next to him as having been involved in the attacks. 
@@ -1232,7 +1232,7 @@ Chen in particular appears to have actively participated in the assault.
 
 Chinese protester Li Delong (李德龍) was attacked near the Moscone Center. He said that he was knocked unconscious, that his head and mouth were bleeding, that he was sent to the hospital by ambulance for treatment, and that he filed a report with the San Francisco Police Department on November 21.**<sup>[^226]</sup>**
 
-Other assaults on November 16 were reported in the media or on social media, including the following: Chinese protester He Ruizhong (賀瑞忠) reported being beaten by several security guards working with CCP supporters on the sidewalk outside Oren’s Hummus restaurant across the street from the Hyatt Regency.<sup>[^227]</sup> Chinese protester Ge Kaiying (葛開英) reported being attacked around noon around Fourth Street near the Moscone Center. She said the attacker stepped on her feet, stole a box she was carrying, and then hit her. She identified the attacker as Li Huahong, the head of the Chinese Anti-Cult World Alliance who was also involved in the assault on Jia Junwei near the St Regis on the 14th and the attack on the designated protest area across the street from the Hyatt Regency on the 15th (see above).<sup>[^228]</sup> A Chinese protester named Victor Yuen as well as Chinese protester Chen Weiming (陳維明) reported the beating of another China Democracy Party member who was taken away in an ambulance for treatment. This occurred near the Hyatt Regency.<sup>[^229]</sup> 
+Other assaults on November 16 were reported in the media or on social media, including the following: Chinese protester He Ruizhong (賀瑞忠) reported being beaten by several security guards working with CCP supporters on the sidewalk outside Oren’s Hummus restaurant across the street from the Hyatt Regency.<sup>[^227]</sup> Chinese protester Ge Kaiying (葛開英) reported being attacked around noon around Fourth Street near the Moscone Center. She said the attacker stepped on her feet, stole a box she was carrying, and then hit her. She identified the attacker as Li Huahong, the head of the Chinese Anti-Cult World Alliance who was also involved in the assault on Jia Junwei near the St.Regis on the 14th and the attack on the designated protest area across the street from the Hyatt Regency on the 15th (see above).<sup>[^228]</sup> A Chinese protester named Victor Yuen as well as Chinese protester Chen Weiming (陳維明) reported the beating of another China Democracy Party member who was taken away in an ambulance for treatment. This occurred near the Hyatt Regency.<sup>[^229]</sup> 
 
 
 
@@ -1307,14 +1307,14 @@ Chen Wenshen, the bald man who had been present at many other incidents in the p
 Yu Yingqiang, who had attacked Chow Kai-hong on the 15th near the Hyatt Regency and acted as a scout, was also present (see video above at 00:30).
 
 
-<img src="/images/Yu-Yingqiang-at-airport-17nov23.png" alt="Yu Yingqiang at airport 17nov23.png" class="img-sm"/>
+<img src="/images/Yu-Yingqiang-at-airport-17nov23.png" alt="Yu Yingqiang at airport 17nov23.png" class="img-sm mx-auto"/>
 
 
 The video gives a sense of just how crowded the bridge was, how much jostling was going on, and how little could be seen even at close range. 
 
 Another familiar united front figure who appeared in the scrum on the bridge was Jennifer Cheung (see above at Moscone Center on November 16 and below in relation to the case of attack on reporter S.). 
 
-<img src="/images/Screenshot-2024-04-10-at-11.00.05-AM-min.jpg" alt="Screenshot 2024-04-10 at 11.00.05 AM.jpg" class="img-sm"/>
+<img src="/images/Screenshot-2024-04-10-at-11.00.05-AM-min.jpg" alt="Screenshot 2024-04-10 at 11.00.05 AM.jpg" class="img-sm mx-auto"/>
 
 
 In the photo above, Chemi Lhamo can be seen directly behind Cheung.
@@ -1394,12 +1394,12 @@ He identified  the man in the middle sitting on the curb and wearing a red headb
 
 That man would later be identified as having been involved in the theft of a phone from a reporter and in one of the most violent assaults that occurred over  the four days of Xi Jinping’s visit to San Francisco. He can be seen in the photo below standing next to others accused of participating in that assault…
 
-<img src="/images/Thugs-who-attacked-Sherman-and-Kaiyu-3.jpeg" alt="Thugs who attacked Sherman and Kaiyu 3.jpeg" class="img-sm"/>
+<img src="/images/Thugs-who-attacked-Sherman-and-Kaiyu-3.jpeg" alt="Thugs who attacked Sherman and Kaiyu 3.jpeg" class="img-sm mx-auto"/>
 
 
 …and in this still in the act of beating up Kaiyu Zhang.
 
-<img src="/images/2024-02-08-j.png" alt="2024-02-08-j.png" class="img-sm"/>
+<img src="/images/2024-02-08-j.png" alt="2024-02-08-j.png" class="img-sm mx-auto"/>
 
 
 The man was also among the group that stalked Tibetan protesters after the end of the protest outside the Hyatt Regency on the 15th. The following photo is a still from the video that appears above in the description of that incident. He was wearing the same Adidas shoulder bag as he wore on the 17th in the photo above.
@@ -1582,7 +1582,7 @@ There appeared to be a hierarchical order and coordination in their planning and
 - the use of large PRC flags to block protesters from public view and to cover up harassment, intimidation, and assault;
 - the use of flagpoles as weapons to hit and stab protesters;
 - the use of megaphones to drown out protesters’ chanting of slogans;
-- heightened aggression and targeting of protesters in areas where Xi Jinping was present or expected to be, especially the San Francisco International Airport, the St Regis Hotel, the Hyatt Regency Hotel, and the Moscone Center;
+- heightened aggression and targeting of protesters in areas where Xi Jinping was present or expected to be, especially the San Francisco International Airport, the St.Regis Hotel, the Hyatt Regency Hotel, and the Moscone Center;
 - the theft of protesters’ phones, particularly on the final two days, the 16th and 17th, presumably with the intention of preventing or destroying the collection of video and photographic evidence;
 - the presence of recognized united front leaders at the scene of many of the incidents of harassment, intimidation, and assault;
 - the apparent scouting and surveillance by CCP supporters for signs of protest; 
@@ -1687,7 +1687,7 @@ We thank the external reviewers and others who helped to ensure the quality and 
 |**DATE** |**MAIN EVENTS**|
 | :- | :- |
 |**Before Xi Jinping’s arrival**|In the days leading up to his arrival, a Chinese activist reports that his daughter was visited by the police in China and told to tell her father not to protest in San Francisco. The same happens to Uyghur families in China. One Hong Kong activist receives a multitude of online threats of kidnapping and physical harm. |
-|**Tuesday, November 14**|Xi Jinping arrives at SFO airport. Large numbers of CCP supporters as well as smaller numbers of protesters gather nearby. One case of harassment and intimidation occurs. CCP supporters line the expected route of Xi’s motorcade to the city; they harass and intimidate one protester. Another protester is assaulted near the St Regis Hotel, where the Chinese delegation is reported to be staying. |
+|**Tuesday, November 14**|Xi Jinping arrives at SFO airport. Large numbers of CCP supporters as well as smaller numbers of protesters gather nearby. One case of harassment and intimidation occurs. CCP supporters line the expected route of Xi’s motorcade to the city; they harass and intimidate one protester. Another protester is assaulted near the St.Regis Hotel, where the Chinese delegation is reported to be staying. |
 |**Wednesday, November 15**|In the afternoon, Xi and Biden meet at Filoli, outside of the city. CCP supporters line the route to the estate. Hong Kongers, Tibetans, and Uyghurs hold a march from the Chinese consulate to downtown San Francisco that passes without attack. Large numbers of CCP supporters gather near the Hyatt Regency Hotel where US business groups hold an evening banquet in honor of Xi Jinping. A Tibetan who climbs the flagpole outside the hotel in protest is harassed and intimidated as are the Tibetans accompanying her. Four Tibetans who unfurl a protest banner from a parking garage across the street are attacked and their banner stolen. After police set up a separate designated protest area for protesters, it is attacked by CCP supporters. Protesters are stalked while leaving the protest that evening. In all, six cases of assault are reported, and dozens are harassed and intimidated.|
 |**Thursday, November 16**|Xi attends APEC events at the Moscone Center. Most of the assaults reported on this day occur near there. Most of the protesters on this day are Chinese, and all of the victims of harassment, intimidation, and assault are Chinese. Two phones are reported stolen. |
 |**Friday, November 17**|Xi Jinping departs San Francisco from the airport. Large numbers of CCP supporters line the airport access road from morning to afternoon. Ten assaults are reported as well as the thefts of two phones, the damage of another, and the loss of another. |
@@ -1715,9 +1715,9 @@ We thank the external reviewers and others who helped to ensure the quality and 
 |**November 10**|China|Yao Cheng (姚誠)|Daughter visited by Public Security Bureau in the PRCre: Yao’s plans for San Francisco|
 |**November 11**|online|Anna Kwok|Threatened with kidnapping, bodily harm|
 |**November 14**|near airport|Tursunay Ziyawudun and other Uyghurs|Covered with PRC flags|
-|**November 14**|near St Regis |Jia Junwei (賈俊偉)|Banner snatched, covered by PRC flags, dragged, hair pulled, head hit, hit by flagpoles, shoved to ground|
-|**November 14**|on expected route of Xi Jinping’s motorcade from airport to St Regis |Li Huanjun (李煥君)|Jostled by group of men, covered with PRC flags, hit with flagpole|
-|**November 15**|near St Regis|Wang Wei|Beaten, pushed to ground, kicked, stabbed with metal flagpole|
+|**November 14**|near St.Regis |Jia Junwei (賈俊偉)|Banner snatched, covered by PRC flags, dragged, hair pulled, head hit, hit by flagpoles, shoved to ground|
+|**November 14**|on expected route of Xi Jinping’s motorcade from airport to St.Regis |Li Huanjun (李煥君)|Jostled by group of men, covered with PRC flags, hit with flagpole|
+|**November 15**|near St.Regis|Wang Wei|Beaten, pushed to ground, kicked, stabbed with metal flagpole|
 |**November 15**|outside Hyatt Regency|Tsela Zoksang and other Tibetans|Harassed while climbing flagpole, attempted theft of banner, covered by PRC flags, hit by flagpoles|
 |**November 15**|in parking garage near Hyatt Regency|Chemi Lhamo and three others|Banner torn from hands almost causing potentially fatal fall, theft of banner, flag|
 |**November 15**|near Hyatt Regency|Chemi Lhamo|Bruised on face from thrown water bottle|
@@ -1731,7 +1731,7 @@ We thank the external reviewers and others who helped to ensure the quality and 
 |**November 16**|outside Moscone Center|Passerby (non-Asian)\*|Beaten over head with glass bottle while trying to help protesters under attack requiring stitches at hospital|
 |**November 16**|outside Moscone Center|Jiao Ruilin\*|Beaten, stabbed by flagpole, hair grabbed, punched|
 |**November 16**|outside Moscone Center|Hu Tingfeng\*|Trampled on ground, stomped on head, bleeding from ear, suffered 10% hearing loss |
-|<p>**November 16**</p><p></p>|sidewalk outside Oren’s Hummus, Third Street between St Regis and Hyatt Regency|<p>He Ruizhang \*</p><p>(賀瑞忠)</p>|Beaten by security guards hired by CCP supporters|
+|<p>**November 16**</p><p></p>|sidewalk outside Oren’s Hummus, Third Street between St.Regis and Hyatt Regency|<p>He Ruizhang \*</p><p>(賀瑞忠)</p>|Beaten by security guards hired by CCP supporters|
 |**November 16**|near Moscone Center|<p>Li Delong\*</p><p>(李德龍)</p>|Head hit with blunt instrument, left unconscious, head injury, bleeding, phone stolen|
 |**November 16**|near Moscone Center|Ge Kaiying \*|Box stolen, hit|
 |<p>**November 16**</p><p></p><p></p>|near Hyatt Regency|Unnamed Chinese protester \*|Mouth bleeding, treated by ambulance, hospitalized|
