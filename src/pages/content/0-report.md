@@ -74,7 +74,7 @@ The protesters were from different backgrounds. Most have their origins in China
 At the center of the report is a detailed, chronological narrative of the attacks perpetrated by CCP supporters on protesters while Xi Jinping visited San Francisco. Preceding that are brief sections on the CCP and its overseas united front and on the US government’s prioritization of countering TNR in general and CCP TNR specifically. Following the chronological narrative are sections on responses and reactions to the attacks in San Francisco, analysis, and recommendations.
 
 
-<h2  id="overseasunitedfront" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">The CCP and It's Overseas United Front</h2>
+<h2  id="overseasunitedfront" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">The CCP and its Overseas United Front</h2>
 
 
 In order to understand the transnational repression that took place in San Francisco, it is important to understand the network of organizations that enabled the repression and appeared to coordinate in organizing it.
@@ -101,9 +101,9 @@ Because of this strategy, civic organizations in diaspora communities may have u
 
 These groups also often seek to cultivate relations with politicians and officials—especially local politicians and officials—in the countries in which they operate, claiming to broadly represent the political views and concerns of the “Chinese community” or even the “Asian community,” crowding out a far more diverse representation of voices, especially those with views different from the CCP’s. In the US, local politicians and officials often meet these united front groups without appearing to be aware of their links to the CCP. While there is no official public list of united front organizations, organizations that exhibit many of the characteristics mentioned above appear frequently in this report as they and their leaders were present on the streets of San Francisco during Xi Jinping’s visit. 
 
-Additionally, many Chinese-language media outlets which are widely read in diaspora communities are nowadays controlled or influenced to one extent or another by the CCP or by businesses and interests loyal to the CCP.<sup>[^7]</sup> As such, they too may be considered part of a broader united front strategy. Much of the information about united front groups found in this report comes from pro-CCP Chinese-language diaspora media.
+Additionally, many Chinese-language media outlets which are widely read in diaspora communities are nowadays controlled or influenced to one extent or another by the CCP or by businesses and interests loyal to the CCP.<sup>[^7]</sup>  As such, they too may be considered part of a broader united front strategy. Much of the information about united front groups found in this report comes from pro-CCP Chinese-language diaspora media.
 
-### United Front: Understanding Its Goals through the 1989 Tiananmen Massacre, 2008 Beijing Olympics, and 2019 Hong Kong Pro-Democracy Protests
+### United Front: Understanding its Goals through the 1989 Tiananmen Massacre, 2008 Beijing Olympics, and 2019 Hong Kong Pro-Democracy Protests
 
 While CCP efforts to cultivate the loyalty of overseas Chinese to the regime date back to the founding of the PRC in 1949 and even before, the current objectives of CCP united front work are multifaceted. The development of these new objectives can be traced to the 1989 Tiananmen Massacre, which marked a turning point in CCP relations with the diaspora. 
 
@@ -117,7 +117,7 @@ These objectives of CCP united front work have been observed as far back as the 
 
 The CCP regarded these efforts as so successful that they still serve as the template for overseas public events the CCP considers to be related to its core interests, such as foreign visits of top Party leaders and sovereignty over East Turkestan, Hong Kong, Taiwan and Tibet.
 
-It is important to the CCP that it hide its controlling hand in the mobilization of overseas support. For the global Olympic torch relay stops in Australia and Japan in 2008, CCP officials and their agents initially boasted of their mobilization efforts, but when the Party began to perceive an international media backlash amid accusations of “rent-a-crowds,” it did what scholar James Jiann Hua To referred to as a “public ‘about face’ on openly supporting” these groups. Consequently, according to To, Chinese state media reports “emphasized that students had mobilized themselves and established the rallies at their own will,” and statements by PRC officials either “denied any involvement or deflected questions surrounding the embassies’ provocation of [overseas Chinese] nationalism. Furthermore, student groups were instructed to deny any links between the rallies and the embassy….”<sup>[^9]</sup> Since then, the same denial has followed countless welcoming parades and events.
+It is important to the CCP that it hide its controlling hand in the mobilization of overseas support. For the global Olympic torch relay stops in Australia and Japan in 2008, CCP officials and their agents initially boasted of their mobilization efforts, but when the Party began to perceive an international media backlash amid accusations of “rent-a-crowds,” it did what scholar James Jiann Hua To referred to as a “public ‘about face’ on openly supporting” these groups. Consequently, according to To, Chinese state media reports “emphasized that students had mobilized themselves and established the rallies at their own will,” and statements by PRC officials either “denied any involvement or deflected questions surrounding the embassies’ provocation of [overseas Chinese] nationalism. Furthermore, student groups were instructed to deny any links between the rallies and the embassy…”<sup>[^9]</sup> Since then, the same denial has followed countless welcoming parades and events.
 
 The mass protests in Hong Kong in 2019 were another moment when the CCP felt its political leadership challenged and threatened, not just in Hong Kong but globally. Hong Kongers around the world showed support for the protests, with demonstrations in dozens of cities. The CCP mobilized the united front to counter these protests. According to a report by Alliance Canada Hong Kong, threats against and harassment of Hong Kong demonstrators were reported in 25 cities worldwide, including Australia, New Zealand, Japan, Germany, Denmark, France, the United Kingdom, Ireland, Canada and the US.<sup>[^10]</sup> 
 
@@ -151,7 +151,7 @@ In 2023, one year after the publication of the *National Security Strategy,* the
 
 In 2022, the Department of State took action against PRC officials involved in TNR.<sup>[^18]</sup> On three occasions in 2023, the Department of State issued statements denouncing PRC transnational repression in response to the arrest warrants and bounties of HK$1 million each issued by the Hong Kong national security police against Hong Kongers in exile, some of whom reside in the United States and one of whom is an American citizen.<sup>[^19]</sup>
 
-The Department of Justice and the Federal Bureau of Investigation
+### The Department of Justice and the Federal Bureau of Investigation
 
 In February 2022, the Assistant Attorney General for National Security at the Department of Justice announced a new *Strategy for Countering Nation-State Threats*. While naming four states as particularly problematic, the strategy says “the government of China stands apart… The PRC government threatens our security through its concerted use of espionage, theft of trade secrets, malicious cyber activity, **transnational repression**, and other tactics to advance its interests — all to the detriment of the United States and other democratic nations and their citizens around the world.”<sup>[^20]</sup> 
 
@@ -207,7 +207,7 @@ Threats against activists were made even before Xi Jinping’s arrival on Novemb
 At least one Chinese activist residing in the United States, Yao Cheng (姚誠), reported that, on November 10, his daughter was summoned to a Ministry of Public Security office in Anhui Province and instructed her to tell him not to go to San Francisco to participate in protests. Yao’s message to the Anhui PSB was, “You inviting her to tea [a common euphemism for interrogation in the PRC] is actually a threat to me.”<sup>[^25]</sup>
 
 ![image](/images/Screen-Shot-2024-04-1.png)
-``(ALSO AT Screen Shot 2024-04-15 at 10.55.13 AM)``
+
 
 ### Threats against Uyghurs
 
@@ -217,13 +217,13 @@ Uyghurs also reported cases of Uyghurs in East Turkestan and/or the PRC being co
 
 On the morning of November 11, Hong Kong Democracy Council Executive Director Anna Kwok announced on social media that she had arrived in San Francisco and was going to protest against Xi Jinping.<sup>[^27]</sup>
 
-In response, about 12 hours later, she was inundated with online threats: Some encouraged others to apprehend her. Others threatened kidnapping. One said, “Can somebody drop her unconscious body at the Chinese consulate/embassy?”<sup>[^28]</sup> The threats, all sent from what appear to be pseudonymous accounts, appeared to be coordinated. The accounts shared and commented on each other’s comments. Many used the same image: her face on a Hong Kong Police Force’s wanted poster that offered a bounty of HK$1 million for information or assistance leading to her arrest. The US Department of State and governmental authorities in other countries had already denounced the arrest warrants and bounties against Hong Kong activists in exile as transnational repression.
+In response, about 12 hours later, she was inundated with online threats: Some encouraged others to apprehend her. Others threatened kidnapping. One said, “Can somebody drop her unconscious body at the Chinese consulate/embassy?”<sup>[^28]</sup> The threats, all sent from what appear to be pseudonymous accounts, appeared to be coordinated. The accounts shared and commented on each other’s comments. Many used the same image: her face on a Hong Kong Police Force’s wanted poster that offered a bounty of HK$1 million for information or assistance leading to her arrest. The US Department of State and governmental authorities in other countries had already denounced the arrest warrants and bounties against Hong Kong activists in exile as transnational repression.<sup>[^29]</sup>
 
 
 [![anna tweet](/images/anna-tweet.png 'Codey the Codecademy mascot')](https://x.com/AnnaKwokFY/status/1723772927751950490?s=20)
 
 
-<sup>[^29]</sup>
+
 
 Kwok said, “All the comments appeared at once. Most of the comments encouraged others to act on the arrest warrant and bounty and hunt me down; they didn’t say they’d do it themselves. They sought to rile up lone wolf patriots who would be mad enough to do it. That way, [those who made the posts on social media] wouldn’t have to pay the legal consequences themselves. It was the same group of 10 or so accounts making the threats. I assume they were coordinated and instructed.”<sup>[^30]</sup>
 
@@ -264,7 +264,7 @@ The same message addressed to executive committee members of the USC CSSA was al
 ![UCLA-CSSA](/images/UCLA-CSSA.png)
 
 
-A video posted online by a Chinese student in the US confirms that, while the event  was coordinated by CSSAs, the buses and meals were provided by the PRC Consulate.<sup>[^35]</sup>A Chinese student who traveled to San Francisco said the PRC Consulate paid for flight tickets from New York City and accommodations.<sup>[^36]</sup>  
+A video posted online by a Chinese student in the US confirms that, while the event  was coordinated by CSSAs, the buses and meals were provided by the PRC Consulate.<sup>[^35]</sup> A Chinese student who traveled to San Francisco said the PRC Consulate paid for flight tickets from New York City and accommodations.<sup>[^36]</sup>  
 
 It is highly likely that CSSAs at other California universities and in other states were used to mobilize Chinese students in a similar fashion. 
 
@@ -284,15 +284,15 @@ Other united front groups that traveled to San Francisco include the Philadelphi
 
 While some united front groups seek to obscure their close links with CCP entities and officials, others proudly display them. For example, on the front page of Beijing Association USA’s website are two letters congratulating it. One is from the All-China Federation of Returned Overseas Chinese (中華全國歸國華僑聯合會), the top-level CCP United Front group tasked with overseeing relations with overseas Chinese that is mentioned in the Introduction above. The other is from China Overseas Friendship Association (中華海外聯誼會), the external name of the 9th Bureau of the CCP’s United Front Work Department, one of two UFWD bureaus tasked with overseeing overseas Chinese affairs.<sup>[^44]</sup>  
 
-Beijing Association USA was one of many united front groups seen lining the route to the Filoli Estate where the meeting between Xi Jinping and President Biden took place on November 15.
+Beijing Association USA was one of many united front groups seen lining the route to the Filoli Estate where the meeting between Xi Jinping and President Biden took place on November 15.<sup>[^45]</sup>
 
 ![Screen-Shot-2024-02-12-at-10.16.41-AM](/images/Screen-Shot-2024-02-12-at-10.16.41-AM.png)
-<sup>[^45]</sup>
 
-Another group present along the Filoli route on the 15th was the America Cultural Center Of Chinese Minorities (美國中華民族文化中心) based in Arcadia, California.
+
+Another group present along the Filoli route on the 15th was the America Cultural Center Of Chinese Minorities (美國中華民族文化中心) based in Arcadia, California.<sup>[^46]</sup>
 
 ![Screen-Shot-2024-02-12-at-10.27.32-AM](/images/Screen-Shot-2024-02-12-at-10.27.32-AM.png)
-<sup>[^46]</sup>
+
 
 Like many united front groups in the US, the America Cultural Center Of Chinese Minorities has a minimal public profile, but it is registered as a 501(c)(3) nonprofit.<sup>[^47]</sup> 
 
@@ -334,11 +334,11 @@ Brief profiles of these two individuals reveal their ties to the CCP. Tracing th
 
 > In 1999, he co-founded the American Fuzhou Langqi United Association (美國福州琅岐聯合總會). He is also listed as the chairman of the American Chinese Commerce Association (美華總商會會長), which shares a website with the American Chinese Commerce Association (Hong Kong) (美國(香港)旅美華人總商會), of which he is also president. Besides the organizations mentioned above, he is also reported to be the convener of an organization called Coalition of Asian-Americans for Civil Rights (CAACR) (亞裔維權大聯盟).<sup>[^61]</sup>
 
-> In San Francisco, Chen led supporters in “welcoming” Xi outside the St.Regis Hotel, where the Chinese delegation was staying, on November 14. Some of them harassed and intimidated protesters.
+> In San Francisco, Chen led supporters in “welcoming” Xi outside the St.Regis Hotel, where the Chinese delegation was staying, on November 14. Some of them harassed and intimidated protesters.<sup>[^62]</sup>
 
 > <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548929/AtSlH8nNhO_tnuUi_plqras.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
-> <sup>[^62]</sup>
+
 
 Besides united front figures like Lu Qiang and Chen Shanzhuang, who reportedly organized the mobilization and transport of CCP supporters to San Francisco from, respectively, southern California and New York, several other prominent united front leaders participated in the “welcoming” of Xi Jinping in San Francisco. They will be noted as they appear in the timeline of events below.
 
@@ -394,11 +394,11 @@ Along the route from the San Francisco International Airport to the St.Regis Hot
 
 ### Harassment and Intimidation of Li Huanjun
 
-One protester in particular posted a video of herself being harassed and intimidated along the route on the afternoon of November 14.<sup>[^74]</sup> Her name is Li Huanjun (李煥君).
+One protester in particular posted a video of herself being harassed and intimidated along the route on the afternoon of November 14.<sup>[^74]</sup> Her name is Li Huanjun (李煥君).<sup>[^75]</sup>
 
  <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548920/F3nrJnj5gExRZYIy_gfotyh.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
-<sup>[^75]</sup>
+
 
 Li Huanjun’s family were victims of forced demolition in the PRC. After years of advocating on their behalf and suffering persecution, Li went into exile.<sup>[^76]</sup> She had blocked Xi’s motorcade on two of his previous visits to the US.<sup>[^77]</sup>
 
@@ -422,11 +422,11 @@ Another man who appears prominent and centrally in the video in which Li Huanjun
 > His name is Jing Dongsheng (靖東升). He is reported to be the president of the united front group, Oregon Association for the Promotion of the Peaceful Unification of China (俄勒岡州中國統一促進會),<sup>[^81]</sup> Executive Chairman of the Oregon National Day Organizing Committee (俄勒岡州國慶籌委會),<sup>[^82]</sup> and the Honorary Chairman of the American Chinese United Association Oregon Chapter (美華總會俄勒岡州分會).<sup>[^83]</sup> Associations for China’s “peaceful unification” are prototypical united front groups affiliated with the China Council for the Promotion of Peaceful National Reunification, which was set up by the United Front Work Department. In November 2019, Jing hosted a delegation from the China Council for the Promotion of Peaceful National Reunification led by its Deputy Secretary-General Sun Lingyan (孫凌雁), a meeting reported on by the Alliance for China’s Peaceful Reunification, USA.<sup>[^84]</sup> In August 2022, he hosted a banquet to welcome Zhang Jianmin, the Consul General of the PRC consulate in San Francisco (中國駐舊金山總領事張建敏), to Oregon.<sup>[^85]</sup>
 
 
-In addition to having participated in the harassment and intimidation of Li Huanjun, Jing Dongsheng appears also to have been a “scout,” one of the people apparently stationed at various “sensitive” locations where Xi’s delegation stayed or was expected to appear around San Francisco to keep a lookout for protesters. He appears in this video posted by Ma Yongtian (馬永田) photographing her with his camera in a taunting manner.  
+In addition to having participated in the harassment and intimidation of Li Huanjun, Jing Dongsheng appears also to have been a “scout,” one of the people apparently stationed at various “sensitive” locations where Xi’s delegation stayed or was expected to appear around San Francisco to keep a lookout for protesters. He appears in this video posted by Ma Yongtian (馬永田) photographing her with his camera in a taunting manner.[^86] 
 
  <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548916/keyyqIFXSxMJ1hjC_ah8nm3.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
-[^86]
+
 
 Ma Yongtian is from Jilin Province. Her factory was forcibly seized in 2001, and since then, she has been seeking compensation. She was arrested in 2017 in Florida for blocking Xi Jinping’s motorcade.<sup>[^87]</sup> In San Francisco, she was searching for a place where she might do the same when she came across these scouts. Not only is Jing Dongsheng present, so are other recognizable united front figures. Two of them appear together with him in the same frame, as can be seen in the following photo:
 
@@ -441,7 +441,7 @@ These two were seen elsewhere on the streets of San Francisco as well. One is na
 It seems that, like Jing Dongsheng, both of these men are from the Portland, Oregon, area.<sup>[^89]</sup> 
 
 
-> Jing Dongsheng has also been seen at united front street demonstrations on other occasions. In March 2023, he was among the CCP supporters protesting against Taiwan’s then-president Tsai Ing-wen’s visit to Los Angeles. There he can be observed with the other **two united front figures**, He Konghua (何孔華) and Chen Zhaojin (陳兆進), both of whom showed up in San Francisco (see below for information about their activities in San Francisco during Xi Jinping’s visit), as well as with Rong Junwu. |
+> Jing Dongsheng has also been seen at united front street demonstrations on other occasions. In March 2023, he was among the CCP supporters protesting against Taiwan’s then-president Tsai Ing-wen’s visit to Los Angeles. There he can be observed with the other two united front figures, He Konghua (何孔華) and Chen Zhaojin (陳兆進), both of whom showed up in San Francisco (see below for information about their activities in San Francisco during Xi Jinping’s visit), as well as with Rong Junwu.
 
 
 ![Screen-Shot-2024-02-02-at-2.31.52-PM-min.png](/images/Screen-Shot-2024-02-02-at-2.31.52-PM-min.png)
@@ -535,7 +535,7 @@ Chen reports that, on November 15, Li was chatting with someone from Chen’s gr
   
 > Li Huahong is a prominent united front figure. Since the founding of the Chinese Anti-Cult World Alliance (全球華人反邪教聯盟, CACWA), Li has represented herself as its chairperson.<sup>[^101]</sup> According to its mission statement in its Certificate of Incorporation in New York State, as a not-for-profit corporation, CACWA is dedicated to “expos[ing] Falun Gong as an evil and dangerous threat to society.” CACWA is a branch office or affiliate organization of the China Anti-Cult Association (中國反邪教協會, CACA). CACA is officially a private organization in the PRC, but it “has close ties with the CCP and is generally perceived as part of its apparatus.”<sup>[^102]</sup> CACA has created branch offices or affiliate organizations such as CACWA around the world to conduct “comprehensive suppression overseas.”
     
-> According to the Human Rights Law Foundation, “CACWA’s chairpersons and affiliates have…been implicated in numerous instances of violence, death threats, and property destruction targeting Falun Gong practitioners….”<sup>[^103]
+> According to the Human Rights Law Foundation, “CACWA’s chairpersons and affiliates have…been implicated in numerous instances of violence, death threats, and property destruction targeting Falun Gong practitioners...”<sup>[^103]
 
 > Both Li and other members of CACWA were convicted in 2013 of assaulting Falun Gong practitioners and people they suspected of being associated with Falun Gong in 2011 in New York City.<sup>[^104]</sup>
 
@@ -545,7 +545,7 @@ Li Huahong was wearing a CACWA vest when she assaulted Jia Junwei on November 14
 
 <figure class="max-w-lg">
   <img class="h-auto max-w-full rounded-lg" src="/images/CACWA-in-parking-garage.png" alt="CACWA in parking garage">
-  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400">Caption: A man wearing a Chinese Anti-Cult World Alliance jacket is part of a group that attacked protesters in a parking garage across from the Hyatt Regency Hotel on November 15 (for full details, see below).</figcaption>
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400"> A man wearing a Chinese Anti-Cult World Alliance jacket is part of a group that attacked protesters in a parking garage across from the Hyatt Regency Hotel on November 15 (for full details, see below).</figcaption>
 </figure>
 
 
@@ -560,7 +560,7 @@ A CACWA banner was hung on a barricade near an attack on Tibetan and Hong Kong p
 
 <h2  id="wednesdaynov15" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Wednesday, November 15</h2>
 
-### (second day of Xi Jinping’s visit to San Francisco)
+### second day of Xi Jinping’s visit to San Francisco
 
 In the afternoon, US President Joe Biden and Xi Jinping met at the Filoli Estate, a distance of about 25 miles from downtown San Francisco. Beginning in the morning and stretching into the afternoon, a large rally and march were held by Chinese, Hong Kong, Tibetan, and Uyghur protesters. The march began at the Consulate General of the People’s Republic of China in San Francisco and proceeded through downtown San Francisco. In the evening, US business organizations hosted a banquet in honor of Xi Jinping at the Hyatt Regency Hotel in downtown San Francisco. Outside the hotel where the Xi banquet took place, there was a pervasive threatening atmosphere; protesters faced constant harassment and intimidation by CCP supporters. Over the course of the day, at least 10 protesters were assaulted by CCP supporters.
 
@@ -570,8 +570,8 @@ Among the serious incidents reported or recorded that day were these:
 - harassment of Tibetan activist Tsela Zoksang and the Tibetan protesters accompanying her as she climbed a flagpole outside the Hyatt Regency; 
 - an attack on four Tibetan activists in a parking garage across from the Hyatt Regency by a group of 10 to 15 men;
 - an attack on Hong Kong and Tibetan protesters at the designated protest area that had been set up for them by police across from the Hyatt Regency;
-- an assault on an elderly Hong Kong protester near the Hyatt Regency; 
-- the stalking of Tibetan protesters by the same group of men who attacked the designated protest area as the protesters left the area near the Hyatt Regency at the end of the protest
+- an assault on an elderly Hong Kong protester near the Hyatt Regency and; 
+- the stalking of Tibetan protesters by the same group of men who attacked the designated protest area as the protesters left the area near the Hyatt Regency at the end of the protest.
 
 ### On the Route from Downtown San Francisco to the Filoli Estate
 
@@ -584,9 +584,7 @@ In the morning, Chinese, Hong Kong, Tibetan, and Uyghur protesters gathered at t
 The rally and march were one of the few occasions during the days of Xi Jinping’s visit in San Francisco when protesters were not attacked, harassed, or intimidated by CCP supporters. This is primarily due to three factors: 
 
 1. It did not go anywhere near where Xi Jinping was expected or scheduled to be\. 
-
 2. It was accompanied by a significant deployment of police officers\. 
-
 3. It was large. 
 
 Conversely, most of the incidents of harassment, intimidation, and assault occurred near locations where Xi Jinping was present or expected to be and where CCP supporters outnumbered protesters. At those locations, there were large deployments of police officers, but more often than not, police did not appear to regard the protection of citizens as their primary duty, and their apparent indifference signaled to CCP supporters that they would not be held accountable for their actions.
@@ -629,7 +627,7 @@ A second assailant of Wang Wei from the united front network in the Seattle area
 
 In the video above, Guo can be seen punching Wang Wei (see 1:00). 
 
-> He is president of the Henan Association of Washington State (華州河南同鄉會), a united front group in Seattle. In a speech given at an event celebrating the fourth anniversary of the Henan Association in March 2019, Guo boasted of his organization’s ties to the Henan Province Overseas Chinese Association (河南省僑聯), a United Front group based in Henan Province, as well as to the Henan Province Zhi Gong Party (河南省致公黨).<sup>[^116]</sup> The China Zhi Gong Party is one of the eight minor parties of the PRC under the control of the United Front Work Department. According to united front expert Anne-Marie Brady, “The Zhi Gong Party is a united front link to liaise with overseas Chinese communities….”<sup>[^117]</sup> It is a member of the Chinese People’s Political Consultative Conference, the top-level United Front body.<sup>[^118]</sup> Guo was also present in Los Angeles at an April 2023 protest against Taiwan’s then-president Tsai Ing-wen’s visit to the US and can be seen standing alongside He Konghua (何孔華), a prominent San Francisco united front leader who also appeared among CCP supporters at the San Francisco International Airport on November 17, the day of Xi’s departure (see above and below).<sup>[^119]</sup> Also attending that protest against Tsai with Guo Jianwei and He Konghua, were two other united front figures, Jing Dongsheng and Rong Junwu, both of whom were active on the streets of San Francisco during Xi Jinping’s visit as well (see above). Guo also appears briefly in a video of the April 2023 Los Angeles protest against Tsai made by the satirical comic LeLe Farley.<sup>[^120]</sup>
+> He is president of the Henan Association of Washington State (華州河南同鄉會), a united front group in Seattle. In a speech given at an event celebrating the fourth anniversary of the Henan Association in March 2019, Guo boasted of his organization’s ties to the Henan Province Overseas Chinese Association (河南省僑聯), a United Front group based in Henan Province, as well as to the Henan Province Zhi Gong Party (河南省致公黨).<sup>[^116]</sup> The China Zhi Gong Party is one of the eight minor parties of the PRC under the control of the United Front Work Department. According to united front expert Anne-Marie Brady, “The Zhi Gong Party is a united front link to liaise with overseas Chinese communities...”<sup>[^117]</sup> It is a member of the Chinese People’s Political Consultative Conference, the top-level United Front body.<sup>[^118]</sup> Guo was also present in Los Angeles at an April 2023 protest against Taiwan’s then-president Tsai Ing-wen’s visit to the US and can be seen standing alongside He Konghua (何孔華), a prominent San Francisco united front leader who also appeared among CCP supporters at the San Francisco International Airport on November 17, the day of Xi’s departure (see above and below).<sup>[^119]</sup> Also attending that protest against Tsai with Guo Jianwei and He Konghua, were two other united front figures, Jing Dongsheng and Rong Junwu, both of whom were active on the streets of San Francisco during Xi Jinping’s visit as well (see above). Guo also appears briefly in a video of the April 2023 Los Angeles protest against Tsai made by the satirical comic LeLe Farley.<sup>[^120]</sup>
 
 ![Screen-Shot-2024-02-23-at-11.16.49-AM.png](/images/Screen-Shot-2024-02-23-at-11.16.49-AM.png) 
 
@@ -676,23 +674,25 @@ Bald-headed Chen was, according to protesters, probably the most ubiquitous and 
 
 <figure class="max-w-lg">
   <img class="h-auto max-w-full" src="/images/Screen-Shot-2024-01-24-at-9.59.28-AM.png" alt="alt="Screen Shot 2024-01-24 at 9.59.28 AM">
-  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">at the bridge near the airport, November 17</figcaption>
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">At the bridge near the airport, November 17</figcaption>
 </figure>
 </div>
 
 
-> In November 2019, Chen was among a group of united front figures in Seattle that welcomed a visiting delegation from the China Council for the Promotion of Peaceful National Reunification (中國和平統一促進會; CCPPNR) from Beijing at an event with the Association for China’s Peaceful Reunification of Washington State (華州中國統一促進會), the united front group of which Fang Weixia is the president.<sup>[^124][^125]</sup> The ACPR’s affiliation with the CCP and PRC was stated explicitly at the meeting by Sun Lingyan, the Deputy Secretary-General of the CCPPNR, who said that then-member of the Politburo Standing Committee of the Chinese Communist Party and then-Chair of the National Committee of the Chinese People’s Political Consultative Conference Wang Yang was its president and that the executive vice-president was the Minister of the United Front Work Department.<sup>[^126] [^127]</sup>
+> In November 2019, Chen was among a group of united front figures in Seattle that welcomed a visiting delegation from the China Council for the Promotion of Peaceful National Reunification (中國和平統一促進會; CCPPNR) from Beijing at an event with the Association for China’s Peaceful Reunification of Washington State (華州中國統一促進會), the united front group of which Fang Weixia is the president.<sup>[^124] [^125]</sup> The ACPR’s affiliation with the CCP and PRC was stated explicitly at the meeting by Sun Lingyan, the Deputy Secretary-General of the CCPPNR, who said that then-member of the Politburo Standing Committee of the Chinese Communist Party and then-Chair of the National Committee of the Chinese People’s Political Consultative Conference Wang Yang was its president and that the executive vice-president was the Minister of the United Front Work Department.<sup>[^126] [^127]</sup>
 
 At least six other people appear to have participated in the assault on Wang Wei (see video  above).
 
-<div class="grid grid-cols-2 lg:grid-cols-4">
-<img src="/images/Screen-Shot-2024-02-23-at-10.37.02-AM.png" alt="Screen Shot 2024-02-23 at 10.37.02 AM" />
-<img src="/images/Screen-Shot-2024-02-23-at-10.41.27-AM.png" alt="Screen Shot 2024-02-23 at 10.41.27 AM" />
-<img src="/images/Screen-Shot-2024-02-23-at-10.42.26-AM.png" alt="Screen Shot 2024-02-23 at 10.42.26 AM" />
-<img src="/images/Screen-Shot-2024-02-23-at-10.44.39-AM.png" alt="Screen Shot 2024-02-23 at 10.44.39 AM" />
-<img src="/images/Screen-Shot-2024-02-23-at-10.41.47-AM.png" alt="Screen Shot 2024-02-23 at 10.41.47 AM" />
-<img src="/images/Screen-Shot-2024-02-23-at-10.45.18-AM.png" alt="Screen Shot 2024-02-23 at 10.45.18 AM" />
+<div class="grid grid-cols-2 lg:grid-cols-3">
+<img src="/images/Screen-Shot-2024-02-23-at-10.37.02-AM.png" alt="Screen Shot 2024-02-23 at 10.37.02 AM" class="w-full"/>
+<img src="/images/Screen-Shot-2024-02-23-at-10.42.26-AM.png" alt="Screen Shot 2024-02-23 at 10.42.26 AM" class="w-full"/>
+<img src="/images/Screen-Shot-2024-02-23-at-10.44.39-AM.png" alt="Screen Shot 2024-02-23 at 10.44.39 AM" class="w-full"/>
+<img src="/images/Screen-Shot-2024-02-23-at-10.41.47-AM.png" alt="Screen Shot 2024-02-23 at 10.41.47 AM" class="w-full"/>
+<img src="/images/Screen-Shot-2024-02-23-at-10.45.18-AM.png" alt="Screen Shot 2024-02-23 at 10.45.18 AM" class="w-full"/>
+<img src="/images/Screen-Shot-2024-02-23-at-10.41.27-AM.png" alt="Screen Shot 2024-02-23 at 10.41.27 AM" class="w-full"/>
+
 </div>
+&nbsp;
 
 ### The Hyatt Regency Hotel
 
@@ -702,7 +702,7 @@ The banquet was attended by more than 300 US business executives<sup>[^129]</sup
 
 Xi Jinping received a standing ovation<sup>[^132]</sup> from the business executives and political leaders, a spectacle the PRC state propaganda organ CCTV covered with relish.<sup>[^133]</sup>
 
-The first speech of the evening was given by Marc Casper, who is both Chairman of the U.S.-China Business Council, and Chairman, President, and CEO of Thermo Fisher Scientific.<sup>[^134]</sup> Thermo Fisher has for years been criticized by human rights groups for selling DNA identification technology to repressive public security organs in China, Tibet, and Xinjiang,.<sup>[^135]</sup> In fact, one of the institutional authors of this report, Students for a Free Tibet, has campaigned extensively against Thermo Fisher’s helping PRC authorities to steal Tibetan DNA.<sup>[^136]</sup> During the banquet, over which Caspar presided, SFT members were attacked by CCP supporters no more than several hundred yards away.
+The first speech of the evening was given by Marc Casper, who is both Chairman of the U.S.-China Business Council, and Chairman, President, and CEO of Thermo Fisher Scientific.<sup>[^134]</sup> Thermo Fisher has for years been criticized by human rights groups for selling DNA identification technology to repressive public security organs in China, Tibet, and Xinjiang.<sup>[^135]</sup> In fact, one of the institutional authors of this report, Students for a Free Tibet, has campaigned extensively against Thermo Fisher’s helping PRC authorities to steal Tibetan DNA.<sup>[^136]</sup> During the banquet, over which Caspar presided, SFT members were attacked by CCP supporters no more than several hundred yards away.
 
 Among those attending the banquet were representatives of the host organizations as well as many prominent US business executives<sup>[^137]</sup> and California political elites.<sup>[^138]</sup> In accordance with the evening’s decorum, nothing controversial was mentioned.
 
@@ -777,7 +777,7 @@ Chen himself was present at the flagpole, and, in fact, played a high-profile ro
 > ![Harry Lu PRC deputy consul NYC Eric Adams Chen Heng](/images/Harry-Lu-PRC-deputy-consul-NYC-Eric-Adams-Chen-Heng.png)
 
 
-Another figure from New York who can be seen in the video above (from 00:19 to 00:33) attempting to snatch the “Dictator Xi, Your Time Is Up” banner from Tsela is Shi Yong Wei (施雍伟). He does so right after Chen Heng makes the attempt, and, in fact, he gets a better grip on it than Chen Heng did, nearly managing to snatch it.  
+Another figure from New York who can be seen in the video above (from 00:19 to 00:33) attempting to snatch the “Dictator Xi, Your Time Is Up” banner from Tsela is Shi Yong Wei (施雍偉). He does so right after Chen Heng makes the attempt, and, in fact, he gets a better grip on it than Chen Heng did, nearly managing to snatch it.  
 
 ![Screen Shot 2024-01-29 at 10.26.38 AM](/images/Screen-Shot-2024-01-29-at-10.26.38-AM.png)  
 
@@ -885,9 +885,9 @@ One of the attackers can be seen in this video holding at least five poles. This
 
  <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548907/IMG_0260_v8dzbu.mov"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
 
-<figure class="max-w-lg">
-  <img class="h-auto max-w-full rounded-lg" src="/images/flagpole-weapons-at-Hyatt-Regency-15nov23-copy.jpeg" alt="CACWA in parking garage">
-  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">Photo taken from the protest zone.</figcaption>
+<figure class="">
+  <img class="h-auto img-sm rounded-lg" src="/images/flagpole-weapons-at-Hyatt-Regency-15nov23-copy.jpeg" alt="CACWA in parking garage">
+  <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4 text-center">Photo taken from the protest zone.</figcaption>
 </figure>
 
 As the group of CCP supporters came to the corner of Third and Jessie Streets, where the designated protest zone was demarcated by metal barriers, they confronted the protesters.
@@ -923,7 +923,7 @@ A 17-year-old Tibetan was cut in the arm with a sharp object.
 <img src="/images/Screen-Shot-2024-03-04-at-1.25.21-PM.png" alt="Screen Shot 2024-03-04 at 1.25.21 PM" class="img-sm mx-auto">
 
 
-In an interview, another 17-year-old Tibetan said, “I got hit in the head three to four times by metal flagpoles…. I got sand thrown in my eyes. I was blinded for about five minutes. They started hitting us. We backed up. They put a big flag in front of my face. Then I got hit again. A lot of people got hit, not just me. Another person was hit four times.”<sup>[^180]</sup>
+In an interview, another 17-year-old Tibetan said, “I got hit in the head three to four times by metal flagpoles. I got sand thrown in my eyes. I was blinded for about five minutes. They started hitting us. We backed up. They put a big flag in front of my face. Then I got hit again. A lot of people got hit, not just me. Another person was hit four times.”<sup>[^180]</sup>
 
 HKDC Executive Director Anna Kwok said, “The police… on Third Street were reluctant to move. They didn’t want to leave their positions. We screamed and shouted at them, but none paid us any attention…. I contacted the FBI and said there was danger.<sup>[^181]</sup> They asked if anyone called the police. I said the police officers on site were no help. They asked if I had means to leave the area. I said, ‘I cannot leave other people behind, we want to stay and peacefully protest without violence or fear.’ They said they wanted to see if a plan could be put in place if it became more dangerous. In the end, we relied on ourselves to continue through the night.”<sup>[^182]</sup>
 
@@ -954,7 +954,7 @@ One of the attackers is Yang Baohai (楊寶海; he also goes by the name, Liu Ba
 <img class="img-sm mx-auto" src="/images/Screen-Shot-2024-01-25-at-9.14.58-PM.png" alt="Screen Shot 2024-01-25 at 9.14.58 PM" >
 
 
-One of the victims of an attack by pro-CCP supporters submitted this photo, taken earlier in the day, and identified both figures in it as involved in the attacks. The one on the left is Yang Baohai (he also goes by the name, Liu Baohai). 
+One of the victims of an attack by pro-CCP supporters submitted this photo, taken earlier in the day, and identified both figures in it as involved in the attacks. The one on the left is Yang Baohai. 
 
 <img class="img-sm mx-auto" src="/images/Liu-Baohai-and-one-other.jpeg" alt="Liu Baohai and one other" >
 
@@ -966,16 +966,16 @@ He was also seen near the San Francisco International Airport on November 17.
 
 <img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-01-at-11.40.57-AM.png" alt="Screen Shot 2024-03-01 at 11.40.57 AM" >
 
-Yang Baohai is reportedly the president of the Bay Area Fujian Ren Association (福建人在湾区联谊会), a united front group in the San Francisco Bay area.<sup>[^183]</sup> In April 2021, Yang Baohai met Chen Heng, vice-chair of the Fukien American Association, in New York City at an event that was videotaped and posted online.<sup>[^184]</sup> Chen Heng was also present on the streets of San Francisco, attempting to snatch the banner from the Tibetan protester on the flagpole outside the Hyatt Regency on the 15th. 
+Yang Baohai is reportedly the president of the Bay Area Fujian Ren Association (福建人在灣區聯誼會), a united front group in the San Francisco Bay area.<sup>[^183]</sup> In April 2021, Yang Baohai met Chen Heng, vice-chair of the Fukien American Association, in New York City at an event that was videotaped and posted online.<sup>[^184]</sup> Chen Heng was also present on the streets of San Francisco, attempting to snatch the banner from the Tibetan protester on the flagpole outside the Hyatt Regency on the 15th. 
 
 
 >Yang Baohai has appeared at various pro-CCP demonstrations together with other united front figures.
 
-> Yang was photographed by a Chinese-language media outlet at a protest against the visit of then-vice president of Taiwan William Lai Ching-te (賴清德) to San Francisco on August 16, 2023.<sup>[^185]</sup> The outlet reports that Liu held a megaphone and led CCP supporters in chanting slogans. He told the publication that he is Fujianese. The publication reported that “nearly 100” CCP supporters protested outside the Hyatt Regency.<sup>[^186]</sup> The united front leader from Oregon, Jing Dongsheng was also at that proteSt During Xi Jinping’s stay in San Francisco, Jing participated in the harassment and intimidation of one protester and appeared to act as a scout on the lookout for protesters as well (see above). 
+> Yang was photographed by a Chinese-language media outlet at a protest against the visit of then-vice president of Taiwan William Lai Ching-te (賴清德) to San Francisco on August 16, 2023.<sup>[^185]</sup> The outlet reports that Liu held a megaphone and led CCP supporters in chanting slogans. He told the publication that he is Fujianese. The publication reported that “nearly 100” CCP supporters protested outside the Hyatt Regency.<sup>[^186]</sup> The united front leader from Oregon, Jing Dongsheng was also at that protest During Xi Jinping’s stay in San Francisco, Jing participated in the harassment and intimidation of one protester and appeared to act as a scout on the lookout for protesters as well (see above). 
 
-> Yang also participated in a united front protest against the visit of then-president of Taiwan Tsai Ing-wen’s to Los Angeles in April 2023. There, he’s pictured with a united front figure from San Francisco, He Konghua (何孔華), who was at the airport on November 17, the day of Xi’s departure (see below). Two other united front figures, Jing Dongsheng and Chen Zhaojin,were also on the streets of San Francisco and attended that anti-Tsai proteSt  CCP supporters were reportedly paid $400 each to demonstrate against Tsai.<sup>[^187]</sup>  
+> Yang also participated in a united front protest against the visit of then-president of Taiwan Tsai Ing-wen’s to Los Angeles in April 2023. There, he’s pictured with a united front figure from San Francisco, He Konghua (何孔華), who was at the airport on November 17, the day of Xi’s departure (see below). Two other united front figures, Jing Dongsheng and Chen Zhaojin, were also on the streets of San Francisco and attended that anti-Tsai protest  CCP supporters were reportedly paid $400 each to demonstrate against Tsai.<sup>[^187]</sup>  
 
-> On August 20, 2019, Yang Baohai organized a demonstration against Hong Kong solidarity protests in San Francisco in support of the mass pro-democracy protests in Hong Kong going on at that time. On May 27, 2021, members of his group tried to bar Hong Kong protesters from participating in an “anti-Asian hate” rally in San Francisco that Yang was involved in organizing. The Hong Kongers held signs reading, “Liberate Hong Kong,” “Free Uyghurs,” and “CCP is the real raciSt” The attempt by members of Yang’s group to prevent Hong Kongers from joining the anti-Asian hate rally led to verbal and even physical altercations.<sup>[^188]</sup>
+> On August 20, 2019, Yang Baohai organized a demonstration against Hong Kong solidarity protests in San Francisco in support of the mass pro-democracy protests in Hong Kong going on at that time. On May 27, 2021, members of his group tried to bar Hong Kong protesters from participating in an “anti-Asian hate” rally in San Francisco that Yang was involved in organizing. The Hong Kongers held signs reading, “Liberate Hong Kong,” “Free Uyghurs,” and “CCP is the real racist” The attempt by members of Yang’s group to prevent Hong Kongers from joining the anti-Asian hate rally led to verbal and even physical altercations.<sup>[^188]</sup>
 
 > Yang also participated in the planning of the premiere of the film, “My Motherland and Me,” to celebrate the 70th anniversary of the founding of the PRC in October 2019,<sup>[^189]</sup> and participated in a Lunar New Year celebration in San Francisco together with Deputy Consul General Zou Yonghong, Director Wang Yiming, and Consul Song Yutong of the PRC Consulate General in San Francisco.<sup>[^190]</sup>
 
@@ -1008,7 +1008,7 @@ The protesters reported the stalking to two police officers who were standing on
 <div class="grid grid-cols-2">
 <img class="" src="/images/Screen-Shot-2024-03-05-at-12.51.08-PM.png" alt="Screen Shot 2024-03-05 at 12.51.08 PM" >
 <img class="" src="/images/Screen-Shot-2024-03-05-at-12.53.02-PM.png" alt="Screen Shot 2024-03-05 at 12.53.02 PM" >
-<p class="text-xs text-gray-500 dark:text-gray-400 px-4"><em>Stills from the above video</em></p>
+
 </div>
 
 One officer replied that, since it was a free country, the police couldn’t just stop people on the street.<sup>[^191]</sup> Chemi also informed the officers that the people following them “have been assaulting people.” The officers failed to act. The stalkers passed the officers and walked in front of the protesters. Because of this and the officers’ inaction, the protesters decided to turn around and walk in the opposite direction of where they had intended to go. They communicated by phone with the other Tibetan protesters they had planned to rendezvous with and arranged to be picked up at a different location.<sup>[^192]</sup> 
@@ -1026,7 +1026,7 @@ Also near the Hyatt Regency on the evening of the 15th, a 74-year-old Hong Kong 
 
 <sup>[^194]</sup>
 
-Chow says that, throughout the incident, he tried his best to protect his head and cheSt He had a pacemaker and didn’t want the assailants to damage it. His right shoulder, right hand, left shoulder, and right leg were injured in the attack.<sup>[^195]</sup>
+Chow says that, throughout the incident, he tried his best to protect his head and chest He had a pacemaker and didn’t want the assailants to damage it. His right shoulder, right hand, left shoulder, and right leg were injured in the attack.<sup>[^195]</sup>
 
 The man who pushed Chow to the ground has been identified as Yu Yingqiang (余穎強; in English, he appears to go by Wing Yu). 
 
@@ -1050,7 +1050,6 @@ Yu appeared elsewhere on the streets of San Francisco, including at the encounte
 <div class="">
 
 <img class="" src="/images/Yu-Yingqiang-w-Jing-Dongsheng-at-3rd-&-Jessie-15-nov-23.png" alt="Yu Yingqiang w Jing Dongsheng at 3rd & Jessie 15 nov 23 " >
-<p class="text-xs text-gray-500 dark:text-gray-400 px-4">Yu Yingqiang is standing to the right, near the stop sign</p>
 </div>
 
 …and again at the airport on November 17 among the scrum of CCP supporters that assaulted Chemi Lhamo (see below)…
@@ -1067,10 +1066,9 @@ Chow would be assaulted again by CCP supporters on November 17 near the airport 
 
 <h2  id="thursdaynovember16" class="text-4xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Thursday, November 16</h2>
 
+### Third day of Xi Jinping’s visit to San Francisco
 
-(third day of Xi Jinping’s visit to San Francisco)
-
-Xi Jinping took part in APEC meetings held at the Moscone Center, only blocks away from two other locations mentioned frequently in this report, the Hyatt Regency Hotel and St.Regis Hotel. Because there was no event in which Xi was featured, such as the Biden-Xi meeting or the banquet in honor of Xi, no large-scale protests against Xi were called in advance. There were a number of serious incidents of harassment, intimidation, and assault. Most occurred in the vicinity of the Moscone Center, and most were against Chinese protesters.
+Xi Jinping took part in APEC meetings held at the Moscone Center, only blocks away from two other locations mentioned frequently in this report, the Hyatt Regency Hotel and the St.Regis Hotel. Because there was no event in which Xi was featured, such as the Biden-Xi meeting or the banquet in honor of Xi, no large-scale protests against Xi were called in advance. There were a number of serious incidents of harassment, intimidation, and assault. Most occurred in the vicinity of the Moscone Center, and most were against Chinese protesters.
 
 Among the serious incidents of the day were assaults on:
 
@@ -1081,7 +1079,7 @@ Several other reports of assaults appeared in the media and on social media, and
 
 ### Assault on Peng Xiaowei outside the Hyatt Regency Hotel
 
-The circumstances of the assault on Peng Xiaowei (彭小偉) were similar to those in other situations in which assaults occurred: He was surrounded and outnumbered by CCP supporters, and his phone was stolen. This was the first reported theft of a protester’s phone in San Francisco during Xi Jinping’s visit. There would be several more phone thefts, especially the following day, the 17th, near the airport. This suggests that CCP supporters may have become more aware that photos and videos of them could potentially lead to their identification. Peng believes the assailants were deliberately targeting him for his phone and appeared to be cooperating to steal it. 
+The circumstances of the assault on Peng Xiaowei (彭小偉) were similar to those in other situations in which assaults occurred: he was surrounded and outnumbered by CCP supporters, and his phone was stolen. This was the first reported theft of a protester’s phone in San Francisco during Xi Jinping’s visit. There would be several more phone thefts, especially the following day, the 17th, near the airport. This suggests that CCP supporters may have become more aware that photos and videos of them could potentially lead to their identification. Peng believes the assailants were deliberately targeting him for his phone and appeared to be cooperating to steal it. 
 
 Peng was together with two others who held protest signs. Peng was filming, aware of the possibility of attack and wanting evidence. His companions’ placards were snatched away. Then someone behind Peng snatched his phone. He turned around and saw the person who took his phone throw it to someone else who quickly ran away. Peng wanted to pursue him but someone grabbed Peng by his clothes and pulled him back. Four or five others surrounded him and beat him on the head and various parts of his body. Police quickly intervened and removed Peng from the group. His backpack had also disappeared, but police helped him to recover it.<sup>[^199]</sup>
 
@@ -1108,7 +1106,7 @@ Peng said he provided a video of the assault as well as the locations of his pho
 
 ### Assault on Chen Chuangchuang, near the Moscone Center
 
-Chen Chuangchuang (陳闖創), a lawyer and one of the leaders of the China Democracy Party, was attacked between 12 noon and 1 pm. He said he arrived near the Moscone Center, the APEC venue, along with several other protesters. At the corner of Fourth and Mission Streets, they found themselves outnumbered by CCP supporters. 
+Chen Chuangchuang (陳闖創), a lawyer and one of the leaders of the China Democracy Party, was attacked between 12 noon and 1 p.m. He said he arrived near the Moscone Center, the APEC venue, along with several other protesters. At the corner of Fourth and Mission Streets, they found themselves outnumbered by CCP supporters. 
 
 The attack occurred during a confrontation between CCP supporters and protesters. CCP supporters were pushing protesters away from the temporary security fence put up in front of the Moscone Center, and thus, away from view from the center. They cornered some of the protesters in the entryway of a building. At that point, police intervened and attempted to separate the parties. As they were doing so, Chen was pepper-sprayed in the face by a CCP supporter. Chen’s glasses had been broken by CCP supporters the day before, the 15th, and when he was pepper-sprayed, he didn’t even realize at first what had happened until his eyes started burning.<sup>[^201]</sup>
 
@@ -1250,7 +1248,7 @@ Among the serious incidents of the day were the following:
 - Tibetan protester Topjor Tsultrim was assaulted.
 - Hong Kong protester Carmen Lau was assaulted.
 - Hong Kong protester Kennedy Wong was assaulted.
-- Two Tibetan 19-year-olds were assaulted, one phone was stolen and damaged, and one phone was loSt
+- Two Tibetan 19-year-olds were assaulted, one phone was stolen and damaged, and one phone was lost
 - San Francisco-based KTSF Channel 26 reporter S. was intimidated and his phone was stolen. 
 - Chinese protester Kaiyu Zhang and Hong Kong protester Chow Kai-hong were assaulted.
 
@@ -1272,7 +1270,7 @@ Soon after his arrival at the airport together with a handful of other protester
 
 ![suspected organizer.jpeg](/images/suspected-organizer-min.jpeg)
 
-The Tibetan protesters were photographed, videoed, and followed, though they’d yet to show Tibetan flags or banners or shout slogans. 
+The Tibetan protesters were photographed, videoed, and followed, though they had yet to show Tibetan flags or banners or shout slogans. 
 
 On the 14th, the day of Xi’s arrival, a parking garage near the road was open, but on the 17th, attendants said the whole garage had been booked up for the day and no one could enter. Protesters suspected that the Chinese consulate or united front organizers had arranged this. It meant that those who came had to park in a more distant area and cross the bridge to reach the roadside. The parking garage was mostly vacant, but two men in black jackets were stationed on one of the floors, overlooking and surveilling the protesters, who believed the men to be associated with the PRC.<sup>[^233]</sup>
 
@@ -1280,7 +1278,7 @@ A bridge near the access road became an early flashpoint. According to Topjor, w
 
 ### Harassment and Intimidation of and Assault on Chemi Lhamo
 
-According to Topjor, by the time he returned to the bridge, Tibetan protester Chemi Lhamo was fully encircled by CCP supporters. A Tibetan woman was praying near Chemi. CCP supporters were shoving the Tibetan woman. Topjor put his arms around the Tibetan woman. An older CCP supporter in his fifties or sixties shoved Topjor and then kicked him in the cheSt Topjor fell to the ground. When he got up, he went directly to the police and said, “I got assaulted. I want to file a police report.” The police responded by saying that dealing with the current situation was a higher priority. Topjor identified the man in the following photo as his assailant.
+According to Topjor, by the time he returned to the bridge, Tibetan protester Chemi Lhamo was fully encircled by CCP supporters. A Tibetan woman was praying near Chemi. CCP supporters were shoving the Tibetan woman. Topjor put his arms around the Tibetan woman. An older CCP supporter who appeared to be in his fifties or sixties shoved Topjor and then kicked him in the chest. Topjor fell to the ground. When he got up, he went directly to the police and said, “I got assaulted. I want to file a police report.” The police responded by saying that dealing with the current situation was a higher priority. Topjor identified the man in the following photo as his assailant.
 
 <img src="/images/Screenshot-2024-04-10-at-11.01.32-AM-min.jpg" alt="Screenshot-2024-04-10-at-11.01.32-AM-min.jpg" class="w-1/2"/>
 
@@ -1758,7 +1756,7 @@ We thank the external reviewers and others who helped to ensure the quality and 
 [^4]: Alex Joske, “Reorganizing the United Front Work Department: New Structures for a New Era of Diaspora and Religious Affairs Work,” The Jamestown Foundation, 9 May 2019, https://jamestown.org/program/reorganizing-the-united-front-work-department-new-structures-for-a-new-era-of-diaspora-and-religious-affairs-work/.
 [^5]: 5Anne-Marie Brady, “Magic Weapons: China’s political influence activities under Xi Jinping,” Wilson Center, 18 Sept. 2017: 22, https://www.wilsoncenter.org/sites/default/files/media/documents/article/magic\_weapons.pdf.
 [^6]: 6Ibid.
-[^7] For example, in 2021, the US Department of State designated 14 Chinese state-run media outlets as “foreign missions'' and the US Department of Justice compelled privately-owned-but-CCP-loyalist *Singtao* operations in the US to register as  “foreign agents.” See “Designation of Additional Chinese Media Entities as Foreign Missions,” United States Department of State, 22 June 2020, https://2017-2021.state.gov/designation-of-additional-chinese-media-entities-as-foreign-missions/, and Lachlan Markay, “DOJ brands Chinese-owned U.S. newspaper a foreign agent,” *Axios*, 25 Aug 2021, https://www.axios.com/2021/08/25/doj-chinese-owned-sing-tao-newspaper-foreign-agent.
+[^7]: For example, in 2021, the US Department of State designated 14 Chinese state-run media outlets as “foreign missions'' and the US Department of Justice compelled privately-owned-but-CCP-loyalist *Singtao* operations in the US to register as  “foreign agents.” See “Designation of Additional Chinese Media Entities as Foreign Missions,” United States Department of State, 22 June 2020, https://2017-2021.state.gov/designation-of-additional-chinese-media-entities-as-foreign-missions/, and Lachlan Markay, “DOJ brands Chinese-owned U.S. newspaper a foreign agent,” *Axios*, 25 Aug 2021, https://www.axios.com/2021/08/25/doj-chinese-owned-sing-tao-newspaper-foreign-agent.
 [^8]: That is not to say that the 2008 Olympic torch relay was the first time that elements of the template were employed. Rather, 2008 represents the moment when those elements were consolidated. The CCP afterward used its response to the Olympic torch relay as a model for dealing with overseas public events that included any element of opposition to its rule. 
 [^9]: James Jiann Hua To, *Qiaowu: Extra-Territorial Policies for the Overseas Chinese* (Leiden; Boston: Brill, 2014) 33.
 [^10]: Alliance Canada Hong Kong, “National Security and Chinese State Influence: Pro-Hong Kong Democracy Events During August 16-19, 2019,” 17 Aug 2020, <https://alliancecanadahk.com/report-national-security-chinese-state-influence-august-16-august-19-pro-hong-kong-democracy-events/>.
