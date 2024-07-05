@@ -69,6 +69,9 @@ table tr:nth-child(even){
 table th{background:#FCD34D;
    padding: 10px
 }
+video+sup{
+   
+}
 
    @layer base {
       p{
