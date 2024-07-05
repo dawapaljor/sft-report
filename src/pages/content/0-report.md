@@ -1722,7 +1722,7 @@ We thank the external reviewers and others who helped to ensure the quality and 
           </a>
         <!-- A big image will be displayed here -->
         <img id="modal-img"
-             class="max-w-[80%] max-h-auto object-cover"/>
+             class="lg:max-w-[60%] sm:max-w-[90%] max-h-auto object-cover"/>
     </div>
      <script>
           // Get all the img elements in the grid
