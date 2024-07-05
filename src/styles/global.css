@@ -95,7 +95,7 @@ table th{background:#FCD34D;
       ul{
          @apply py-5;
          @apply pl-5;
-         @apply list-discl
+         @apply list-disc;
       }
       ol{
          @apply py-5;
