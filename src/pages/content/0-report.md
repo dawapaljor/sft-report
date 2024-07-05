@@ -6,7 +6,7 @@ order: 1
 
 
 
-<h2  id="" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Foreword</h2>
+<h2  id="foreword" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Foreword</h2>
 
 On November 15, 2012, Xi Jinping stood before thousands of members of the Communist Party of China in his first public speech as the leader of the unfree world. He vowed to fulfill one ultimate goal: the “great revival of the Chinese nation.” During the 11 years between the day Xi gave that speech and the day he attended the US-China Business Council Dinner in San Francisco on November 15th, 2024, Xi’s repressive, hardline policies have changed China beyond recognition, for the worse.
 
