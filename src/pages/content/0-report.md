@@ -3,6 +3,9 @@ title:
 slug: 
 order: 1
 ---
+
+
+
 <h2  id="" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Foreword</h2>
 
 On November 15, 2012, Xi Jinping stood before thousands of members of the Communist Party of China in his first public speech as the leader of the unfree world. He vowed to fulfill one ultimate goal: the “great revival of the Chinese nation.” During the 11 years between the day Xi gave that speech and the day he attended the US-China Business Council Dinner in San Francisco on November 15th, 2024, Xi’s repressive, hardline policies have changed China beyond recognition, for the worse.
@@ -83,7 +86,7 @@ The CCP puts enormous effort and resources into exerting influence and control o
 
 These efforts to control diaspora communities are closely tied to the CCP concept of the “united front” (統一戰線), the idea that the cultivation of support of and loyalty to the Party at home and abroad is central to maintaining the CCP’s power. To that end, the CCP employs both a set of directly-controlled party organs and a larger number of loosely linked overseas groups to carry out its united front strategy. In practice, the term “united front work” (統戰工作) is used rather elastically and can refer to activities carried out by both official agencies and informally associated overseas groups.<sup>[^3]</sup>
 
-### United Front: Main Organs and Overseas Affiliates
+#### United Front: Main Organs and Overseas Affiliates
 
 Though these types of organizations are often grouped together as part of a loosely-defined “CCP United Front,” this report takes care to differentiate between the two:
 
@@ -947,6 +950,10 @@ Unlike in the parking garage attack earlier, many of those who attacked proteste
 <img class="img-sm mx-auto" src="/images/Screen-Shot-2024-01-25-at-9.15.08-PM.png" alt="Screen Shot 2024-01-25 at 9.15.08 PM" >
 <img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-06-at-9.48.48-AM.png" alt="Screen Shot 2024-03-06 at 9.48.48 AM" >
 <img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-01-at-11.41.15-AM.png" alt="Screen Shot 2024-03-01 at 11.41.15 AM" >
+
+
+
+
 
 One of the attackers is Yang Baohai (楊寶海; he also goes by the name, Liu Baohai/劉寶海), who was seen elsewhere on the streets of San Francisco during Xi Jinping’s visit.. 
 
