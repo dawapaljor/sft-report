@@ -21,7 +21,7 @@ Anna Kwok and Pema Doma, 2nd June 2024
 
 ---
 
-<h2  id="executivesummary" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Executive Summary</h2>
+<h2  id="executivesummary" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Executive Summary</h2>
 
 
 This report documents acts of transnational repression (TNR) carried out by supporters of the Chinese Communist Party (CCP) against protesters during the visit to San Francisco in November 2023 of Xi Jinping, President of the People’s Republic of China. In all, 34 cases of harassment, intimidation, and assault are presented. 
@@ -40,7 +40,7 @@ This report makes 18 recommendations to the White House, relevant federal agenci
 - Pass legislation creating resources to combat TNR, such as the Transnational Repression Policy Act (H.R. 3654/S.831), the Stop Transnational Repression Act (H.R. 5907), the Combating Transnational Repression Act of 2024 (H.R. 7443), the Law Enforcement Support and Transnational Repression Hotline Act (H.R. 7433), and the Strengthening State and Local Efforts to Combat Transnational Repression Act (H.R. 7439).
 - Maintain relations with a diversity of Asian American, Native Hawaiian, and Pacific Islander (AANHPI) groups representing different political views and identities and conduct due diligence on these groups’ backgrounds.
 
-<h2  id="methodology" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Methodology</h2>
+<h2  id="methodology" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Methodology</h2>
 
 
 This report is based primarily on the testimonies of 26 protesters and one journalist who were present in San Francisco during Xi Jinping’s visit from November 14 to 17, 2023, as well as on video and photographic evidence provided by protesters. Media reports and social media posts have also been of some assistance. 
@@ -59,7 +59,7 @@ Where we have received responses, we have included those in the report.
 
 The URLs of sources cited in the report were operative as of April 4, 2024. They were also saved at Internet Archive on or before that date. 
 
-<h2  id="intro" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Introduction</h2>
+<h2  id="intro" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Introduction</h2>
 
 In November 2023, Xi Jinping, President of the People’s Republic of China (PRC), came to San Francisco to attend the Asia-Pacific Economic Cooperation (APEC) summit and meet United States (US) President Joe Biden. During Xi’s stay in the city from November 14 to 17, hundreds of Chinese, Hong Kongers, Tibetans, and Uyghurs demonstrated against Xi and the CCP’s harsh crackdown in their homelands.<sup>[^1]</sup> Dozens of protesters were harassed, intimidated, and assaulted. These attacks were carried out by CCP supporters or those acting on their behalf in what appeared to be an organized and coordinated manner. Leaders of united front groups in the US that have been linked to the CCP were involved in the attacks. The attacks constitute transnational repression (TNR) as they targeted opponents of the CCP in the US. Although the US government has identified countering TNR as a top priority, awareness and preparation on the part of law enforcement authorities in San Francisco appeared inadequate.<sup>[^2]</sup> 
 
@@ -74,7 +74,7 @@ The protesters were from different backgrounds. Most have their origins in China
 At the center of the report is a detailed, chronological narrative of the attacks perpetrated by CCP supporters on protesters while Xi Jinping visited San Francisco. Preceding that are brief sections on the CCP and its overseas united front and on the US government’s prioritization of countering TNR in general and CCP TNR specifically. Following the chronological narrative are sections on responses and reactions to the attacks in San Francisco, analysis, and recommendations.
 
 
-<h2  id="overseasunitedfront" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">The CCP and Its Overseas United Front</h2>
+<h2  id="overseasunitedfront" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">The CCP and Its Overseas United Front</h2>
 
 
 In order to understand the transnational repression that took place in San Francisco, it is important to understand the network of organizations that enabled the repression and appeared to coordinate in organizing it.
@@ -137,7 +137,7 @@ There is copious documentation of CCP transnational repression targeting diaspor
 Freedom House, which monitors transnational repression worldwide, notes that “China conducts the most sophisticated, global, and comprehensive campaign of transnational repression in the world. Efforts by the Chinese Communist Party (CCP) to pressure and control the overseas population of Chinese and members of minority communities are marked by three distinctive characteristics. First, the campaign targets many groups, including multiple ethnic and religious minorities, political dissidents, human rights activists, journalists, and former insiders accused of corruption. Second, it spans the full spectrum of tactics: from direct attacks like renditions, to co-opting other countries to detain and render exiles, to mobility controls, to threats from a distance like digital threats, spyware, and coercion by proxy. Third, the sheer breadth and global scale of the campaign is unparalleled. Freedom House’s conservative catalog of direct, physical attacks since 2014 covers 214 cases originating from China, far more than any other country.”<sup>[^13]</sup>
 
 
-<h2  id="countering" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">The US Government on Countering Transnational Repression</h2>
+<h2  id="countering" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">The US Government on Countering Transnational Repression</h2>
 
 All cases of transnational repression documented in this report took place in the United States. Federal authorities in the US have articulated as a priority countering TNR in general and CCP TNR specifically and have taken some measures to do so in practice. This section reviews the US government’s main statements on the matter and actions taken prior to November 2023. After documenting the cases of TNR that occurred in San Francisco, the report will identify governmental shortcomings in responding to and preventing TNR.
 
@@ -170,7 +170,7 @@ There is a lack of coordination between federal, state, and local authorities. W
 It is clear that countering transnational repression—and TNR carried out by the CCP in particular—is a priority for federal authorities, but they have so far been silent in regard to the harassment and intimidation of and assaults on protesters in San Francisco during Xi Jinping’s visit.  
 
 
-<h2  id="attacksonprotesters" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Attacks on Protesters in San Francisco</h2>
+<h2  id="attacksonprotesters" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Attacks on Protesters in San Francisco</h2>
 
 ### Overview
 
@@ -195,7 +195,7 @@ The following section traces the incidents of harassment, intimidation, and assa
 
 Interspersed with accounts of the events as they unfolded are identifications and profiles of united front figures and groups that, to varying extents, were associated with and/or involved in the harassment and intimidation of and assaults on protesters.
 
-<h2  id="saturdaynov11" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Saturday, November 11</h2>
+<h2  id="saturdaynov11" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Saturday, November 11</h2>
 
 
  *Three days before Xi’s arrival in San Francisco*  
@@ -230,7 +230,7 @@ She reported the threats to the Federal Bureau of Investigation on the morning o
 
 Over the following days, Kwok said, “There were multiple moments when I knew others were threatened and harassed. When I reached out to the FBI, likely because I was the one who had well-documented threats prior to the occasion, I was the ‘person of interest’ in the system. In other words, the process catered more toward my safety and well-being instead of protecting all protesters on site. When asked about actions they could take, the options are limited. The FBI could not intervene in the on-site command chain of local law enforcement. When I spoke to the police on site, they were not equipped with knowledge of the situation; nor did they understand that this was transnational repression happening before their eyes. Some of them were even unaware of the fact that there were two sides and one was intimidating the other. The FBI agents wanted to help but struggled to find the mechanisms to do so.
 
-<h2  id="nov12to14" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">November 12 to 14</h2>
+<h2  id="nov12to14" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">November 12 to 14</h2>
 
 
 *Other days leading up to Xi Jinping’s arrival*
@@ -351,7 +351,7 @@ While a small percentage of CCP supporters who showed up on the streets of San F
 
 On several occasions, protesters changed their plans due to safety concerns. Tibetan and Uyghur groups had originally planned to march on November 15 to the Hyatt Regency, where Xi was the guest of honor at a banquet, but when they saw the large numbers of CCP supporters gathered outside the hotel and an absence of separate protest zones, they decided against this course of action as they feared it could lead to a potentially violent confrontation. Several dozen Tibetans proceeded to the area near the Hyatt Regency, but many Tibetan elders along with Tibetans with children left.<sup>[^64]</sup> (In fact, those protesters who did brave the crowds of CCP supporters were attacked, as shall be seen.) Once on site, protesters quickly developed protocols and strategies to ensure their safety. Often, the effort required of protesters to protect themselves from pro-CCP attackers distracted significant attention from their original objective, namely, protesting against Xi Jinping. All protesters interviewed for this report said they felt in significant danger and were on constant high alert for attacks, stalking, and other forms of harassment, intimidation, and violence. The mobilization of the united front as well as more aggressive agents affiliated with the CCP did, in fact, deter protest and create an unsafe environment for protest, thus interfering with protesters’ free speech rights as well as infringing their basic human right to freedom of peaceful assembly.
 
-<h2  id="tuesdaynov14" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Tuesday, November 14</h2>
+<h2  id="tuesdaynov14" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Tuesday, November 14</h2>
 
 *First day of Xi’s Visit to San Francisco*
 
@@ -557,7 +557,7 @@ A CACWA banner was hung on a barricade near an attack on Tibetan and Hong Kong p
 </figure>
 
 
-<h2  id="wednesdaynov15" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Wednesday, November 15</h2>
+<h2  id="wednesdaynov15" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Wednesday, November 15</h2>
 
 *Second day of Xi Jinping’s visit to San Francisco*
 
@@ -1063,7 +1063,7 @@ Chow would be assaulted again by CCP supporters on November 17 near the airport 
 
 
 
-<h2  id="thursdaynovember16" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Thursday, November 16</h2>
+<h2  id="thursdaynovember16" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Thursday, November 16</h2>
 
 *Third day of Xi Jinping’s visit to San Francisco*
 
@@ -1232,7 +1232,7 @@ Other assaults on November 16 were reported in the media or on social media, inc
 
 
 
-<h2  id="fridaynov17" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Friday, November 17</h2>
+<h2  id="fridaynov17" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Friday, November 17</h2>
 
 *Fourth day of Xi Jinping’s visit to San Francisco*
 
@@ -1512,7 +1512,7 @@ Kaiyu Zhang said he was interviewed for about an hour by the FBI. As of May 15, 
 That was the last reported assault during Xi Jinping’s visit to San Francisco. He would depart from San Francisco International Airport later that day.
 
 
-<h2  id="reactions" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Reactions and Responses</h2>
+<h2  id="reactions" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Reactions and Responses</h2>
 
 The harassment and intimidation of and assaults on protesters against Xi Jinping and the Chinese Communist Party during Xi’s visit to San Francisco elicited a variety of reactions and responses from protesters, members of Congress, and the PRC embassy, though it elicited silence from other institutions and politicians. Below, a few of those reactions are highlighted.
 
@@ -1566,7 +1566,7 @@ It appears that, while members of Congress who are concerned about the Chinese C
 
 The PRC Embassy statement was an attempt to counter the emerging narrative of attacks on protesters.<sup>[^287]</sup> We wrote to the embassy and asked for information in regard to its allegations as well as any other form of elaboration on the statement it would like to make. As of May 15, 2024, no response has been received.
 
-<h2  id="Analysis" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Analysis</h2>
+<h2  id="Analysis" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Analysis</h2>
 
 
 CCP supporters were mobilized and transported from across the US to San Francisco. It appears that their primary intentions were to provide the impression of a massive “welcome” to and support of Xi Jinping as well as to neutralize any show of opposition to Xi or the CCP. In regard to the first intention, they were, for the most part, within their rights; in regard to the second, it appears some of them may have transgressed the law and interfered with the free speech rights of protesters as well as infringing their universal human right to freedom of peaceful assembly.
@@ -1612,7 +1612,7 @@ In general, more attention must be paid to the fact that, though many of the ind
 
 
 
-<h2  id="recommendations" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Recommendations</h2>
+<h2  id="recommendations" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Recommendations</h2>
 
 ### Recommendations to the White House and the Department of State:
 
@@ -1654,7 +1654,7 @@ In general, more attention must be paid to the fact that, though many of the ind
 - Appoint a UN Special Rapporteur on Transnational Repression.
 
 
-<h2  id="acknowledgments" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Acknowledgments</h2>
+<h2  id="acknowledgments" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Acknowledgments</h2>
 
 We thank the protesters against Xi Jinping and the CCP in San Francisco for going out to protest, for persevering in the face of harassment, intimidation, and assault, and for entrusting us with their accounts. This report would not have been possible without their cooperation.  
 
@@ -1665,7 +1665,7 @@ We thank the many volunteers and others who have contributed to this report in v
 We thank the external reviewers and others who helped to ensure the quality and accuracy of the report. 
 
 
-<h2  id="appendices" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Appendices</h2>
+<h2  id="appendices" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Appendices</h2>
 
 
 
@@ -1745,7 +1745,7 @@ We thank the external reviewers and others who helped to ensure the quality and 
 
 
 
-<h2  id="endnote" class="text-3xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">ENDNOTES</h2>
+<h2  id="endnote" class="text-xl font-extrabold py-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">ENDNOTES</h2>
 
 [^1]: A note on terminology: In this report, when we refer to the region, we use “East Turkestan,” and when we refer to the people, we use “Uyghurs.”
 [^2]: A note on terminology: In this report, people who came out in San Francisco to “welcome” Xi Jinping are referred to as “CCP supporters,” and people who came out to protest against Xi Jinping and the Chinese Communist Party are referred to as “protesters.” The People’s Republic of China is referred to as the PRC. The ruling power of the PRC is referred to as the Chinese Communist Party or CCP for short. United Front entities that are formally a part of the CCP structure within the PRC are referred to with initial capitals (United Front), while overseas groups that are associated with such entities but are not formally part of any CCP structures are referred to with lowercase initial letters (united front groups).

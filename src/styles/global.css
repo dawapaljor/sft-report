@@ -74,7 +74,11 @@ table th{background:#FCD34D;
    }
    @layer base {
       p{
-         @apply py-3
+         @apply py-3;
+         @apply text-slate-700;
+      }
+      li{
+         @apply text-slate-700;
       }
       h1 {
         @apply mt-8 text-3xl;
@@ -84,11 +88,7 @@ table th{background:#FCD34D;
          @apply font-bold;
          @apply pt-5;
       }
-      h3 {
-         @apply text-2xl;
-         @apply font-bold;
-         @apply pt-5;
-      }
+      
       h4 {
          @apply text-xl;
          @apply font-bold;
@@ -116,6 +116,12 @@ table th{background:#FCD34D;
       }
       figure{
          @apply mx-auto;
+      }
+      h3 {
+         @apply text-2xl;
+         @apply font-bold;
+         @apply pt-5;
+        
       }
     }
     
