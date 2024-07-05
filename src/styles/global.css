@@ -1,7 +1,8 @@
 
-@tailwind base;
+
 @tailwind components;
 @tailwind utilities;
+@tailwind base;
    /*
     ul li {
         list-style-type: disc;
@@ -82,7 +83,7 @@ table th{background:#FCD34D;
          @apply pt-5;
       }
       h3 {
-         @apply text-xl;
+         @apply text-2xl;
          @apply font-bold;
          @apply pt-5;
       }
@@ -94,12 +95,12 @@ table th{background:#FCD34D;
       ul{
          @apply py-5;
          @apply pl-5;
-         @apply list-disc
+         @apply list-discl
       }
       ol{
          @apply py-5;
          @apply pl-5;
-         @apply list-decimal	
+         @apply list-decimal;	
       }
       .report img{
          @apply p-3;
