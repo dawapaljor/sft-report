@@ -597,7 +597,7 @@ Only when arriving in downtown San Francisco, at Market and Third Streets, did t
 
 While the march was taking place, Chinese activist Wang Wei (王維) was assaulted near the St. Regis Hotel at about 11 a.m.<sup>[^109]</sup> Like Jia Junwei the day before, Wang was not accompanied by other protesters, and his isolation appears to have emboldened his attackers. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548915/YDROo1qaM0k95Mqx_1_uykmwm.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video>  [^109]
+ <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548915/YDROo1qaM0k95Mqx_1_uykmwm.mp4"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video>  [^110]
 
 Wang Wei testified that he noticed some CCP supporters and started taking videos of them because he feared attack and thought filming them might act as a deterrent or at least provide evidence in case of attack. He wore a “Free China” sticker on his arm and believed this excited their animosity. He and they exchanged sharp words. Then the CCP supporters began attacking him. There were some middle-aged men and a woman wearing a blue cheongsam. She shoved Wang three times. He warned the group that if he was pushed again, he would take action. After another shove, he stuck out a leg, and the men surrounded him and started beating him. They pushed him to the ground. The attackers then surrounded him with their large PRC flags and continued to strike him. One of them stabbed him with the tip of a metal flagpole. Still lying prostrate on the ground and realizing he was all alone, Wang grabbed the leg of a person who tried to kick him. After he grabbed the leg, others began kicking him as well, and continued to punch him. Wang became disoriented and felt as if he were going to faint. Only later did he learn that he was able to escape due to two white women who broke things up. They placed themselves between Wang and his assailants. They asked him if he was okay and helped him to call the police. Later, an ambulance came and took Wang to the hospital, where he received treatment. He and friends had originally planned to return to Los Angeles, where he lives, that evening, but then discovered that one of the tires of his car had been punctured by two large screws. He didn’t know whether or not this was done deliberately. 
 
@@ -992,13 +992,13 @@ After the protest ended, some of the protesters who left the designated protest 
 
 A number of the stalkers are clearly recognizable from the photos and videos of the attack in the designated protest zone.  Because of the harassment and attacks at the Hyatt Regency, the Tibetan protesters had heightened their vigilance, and this group of protesters had made arrangements to chaperone some in the group to the subway and others to a van waiting to pick them up. The CCP supporters smirked and laughed at the protesters as they followed them. 
 
-<div>
+<div class="grid  sm:grid-cols-2 md: md:grid-cols-3 lg:grid-cols-3  gap-1">
 
 <img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-05-at-12.44.53 PM.png" alt="Screen Shot 2024-03-05 at 12.44.53 PM" >
 <img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-05-at-12.45.10-PM.png" alt="Screen Shot 2024-03-05 at 12.45.10 PM" >
 <img class="img-sm mx-auto" src="/images/Screen-Shot-2024-03-05-at-12.46.57-PM.png" alt="Screen Shot 2024-03-05 at 12.46.57 PM" >
 
-<p class="text-xs text-gray-500 dark:text-gray-400 px-4">Stills from the above video</p>
+<p class="text-xs text-gray-500 dark:text-gray-400 px-4 sm:col-span-2 md:col-span-3 lg:col-span-3 text-center">Stills from the above video</p>
 </div>
 
 At one point, Chemi Lhamo told a bystander they were being followed, hoping that the bystander might assist them.
