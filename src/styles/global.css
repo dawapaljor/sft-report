@@ -71,6 +71,8 @@ table th{background:#FCD34D;
 }
  h3 {
       font-size: 1.5em;
+      font-weight: 800;
+      color:green;
    }
    @layer base {
       p{
@@ -117,11 +119,6 @@ table th{background:#FCD34D;
       figure{
          @apply mx-auto;
       }
-      h3 {
-         @apply text-2xl;
-         @apply font-bold;
-         @apply pt-5;
-        
-      }
+      
     }
     
