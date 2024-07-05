@@ -89,6 +89,7 @@ table th{background:#FCD34D;
       .report h3{
          @apply text-2xl;
          @apply font-bold;
+         @apply pt-5;
       }
       h4 {
          @apply text-xl;
