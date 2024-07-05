@@ -1703,7 +1703,53 @@ We thank the external reviewers and others who helped to ensure the quality and 
 
 **(Other incidents of harassment, intimidation, and assault occurred near the San Francisco International Airport, which lies outside of the city and is not included in the map below.)**
 
-**INSERT MAP HERE**
+<div class="p-10 grid sm:grid-cols-1 lg:grid-cols-3 gap-5 ">
+        <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_002.jpeg" alt="Img 1" id="img1" />
+        <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_002.jpeg" alt="Img 2" id="img2" />
+        <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_002.jpeg" alt="Img 3" id="img3" />
+    </div>
+        <!-- The Modal -->
+    <div id="modal"
+         class="hidden fixed top-0 left-0 z-80 
+                w-screen h-screen bg-black/70 flex 
+                justify-center items-center">
+        <!-- The close button -->
+        <a class="fixed z-90 top-6 sm:top-6 right-8 sm:right-20 
+                  text-white text-5xl font-bold" 
+           href="javascript:void(0)"
+           onclick="closeModal()">
+              ×
+          </a>
+        <!-- A big image will be displayed here -->
+        <img id="modal-img"
+             class="max-w-[80%] max-h-auto object-cover"/>
+    </div>
+     <script>
+          // Get all the img elements in the grid
+        var images = document.querySelectorAll('.grid img');
+        // Loop through each img element
+        images.forEach(function (img) {    
+          // Add a click event listener to each img element
+            img.addEventListener('click', function () {
+                showModal(img.src);
+            });
+        });
+        // Get the modal by id
+        var modal = document.getElementById("modal");
+        // Get the modal image tag
+        var modalImg = document.getElementById("modal-img");
+        // This function is called when a small image is clicked
+        function showModal(src) {
+            modal.classList.remove('hidden');
+            modalImg.src = src;
+        }
+        // This function is called when the close button is clicked
+        function closeModal() {
+            modal.classList.add('hidden');
+        }
+    </script>
+
+
 
 ### Appendix 3:
 
