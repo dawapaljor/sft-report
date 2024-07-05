@@ -86,7 +86,7 @@ The CCP puts enormous effort and resources into exerting influence and control o
 
 These efforts to control diaspora communities are closely tied to the CCP concept of the “united front” (統一戰線), the idea that the cultivation of support of and loyalty to the Party at home and abroad is central to maintaining the CCP’s power. To that end, the CCP employs both a set of directly-controlled party organs and a larger number of loosely linked overseas groups to carry out its united front strategy. In practice, the term “united front work” (統戰工作) is used rather elastically and can refer to activities carried out by both official agencies and informally associated overseas groups.<sup>[^3]</sup>
 
-#### United Front: Main Organs and Overseas Affiliates
+### United Front: Main Organs and Overseas Affiliates
 
 Though these types of organizations are often grouped together as part of a loosely-defined “CCP United Front,” this report takes care to differentiate between the two:
 

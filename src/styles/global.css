@@ -69,11 +69,7 @@ table tr:nth-child(even){
 table th{background:#FCD34D;
    padding: 10px
 }
- h3 {
-      font-size: 1.5em;
-      font-weight: 800;
-      color:green;
-   }
+
    @layer base {
       p{
          @apply py-3;
@@ -86,11 +82,14 @@ table th{background:#FCD34D;
         @apply mt-8 text-3xl;
       }
       h2 {
-         @apply text-2xl;
+         @apply text-3xl;
          @apply font-bold;
          @apply pt-5;
       }
-      
+      .report h3{
+         @apply text-2xl;
+         @apply font-bold;
+      }
       h4 {
          @apply text-xl;
          @apply font-bold;
@@ -119,6 +118,5 @@ table th{background:#FCD34D;
       figure{
          @apply mx-auto;
       }
-      
     }
     
