@@ -76,10 +76,10 @@ video+sup{
    @layer base {
       p{
          @apply py-3;
-         @apply text-slate-700;
+         @apply text-slate-600;
       }
       li{
-         @apply text-slate-700;
+         @apply text-slate-600;
       }
       h1 {
         @apply mt-8 text-3xl;
@@ -111,6 +111,7 @@ video+sup{
       }
       .report img{
          @apply p-1;
+         @apply max-w-96;
          @apply rounded-sm;
          @apply mx-auto;
          @apply shadow-sm;
@@ -122,5 +123,10 @@ video+sup{
       figure{
          @apply mx-auto;
       }
+      .grid-cols-2 img{
+         @apply w-full;
+
+      }
+      
     }
     

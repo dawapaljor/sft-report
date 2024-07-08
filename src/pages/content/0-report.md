@@ -456,7 +456,7 @@ It seems that, like Jing Dongsheng, both of these men are from the Portland, Ore
 
 The other scouts in Ma Yongtian’s video are the men dressed in similar black tracksuits. 
 
-<div class="grid  sm:grid-cols-1 lg:grid-cols-2">
+<div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-0">
 <img src="/images/Screen-Shot-2024-02-08-at-11.24.09-AM.png" alt="Screen Shot 2024-02-08 at 11.24.09 AM" />
 <img  src="/images/Screen-Shot-2024-02-08-at-11.21.23-AM.png" alt="Screen Shot 2024-02-08 at 11.21.23 AM"/>
 </div>
@@ -646,7 +646,7 @@ Lastly, a fourth united front leader involved in the assault on Wang Wei is Chen
 
 
 Bald-headed Chen was, according to protesters, probably the most ubiquitous and easily recognizable united front figure on the streets of San Francisco during Xi Jinping’s visit. He seemed to show up just about everywhere that protesters went. Chen was seen by protesters at the scenes of five incidents of harassment, intimidation, and assault in San Francisco during Xi Jinping’s visit.
-<div class="grid grid-cols-2 py-5">
+<div class="grid grid-cols-1 sm:grid-cols-1 py-5">
 <figure class="max-w-lg">
   <img class="h-auto max-w-full object-cover" src="/images/Screen-Shot-2024-02-02-at-2.02.18-PM.png" alt="CACWA in parking garage">
   <figcaption class="mt-2 text-xs  text-gray-500 dark:text-gray-400 px-4">At flagpole in front of Hyatt Regency, November 15</figcaption>
@@ -804,8 +804,10 @@ Tsela was still up the flagpole, about 25 to 30 feet in the air, when four Tibet
 
 Only minutes after unfurling the banner, protesters suddenly felt a violent tug on it from below. Because of the size and weight of the banner, it had special straps through which to put one's hands in order to hold it up. The sudden violence of the tug was such that it lifted three of the four protesters off the ground. Because they had their hands through the straps, they could not immediately let go of the banner, and one of them was lifted off of the ground and almost pulled over the side of the building, which most likely would have resulted in a fatal fall. His hands were lacerated in the incident.
 
+<div class="grid sm:grid-cols-2 lg:grid-cols-2">
 <img src="/images/signal-2024-04-05-124419_003.jpeg" alt="signal-2024-04-05-124419_003.jpeg" class="img-sm mx-auto">
 <img src="/images/signal-2024-04-05-124419_002.jpeg" alt="signal-2024-04-05-124419_002.jpeg" class="img-sm mx-auto">
+</div>
 
 Later, when he had the opportunity to confront his attackers, he shouted at them, "I almost died because of you.” For the sake of safety, the protesters extracted their hands from the banner straps and let it fall. Then they went downstairs to look for it. They found it lying on a lower floor and tried to unfurl it again. As they did, they were attacked by about 15 masked men. The attackers ripped the banner out of the protesters’ hands and ran away. The protesters ran after them and took a video.<sup>[^160]</sup> The video begins the moment after the attackers ripped the banner from the protesters’ hands and shows them running to the elevator in the parking garage. 
 
@@ -1009,7 +1011,7 @@ The bystander did not initially appear to be part of the group of stalkers nor d
 
 The protesters reported the stalking to two police officers who were standing on the street. 
 
-<div class="grid grid-cols-2">
+<div class="grid sm:grid-cols-1 lg:grid-cols-2">
 <img class="" src="/images/Screen-Shot-2024-03-05-at-12.51.08-PM.png" alt="Screen Shot 2024-03-05 at 12.51.08 PM" >
 <img class="" src="/images/Screen-Shot-2024-03-05-at-12.53.02-PM.png" alt="Screen Shot 2024-03-05 at 12.53.02 PM" >
 
@@ -1034,7 +1036,7 @@ Chow says that, throughout the incident, he tried his best to protect his head a
 
 The man who pushed Chow to the ground has been identified as Yu Yingqiang (余穎強; in English, he appears to go by Wing Yu). 
 
-<div class="grid grid-cols-2">
+<div class="grid  sm:grid-cols-1 lg:grid-cols-2">
 <img class="" src="/images/Wing-Yu-attacks-Chow-Bo-video-still-2.png" alt="Wing Yu attacks Chow Bo video still 2" >
 <img class="" src="/images/Wing-Yu-attacks-Chow-Bo-video-still.png" alt="Wing Yu attacks Chow Bo video still" >
 
