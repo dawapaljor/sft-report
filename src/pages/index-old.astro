@@ -3,7 +3,6 @@ import Layout from '../layouts/Layout.astro';
 import '../styles/global.css';
 import Sidebar from '../components/Sidebar.astro';
 import StickyNavBottom from '../components/StickyNavBottom.astro';
-import SidebarDrawer from '../components/SidebarDrawer.astro';
 
 const allNewsPosts = await Astro.glob(`./content/*.md`)
 const newsPosts = allNewsPosts.map(n => ({
@@ -14,8 +13,8 @@ const newsPosts = allNewsPosts.map(n => ({
 ---
 
   <Layout title="SFT Report">
-  <div class="mx-auto max-w-screen-8xl md:grid sm:grid-cols-1 w-full md:w-1/2 lg:w-1/2">
-     <SidebarDrawer/>
+  <div class="mx-auto max-w-screen-8xl md:grid sm:grid-cols-1 lg:grid-cols-12">
+     <Sidebar/>
      <StickyNavBottom/>
     <div class="report pb-8   p-5   sm:col-span-1 lg:col-span-9  ">
       {

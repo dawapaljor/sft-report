@@ -1692,8 +1692,8 @@ We thank the external reviewers and others who helped to ensure the quality and 
 
 <div class="p-10 grid sm:grid-cols-1 lg:grid-cols-3 gap-5 ">
         <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_002.jpeg" alt="Img 1" id="img1" />
-        <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_002.jpeg" alt="Img 2" id="img2" />
-        <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_002.jpeg" alt="Img 3" id="img3" />
+        <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_003.jpeg" alt="Img 2" id="img2" />
+        <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_004.jpeg" alt="Img 3" id="img3" />
     </div>
         <!-- The Modal -->
     <div id="modal"
