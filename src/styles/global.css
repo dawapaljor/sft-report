@@ -134,6 +134,9 @@ video+sup{
       footer .grid-cols-2 img {
          @apply w-40;
       }
+      #modal-img {
+         @apply max-w-[60%] lg:max-w-[60%] md:max-w-[60%];
+      }
       
     }
     

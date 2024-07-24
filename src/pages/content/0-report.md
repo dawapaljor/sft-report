@@ -7,19 +7,20 @@ order: 1
 
 
 <h2  id="foreword" class="text-3xl font-extrabold pt-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">Foreword</h2>
+On November 15, 2012, Xi Jinping stood before thousands of members of the Chinese Communist Party in his first public speech as the leader of the unfree world. He vowed to fulfill one ultimate goal: the “great revival of the Chinese nation.” During the 11 years between the day Xi gave that speech and the day he attended the dinner hosted by US-China Business Council and National Committee on US-China Relations in San Francisco on November 15th, 2023, Xi’s repressive, hardline policies have changed China beyond recognition, for the worse.
 
-On November 15, 2012, Xi Jinping stood before thousands of members of the Chinese Communist Party in his first public speech as the leader of the unfree world. He vowed to fulfill one ultimate goal: the “great revival of the Chinese nation.” During the 11 years between the day Xi gave that speech and the day he attended the US-China Business Council Dinner in San Francisco on November 15th, 2024, Xi’s repressive, hardline policies have changed China beyond recognition, for the worse.
+Under Xi’s reign of terror, the National Security Law imposed by the CCP in 2020 has eradicated any semblance of democracy in Hong Kong. Thousands of bright student leaders, brave youth activists, opposition politicians, and journalists have been arrested. As of May 31, 2024, Hong Kong Democracy Council’s database had documented 1,875 political prisoners in Hong Kong. In occupied Tibet, a vast system of colonial boarding schools has separated over 80 percent of Tibetan students from their parents. Along with other extreme attacks on Tibetan identity, these policies threaten the very continuation of Tibet’s language, culture, and way of life.
 
-Under Xi’s reign of terror, in Hong Kong, the National Security Law has eradicated any remaining semblance of democracy, arresting thousands of bright student leaders, brave youth activists, opposition politicians, and journalists. As of May 31, 2024, Hong Kong Democracy Council had documented 1,866 political prisoners in Hong Kong. In occupied Tibet, a vast system of colonial boarding schools has separated over 80 percent of Tibetan students from their parents. Along with other extreme attacks on Tibetan identity, these policies threaten the very continuation of Tibet’s language, culture, and way of life.
+But the CCP has shown that its ambitions extend much further: over the past decade, China has invested great effort in strengthening its long arm of control through tactics of transnational repression. In November 2023, on the streets of San Francisco, this transnational repression took the form of alarming cases of physical violence and harassment by organizations and individuals affiliated with the Chinese government, aimed at intimidating and discouraging activists from confronting Xi during his visit. Countries around the world have identified China’s transnational repression as a direct threat to freedom everywhere, yet there remains a significant gap between rhetoric and action. This report by Hong Kong Democracy Council and Students for a Free Tibet emphasizes the urgency of enacting meaningful measures against transnational repression. Each case outlined in this report represents a brazen attempt by the Chinese government to stamp out dissent in broad daylight on American soil. 
 
-But the CCP has shown that its ambitions extend much further: over the past decade, China has invested billions of dollars towards strengthening its long arm of control through tactics of transnational repression. In November 2023, on the streets of San Francisco, this transnational repression took the form of alarming cases of physical violence and online harassment by organizations and individuals affiliated with the Chinese government, aimed at intimidating and discouraging activists from confronting Xi during his visit. Countries around the world have identified China’s transnational repression as a direct threat to freedom everywhere, yet there remains an expansive gap between rhetoric and action. This report by the Hong Kong Democracy Council and Students for a Free Tibet shines a light on the importance and urgency of enacting meaningful measures against transnational repression. Each case outlined in this report represents a brazen attempt by the Chinese government to silence the truth and stamp out dissent in broad daylight on American soil. 
+As masked thugs with metal poles openly roamed the streets of San Francisco, Tibetans, Hong Kongers, Uyghurs, and Chinese democracy activists, some as young as 16 years old, were often left to fend for themselves. Rather than hopelessness, though, what we witnessed was the sheer grit and resilience of our communities: a determination by activists and human rights defenders to exercise our right to free speech and peaceful protest. We saw young people using creative tactics to outsmart one of the world’s best resourced authoritarian governments, while documenting everything along the way. Activists used mass group chats and buddy systems, Hong Kongers shared useful tips gleaned from their dark experiences protesting in the streets of Hong Kong, and Tibetans spread their resilient sense of community developed through decades of organizing in exile. 
 
-As masked thugs with metal poles openly roamed the streets of San Francisco, Tibetan and Hong Konger youth, some as young as 15 or 16 years old, were often left to fend for themselves. Rather than hopelessness, though, what we witnessed on the streets of San Francisco was the sheer grit and resilience of our communities: a determination by activists and human rights defenders to exercise our right to free speech and peaceful protest. We saw young people using creative tactics to outsmart one of the world’s best resourced authoritarian governments, while documenting everything along the way. Activists used mass group chats and buddy systems, Hong Kongers shared useful tips gleaned from their dark experiences protesting in the streets of Hong Kong, and Tibetans spread their resilient sense of community developed through decades of organizing in exile. 
+During the 11 years since Xi took power, while he has relentlessly chipped away at any remaining spaces to advance democracy and freedom, community organizers and youth activists fighting against China’s colonial rule have learned one crucial lesson: we can stand together, or perish alone. In our shared struggle, we bring our cross-movement spirit from the streets of San Francisco to this report. Hong Kong Democracy Council and Students for a Free Tibet jointly publish “Exporting Repression: Attacks on Protesters During Xi Jinping’s Visit to San Francisco in November 2023.”
 
-During the 11 years since Xi took power, while he has relentlessly chipped away at any remaining spaces to advance democracy and freedom, community organizers and youth activists fighting against China’s colonial rule have learned one crucial lesson: we can stand together, or perish alone. Amidst our shared struggle, we bring our cross-movement spirit from marching the streets of San Francisco to launching this first-of-its-kind documentation: the Hong Kong Democracy Council and Students for a Free Tibet are humbled to jointly publish “Welcoming Xi: Chinese Communist Party Transnational Repression on the Streets of San Francisco.” 
 
-Anna Kwok and Pema Doma, 2nd June 2024
 
+HKDC Executive Director Anna Kwok and SFT Executive Director Pema Doma  
+July 30, 2024
 &nbsp;
 
 ---
@@ -1691,9 +1692,9 @@ We thank the external reviewers and others who helped to ensure the quality and 
 **(Other incidents of harassment, intimidation, and assault occurred near the San Francisco International Airport, which lies outside of the city and is not included in the map below.)**
 
 <div class="p-10 grid sm:grid-cols-1 lg:grid-cols-3 gap-5 ">
-        <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_002.jpeg" alt="Img 1" id="img1" />
-        <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_003.jpeg" alt="Img 2" id="img2" />
-        <img class="w-full h-full object-cover cursor-pointer" src="/images/signal-2024-07-05-111300_004.jpeg" alt="Img 3" id="img3" />
+        <img class="w-full h-full object-cover cursor-pointer" src="/images/Airport.jpg" alt="Img 1" id="img1" />
+        <img class="w-full h-full object-cover cursor-pointer" src="/images/Hyatt-Regency.jpg" alt="Img 2" id="img2" />
+        <img class="w-full h-full object-cover cursor-pointer" src="/images/Moscone-Center.jpg" alt="Img 3" id="img3" />
     </div>
         <!-- The Modal -->
     <div id="modal"
@@ -1709,7 +1710,7 @@ We thank the external reviewers and others who helped to ensure the quality and 
           </a>
         <!-- A big image will be displayed here -->
         <img id="modal-img"
-             class="lg:max-w-[60%] sm:max-w-[90%] max-h-auto object-cover"/>
+             class=" max-w-[80%] lg:max-w-[80%] md:max-w-[80%] max-h-auto object-cover"/>
     </div>
      <script>
           // Get all the img elements in the grid
