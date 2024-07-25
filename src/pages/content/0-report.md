@@ -875,7 +875,9 @@ The next attack occurred later that evening, between 7:30 and 8 p.m. Its target 
 
 One of the attackers can be seen in this video holding at least five poles. This same man was seen later with only one pole. Later, some other CCP supporters around the area also had poles with them. 
 
- <video src="https://res.cloudinary.com/dpfake54t/video/upload/v1719548907/IMG_0260_v8dzbu.mov"  controls class="sm:w-full lg:w-1/2 h-80 " allow="autoplay"></video> 
+ 
+
+<iframe class="sm:w-full lg:w-1/2 h-80 " width="560" height="315" src="https://www.youtube.com/embed/PDw2SgOgiOc?si=Jh5Tsqihs1x8A0Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figure class="">
   <img class="h-auto img-sm rounded-lg" src="/images/flagpole-weapons-at-Hyatt-Regency-15nov23-copy.jpeg" alt="CACWA in parking garage">
