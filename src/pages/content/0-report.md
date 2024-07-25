@@ -877,7 +877,7 @@ One of the attackers can be seen in this video holding at least five poles. This
 
  
 
-<iframe class="sm:w-full lg:w-1/2 h-80 " width="560" height="315" src="https://www.youtube.com/embed/PDw2SgOgiOc?si=Jh5Tsqihs1x8A0Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="sm:w-full lg:w-3/4 h-80 "  src="https://www.youtube.com/embed/PDw2SgOgiOc?si=Jh5Tsqihs1x8A0Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <figure class="">
   <img class="h-auto img-sm rounded-lg" src="/images/flagpole-weapons-at-Hyatt-Regency-15nov23-copy.jpeg" alt="CACWA in parking garage">
