@@ -78,7 +78,7 @@ The protesters were from different backgrounds. Most have their origins in China
 At the center of the report is a detailed, chronological narrative of the attacks perpetrated by CCP supporters on protesters while Xi Jinping visited San Francisco. Preceding that are brief sections on the CCP and its overseas united front and on the US government’s prioritization of countering TNR in general and CCP TNR specifically. Following the chronological narrative are sections on responses and reactions to the attacks in San Francisco, analysis, and recommendations.
 
 
-<h2  id="overseasunitedfront" class="text-2xl font-extrabold pt-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">The CCP and Its Overseas united front</h2>
+<h2  id="overseasunitedfront" class="text-2xl font-extrabold pt-10 underline decoration-amber-300 underline-offset-8 decoration-8 ">The CCP and Its Overseas United Front</h2>
 
 
 In order to understand the transnational repression that took place in San Francisco, it is important to understand the network of organizations that enabled the repression and appeared to coordinate in organizing it.
