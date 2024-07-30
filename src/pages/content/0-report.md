@@ -87,7 +87,7 @@ The CCP puts enormous effort and resources into exerting influence and control o
 
 These efforts to control diaspora communities are closely tied to the CCP concept of the “united front” (統一戰線), the idea that the cultivation of support of and loyalty to the Party at home and abroad is central to maintaining the CCP’s power. To that end, the CCP employs both a set of directly-controlled party organs and a larger number of loosely linked overseas groups to carry out its united front strategy. In practice, the term “united front work” (統戰工作) is used rather elastically and can refer to activities carried out by both official agencies and informally associated overseas groups.<sup>[^3]</sup>
 
-### united front: Main Organs and Overseas Affiliates
+### United Front: Main Organs and Overseas Affiliates
 
 Though these types of organizations are often grouped together as part of a loosely-defined “CCP united front,” this report takes care to differentiate between the two:
 
@@ -107,7 +107,7 @@ These groups also often seek to cultivate relations with politicians and officia
 
 Additionally, many Chinese-language media outlets which are widely read in diaspora communities are nowadays controlled or influenced to one extent or another by the CCP or by businesses and interests loyal to the CCP.<sup>[^7]</sup>  As such, they too may be considered part of a broader united front strategy. Much of the information about united front groups found in this report comes from pro-CCP Chinese-language diaspora media.
 
-### united front: Understanding its Goals through the 1989 Tiananmen Massacre, 2008 Beijing Olympics, and 2019 Hong Kong Pro-Democracy Protests
+### United Front: Understanding its Goals through the 1989 Tiananmen Massacre, 2008 Beijing Olympics, and 2019 Hong Kong Pro-Democracy Protests
 
 While CCP efforts to cultivate the loyalty of overseas Chinese to the regime date back to the founding of the PRC in 1949 and even before, the current objectives of CCP united front work are multifaceted. The development of these new objectives can be traced to the 1989 Tiananmen Massacre, which marked a turning point in CCP relations with the diaspora. 
 
